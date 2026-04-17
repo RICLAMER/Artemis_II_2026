@@ -1,0 +1,98 @@
+03/04/2026 - 19:35:45 (-3 TMZ) | 02:00:00:45 (Artemis Clock)
+Integridad, ejercicio completado. Gracias.
+
+03/04/2026 - 19:35:56 (-3 TMZ) | 02:00:00:56 (Artemis Clock)
+Gracias, Integridad, recibido.
+
+03/04/2026 - 19:41:12 (-3 TMZ) | 02:00:06:12 (Artemis Clock)
+Houston, Integridad, lecturas ETA cuando estén listos.
+
+03/04/2026 - 19:41:17 (-3 TMZ) | 02:00:06:17 (Artemis Clock)
+Muy bien, las recibimos.
+
+03/04/2026 - 19:41:34 (-3 TMZ) | 02:00:06:34 (Artemis Clock)
+O2 20.1, temperatura 75.7.
+
+03/04/2026 - 19:41:57 (-3 TMZ) | 02:00:06:57 (Artemis Clock)
+Recibido todo, y creemos haber copiado CO2 1.0, solo queremos confirmar. 1.0, correcto.
+
+03/04/2026 - 19:42:07 (-3 TMZ) | 02:00:07:07 (Artemis Clock)
+Bien, gracias.
+
+03/04/2026 - 19:42:30 (-3 TMZ) | 02:00:07:30 (Artemis Clock)
+De nada. Y una pregunta: ¿siempre quieren que informemos estas lecturas por voz, o basta con las crew notes? Nuestra preferencia es que las informen por voz; eso nos ayuda a mantenernos sincronizados con ustedes en tiempo real.
+
+03/04/2026 - 19:42:35 (-3 TMZ) | 02:00:07:35 (Artemis Clock)
+Recibido.
+
+03/04/2026 - 19:54:58 (-3 TMZ) | 02:00:19:58 (Artemis Clock)
+Integridad Houston, solo verificando si ahora sería un buen momento para realizar un vaciado de aguas residuales.
+
+03/04/2026 - 19:55:20 (-3 TMZ) | 02:00:20:20 (Artemis Clock)
+Houston, Integridad, necesitamos unos minutos. Los llamaremos cuando sea un buen momento. Recibido, suena bien. Esperaremos su llamada.
+
+03/04/2026 - 19:58:45 (-3 TMZ) | 02:00:23:45 (Artemis Clock)
+Houston, Integridad, están go para Blizzard.
+
+03/04/2026 - 19:58:51 (-3 TMZ) | 02:00:23:51 (Artemis Clock)
+Recibido, go para Blizzard.
+
+03/04/2026 - 19:59:47 (-3 TMZ) | 02:00:24:47 (Artemis Clock)
+Christina, ya que te tengo a ti y a la tripulación, tengo información sobre una replanificación para la tarde. No debería requerir demasiado ida y vuelta, pero avísame. Primero, no tenemos otros estados del vehículo aparte de los que ya les dijimos, así que, a menos que tengan preguntas para nosotros, íbamos a cancelar la conferencia de director de vuelo y tripulación que está en 10 minutos. También vamos a hacer una pequeña replanificación con ustedes para gestionar la tarde después de la comida del mediodía. Básicamente, después del evento PAO, nos gustaría darles un poco más de tiempo para ejercicio y desplazar un poco hacia la derecha ese S-band sat mode DFTL.
+
+03/04/2026 - 20:00:03 (-3 TMZ) | 02:00:25:03 (Artemis Clock)
+Y luego ejercicio después de eso; esto significa que tendrán que gestionar entre ustedes parte de esa cabin config previa al sobrevuelo lunar y otras actividades, pero esto debería permitirnos incluir todo el ejercicio y tener suficiente tiempo después del PKI.
+
+03/04/2026 - 20:00:19 (-3 TMZ) | 02:00:25:19 (Artemis Clock)
+evento para ese S-band sat mode DFEO. El DSN EMERCOM DFEO debe permanecer donde está porque hay algunas maniobras del vehículo que tienen que ocurrir con eso.
+
+03/04/2026 - 20:00:47 (-3 TMZ) | 02:00:25:47 (Artemis Clock)
+Hola Chris, solo déjame asegurarme. ¿Estás diciendo que podemos posponer el S-Band SAT Mode DFTO pero hacer el DSN EMERCOM a tiempo?
+
+03/04/2026 - 20:01:14 (-3 TMZ) | 02:00:26:14 (Artemis Clock)
+Y Chris, si eso te ayuda, Victor y yo ya hemos hecho ejercicio, así que él estaría más que feliz de hacer el S-band SAT mode DFTO a tiempo.
+
+03/04/2026 - 20:01:32 (-3 TMZ) | 02:00:26:32 (Artemis Clock)
+Gracias, Reed. Solo estoy hablando aquí abajo con el equipo para asegurarme de darles las palabras correctas. Nos gustaría que ese S-band sat mode DFO se desplace treinta minutos a la derecha por una configuración en tierra, pero el EMCOM DFO se quedará donde está.
+
+03/04/2026 - 20:01:42 (-3 TMZ) | 02:00:26:42 (Artemis Clock)
+Bien, eso suena bien. Ike estará listo, eh, treinta...
+
+03/04/2026 - 20:02:16 (-3 TMZ) | 02:00:27:16 (Artemis Clock)
+tarde para el S-band sat mode, pero si también pudieran avisarnos cuando su comando termine y estén listos para esa actividad, eso nos ayudaría. - Absolutamente. Wilco. La otra cosa que queremos recordarles es que durante su comida del mediodía tenemos aproximadamente una hora de LOS del DSN forward, pero durante la mayor parte de ese tiempo tenemos retorno. Y más o menos a mitad de su periodo de comida del mediodía, notarán que hay, como mencioné, buenas posiciones de observación de la Tierra y la Luna. También es aproximadamente cuando pasarán cerca del punto medio entre
+
+03/04/2026 - 20:02:26 (-3 TMZ) | 02:00:27:26 (Artemis Clock)
+la Tierra y la Luna, y pueden consultar su altitud en el PFC para ese punto medio.
+
+03/04/2026 - 20:02:38 (-3 TMZ) | 02:00:27:38 (Artemis Clock)
+Sí, es una locura que estemos viendo 105,205 millas y siga subiendo bastante rápido. Gracias por todo eso, Chris.
+
+03/04/2026 - 20:02:42 (-3 TMZ) | 02:00:27:42 (Artemis Clock)
+Excelente, muchas gracias a todos, y disfruten su almuerzo.
+
+03/04/2026 - 20:10:32 (-3 TMZ) | 02:00:35:32 (Artemis Clock)
+Integridad Houston, perdón por interrumpir su almuerzo, pero tenemos una solicitud de comando antes de la demostración CPR durante el LOS forward. Avísenme cuando estén listos.
+
+03/04/2026 - 20:10:56 (-3 TMZ) | 02:00:35:56 (Artemis Clock)
+Adelante, Chris.
+
+03/04/2026 - 20:11:25 (-3 TMZ) | 02:00:36:25 (Artemis Clock)
+Muy bien, como van a comenzar la actividad de demostración CPR mientras estemos en ese LOS, primero nos gustaría que confirmaran que estamos en coast default 4100, y luego por favor pongan los cuatro SLOs en Safe Harbor A, y después comiencen la demostración CPR. ¿Cómo copian?
+
+03/04/2026 - 20:11:58 (-3 TMZ) | 02:00:36:58 (Artemis Clock)
+Bien, Chris, antes de comenzar la demostración CPR, verificaremos Coast to Plot 4100 y daremos comando a los cuatro saws a Safe Harbor A. Buena repetición, muchas gracias.
+
+03/04/2026 - 20:14:39 (-3 TMZ) | 02:00:39:39 (Artemis Clock)
+Integridad, llamada de cortesía, sin conocer su preferencia, sí tuvimos video de Victor, el cual tenemos.
+
+03/04/2026 - 20:14:43 (-3 TMZ) | 02:00:39:43 (Artemis Clock)
+Dejó de salir por nuestro stream de PAO.
+
+03/04/2026 - 20:15:29 (-3 TMZ) | 02:00:40:29 (Artemis Clock)
+Agradecemos eso, Chris. Definitivamente no teníamos problema con que saliera al aire, pero también entendemos si quieren restringirlo. No hay problema de ninguna forma. Recibido todo. Voy a actualizar nuestra hoja de preferencias de tripulación, que ahora sigue creciendo. Gracias.
+
+03/04/2026 - 20:26:44 (-3 TMZ) | 02:00:51:44 (Artemis Clock)
+El inodoro de Integridad estará disponible durante todo el LOS.
+
+03/04/2026 - 21:03:05 (-3 TMZ) | 02:01:28:05 (Artemis Clock)
+Houston, Integridad a ciegas, estamos en 4100 coast-to-coast. Los cuatro arrays están seguros para comenzar ahora la demostración CPR.
