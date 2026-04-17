@@ -1,0 +1,11 @@
+10/04/2026 - 19:40:06 (-3 TMZ) | 09:00:05:06 (Artemis Clock) | Integrity, starfield maneuvers initiating in minute and a half.
+10/04/2026 - 19:40:10 (-3 TMZ) | 09:00:05:10 (Artemis Clock) | integrity
+10/04/2026 - 19:46:55 (-3 TMZ) | 09:00:11:55 (Artemis Clock) | Houston Integrity, we are suits dock complete.
+10/04/2026 - 19:46:58 (-3 TMZ) | 09:00:11:58 (Artemis Clock) | Houston copies.
+10/04/2026 - 19:48:30 (-3 TMZ) | 09:00:13:30 (Artemis Clock) | for status.
+10/04/2026 - 19:48:33 (-3 TMZ) | 09:00:13:33 (Artemis Clock) | Go ahead.
+10/04/2026 - 19:48:37 (-3 TMZ) | 09:00:13:37 (Artemis Clock) | C3 and 4 are connecting umbilicals. We're going to be stepping into leak check soon. One and two will be seated. Three and four will be free float, then we'll configure EPROC accordingly.
+10/04/2026 - 19:48:42 (-3 TMZ) | 09:00:13:42 (Artemis Clock) | Houston copies all?
+10/04/2026 - 19:55:39 (-3 TMZ) | 09:00:20:39 (Artemis Clock) | Houston Integrity all four seats are leak check complete.
+10/04/2026 - 19:56:01 (-3 TMZ) | 09:00:21:01 (Artemis Clock) | While you were busy, BFF outputs were enabled.
+10/04/2026 - 19:56:04 (-3 TMZ) | 09:00:21:04 (Artemis Clock) | We saw them go, enabled on board.
