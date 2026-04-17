@@ -1,0 +1,824 @@
+05/04/2026 - 20:13:42 (-3 TMZ) | 04:00:38 (Artemis Clock)
+Este es el Control de Misión Artemis. Estamos en el día cuatro y 38 minutos del vuelo de Orion en la misión Artemis II.
+
+05/04/2026 - 20:14:04 (-3 TMZ) | 04:00:39 (Artemis Clock)
+En este momento no están escuchando las comunicaciones de la tripulación; esas están limitadas al personal de Control de Misión. Estamos saliendo de la demostración auxiliar del traje y querían que la tripulación pudiera compartir de forma transparente con tierra en qué estaban trabajando durante ese tiempo.
+
+05/04/2026 - 20:14:20 (-3 TMZ) | 04:00:39 (Artemis Clock)
+En este momento, todos los visores de la tripulación están abiertos y están recorriendo los procedimientos para completar el DFTO (Demonstration Flight Test Objective).
+
+05/04/2026 - 20:33:54 (-3 TMZ) | 04:00:58 (Artemis Clock)
+Este es el Control de Misión Artemis en el Johnson Space Center en Houston, Texas. El tiempo transcurrido de misión para el vuelo Artemis 2 es de 4 días y 58 minutos. Este es el equipo Orbit 1 monitoreando todos los...
+
+05/04/2026 - 20:33:59 (-3 TMZ) | 04:00:58 (Artemis Clock)
+Sistemas a bordo de la nave Orion.
+
+05/04/2026 - 20:34:45 (-3 TMZ) | 04:00:59 (Artemis Clock)
+La tripulación a bordo de la nave está terminando el OCC suit DFTO, la prueba de demostración del traje del sistema de supervivencia de la tripulación de Orion. Durante esta prueba, la tripulación se puso los trajes y dos de ellos se sentaron en sus asientos. Esta es la primera vez que la tripulación se pone los trajes en microgravedad, y también presurizamos sus trajes. Integridad, Houston, sí tenemos algunas palabras de panorama general para darles, y vemos que estamos acercándonos a un LOS más largo aquí, así que por favor llámenos cuando sea un buen momento para pasarles esas palabras.
+
+05/04/2026 - 20:35:20 (-3 TMZ) | 04:01:00 (Artemis Clock)
+Bien, estamos justo saliendo de los trajes, así que adelante ahora. Ahora es un buen momento. Bien, voy a repasar esta lista con ustedes. Hemos apagado la camcap3 porque sospechamos que estaban quitándose los trajes. Tampoco tenemos la cámara HHP. Queríamos informarles que, en nuestra última comprobación, seguía conectada al codificador, pero parece que fue golpeada. Así que no tenemos esa imagen, y queremos que la revisen cuando estén listos, es decir, cuando terminen de quitarse los trajes. La detección automática de fugas en cabina...
+
+05/04/2026 - 20:35:58 (-3 TMZ) | 04:01:00 (Artemis Clock)
+está habilitada nuevamente y en su cronograma hemos cancelado su burn conference y nos hemos ocupado del targeting preliminar para las operaciones de quema OTC 3 desde tierra. Queremos que continúen con el quitado de trajes y el cierre de este procedimiento, y que se cuiden, especialmente alrededor de la comida del mediodía. También queremos que sepan que habrá una actividad de transferencia de datos para REED por la tarde. Se llama flywheel Excel data transfer. Eso queda aplazado por hoy.
+
+05/04/2026 - 20:36:07 (-3 TMZ) | 04:01:01 (Artemis Clock)
+Ok, copiamos todo.
+
+05/04/2026 - 20:36:46 (-3 TMZ) | 04:01:01 (Artemis Clock)
+Y Jenny, tenemos una pregunta sobre la configuración del asiento de Jeremy. ¿Puedes darnos la extensión de longitud del foot pan para la entrada?
+
+05/04/2026 - 20:37:03 (-3 TMZ) | 04:01:02 (Artemis Clock)
+Lo estamos comprobando. Lo tendré en un minuto. Ya que te tengo, quiero que sepas que pronto tendremos algunas llamadas para que ustedes realicen.
+
+05/04/2026 - 20:37:14 (-3 TMZ) | 04:01:02 (Artemis Clock)
+probablemente sobre el sit, lo que nos devolverá a una buena configuración del vehículo después del quitado de trajes. Vuelvo en un minuto con ese ajuste para el asiento de Jeremy.
+
+05/04/2026 - 20:37:25 (-3 TMZ) | 04:01:02 (Artemis Clock)
+Ok, esperaremos su llamada para los set switches.
+
+05/04/2026 - 20:37:42 (-3 TMZ) | 04:01:02 (Artemis Clock)
+Copiado, y la posición del muslo de Jeremy es cinco, y si hablas de la extensión de la pantorrilla, está completamente extendida, debe marcar seis.
+
+05/04/2026 - 20:38:04 (-3 TMZ) | 04:01:03 (Artemis Clock)
+Muy bien, Jenny, ese asiento ya quedó configurado. Gracias.
+
+05/04/2026 - 20:38:21 (-3 TMZ) | 04:01:03 (Artemis Clock)
+Por último, una más para ti, Reed: si no usaste mags hoy, nos gustaría que guardes los mags no utilizados.
+
+05/04/2026 - 20:38:37 (-3 TMZ) | 04:01:03 (Artemis Clock)
+Ok, se guardarán tres de cuatro.
+
+05/04/2026 - 20:38:42 (-3 TMZ) | 04:01:03 (Artemis Clock)
+Gracias.
+
+05/04/2026 - 20:40:51 (-3 TMZ) | 04:01:05 (Artemis Clock)
+Bien, Jenny, no sé si ya te perdimos. Solo confirma que estamos go para la línea secundaria de vaciado.
+
+05/04/2026 - 20:41:02 (-3 TMZ) | 04:01:06 (Artemis Clock)
+Seguimos con ustedes, Reed, y lo estamos verificando.
+
+05/04/2026 - 20:41:08 (-3 TMZ) | 04:01:06 (Artemis Clock)
+Y solo asegúrate de que seguimos teniendo crew choice para las operaciones del inodoro.
+
+05/04/2026 - 20:41:24 (-3 TMZ) | 04:01:06 (Artemis Clock)
+Afirmativo, el plan de la tripulación sigue go para el inodoro y estamos verificando la línea secundaria.
+
+05/04/2026 - 20:41:46 (-3 TMZ) | 04:01:06 (Artemis Clock)
+Tripulación de Integridad, están go para usar la línea secundaria para los vaciados.
+
+05/04/2026 - 20:41:52 (-3 TMZ) | 04:01:06 (Artemis Clock)
+Ok, suena bien, y reconfiguraremos el cut antes de hacerlo. Gracias.
+
+05/04/2026 - 20:41:57 (-3 TMZ) | 04:01:06 (Artemis Clock)
+Afirmativo. Gracias.
+
+05/04/2026 - 20:51:57 (-3 TMZ) | 04:01:16 (Artemis Clock)
+Tripulación de Integridad, Houston, tenemos un par de puntos para discutir con ustedes otra vez antes de este LOS.
+
+05/04/2026 - 20:52:26 (-3 TMZ) | 04:01:17 (Artemis Clock)
+Oye Christina, un par de cosas del vehículo para empezar.
+
+05/04/2026 - 20:52:37 (-3 TMZ) | 04:01:17 (Artemis Clock)
+Antes que nada, queremos que sepan que necesitamos aumentar más la velocidad del ventilador porque nuestra presión de cabina es más baja. Estamos intentando corregir eso esta tarde, pero todavía no lo hemos resuelto del todo, así que más sobre eso después.
+
+05/04/2026 - 20:53:04 (-3 TMZ) | 04:01:18 (Artemis Clock)
+También tenemos un procedimiento de tripulación que necesitaremos que ejecuten, y es el procedimiento suit/doff vehicle config, que es 22.2.102. Esto corresponde a los pasos 1 al 7 para devolver el vehículo a una buena configuración después de quitarse los trajes.
+
+05/04/2026 - 20:53:22 (-3 TMZ) | 04:01:18 (Artemis Clock)
+Necesitamos que detengan el feed de la cámara HHP, por favor. No lo vemos, pero necesitamos detenerlo por razones de ancho de banda. Queremos decirle a Reed que su PCD-1 está go para uso de correo electrónico.
+
+05/04/2026 - 20:53:32 (-3 TMZ) | 04:01:18 (Artemis Clock)
+También podemos decirles que tenemos buenos targets a bordo para OTC-3. Parece que será una quema de 10.1 pies por segundo.
+
+05/04/2026 - 20:53:43 (-3 TMZ) | 04:01:18 (Artemis Clock)
+Y finalmente, su director de vuelo estará listo para hablar con ustedes en breve para la conferencia del director de vuelo de Reid.
+
+05/04/2026 - 20:54:45 (-3 TMZ) | 04:01:19 (Artemis Clock)
+Ok, Jenny, copiado lo de la velocidad del ventilador, pero sin acción para nosotros en eso. Suit dock vehicle config, pasos 1 al 7. Detendremos el stream de la cámara HHP. Reed está go para, de hecho eso ya está completo. Reed está go para correo electrónico en SPCD1, y estaremos listos para hablar con Jeff. Entendemos que estaremos haciendo suit drying según el...
+
+05/04/2026 - 20:55:02 (-3 TMZ) | 04:01:20 (Artemis Clock)
+Afirmativo, esa es una buena repetición de todo, y estamos de acuerdo con el procedimiento SOUP. Gracias, Christina.
+
+05/04/2026 - 21:02:51 (-3 TMZ) | 04:01:27 (Artemis Clock)
+Tripulación de Integridad, estamos a un minuto de aproximadamente una hora larga de enlace hacia adelante.
+
+05/04/2026 - 21:02:56 (-3 TMZ) | 04:01:27 (Artemis Clock)
+Hola West. No se requiere respuesta.
+
+05/04/2026 - 21:59:46 (-3 TMZ) | 04:02:24 (Artemis Clock)
+Integridad Houston, después del LOS, ¿cómo nos oyen?
+
+05/04/2026 - 21:59:57 (-3 TMZ) | 04:02:24 (Artemis Clock)
+Integridad, los recibimos igual. Por favor ejecuten.
+
+05/04/2026 - 22:00:08 (-3 TMZ) | 04:02:25 (Artemis Clock)
+Procedimiento 2.1.0, sospecha de fuga en cabina. Necesitamos poner el control de presión de cabina en maintenance.
+
+05/04/2026 - 22:00:13 (-3 TMZ) | 04:02:25 (Artemis Clock)
+Esto realizará una introducción de CAP y O2.
+
+05/04/2026 - 22:00:29 (-3 TMZ) | 04:02:25 (Artemis Clock)
+Buenas palabras.
+
+05/04/2026 - 22:01:03 (-3 TMZ) | 04:02:26 (Artemis Clock)
+No, no lo hace. La presión de cabina es estable, pero necesitamos que ejecuten este procedimiento para llevar el control de presión de cabina a maintenance.
+
+05/04/2026 - 22:01:20 (-3 TMZ) | 04:02:26 (Artemis Clock)
+Copiado.
+
+05/04/2026 - 22:01:42 (-3 TMZ) | 04:02:26 (Artemis Clock)
+Estamos aquí para lo que necesiten.
+
+05/04/2026 - 22:02:21 (-3 TMZ) | 04:02:27 (Artemis Clock)
+Hagamos el paso tres de este procedimiento, Cabin Leak Suspected. Paso tres.
+
+05/04/2026 - 22:02:43 (-3 TMZ) | 04:02:27 (Artemis Clock)
+Buenas tasas.
+
+05/04/2026 - 22:03:11 (-3 TMZ) | 04:02:28 (Artemis Clock)
+Afirmativo.
+
+05/04/2026 - 22:03:49 (-3 TMZ) | 04:02:28 (Artemis Clock)
+Copiado, esa es una buena configuración. Gracias, Reid.
+
+05/04/2026 - 22:04:06 (-3 TMZ) | 04:02:29 (Artemis Clock)
+Tripulación de Integridad, Flight, ahora estoy lista para pasarles el panorama general de lo que ocurrió.
+
+05/04/2026 - 22:05:31 (-3 TMZ) | 04:02:30 (Artemis Clock)
+Go para venteo de la línea secundaria.
+
+05/04/2026 - 22:06:24 (-3 TMZ) | 04:02:31 (Artemis Clock)
+Ok, lo que pasó poco después de entrar en LOS es que cuando fueron a RAD-HAB en el procedimiento de secado de trajes, pasamos a un estado de traje con una velocidad más baja del ventilador de cabina. Eso causó un pequeño cambio en la presión de salida del ventilador de cabina donde está ese sensor de presión y registró un cambio de presión, así que recibimos esa alarma de sospecha de fuga en cabina. Eso puso el modo de presión de cabina en idle, lo que significó que detuvimos la introducción de O2 en la cabina. Necesitábamos volver a poner el modo en maintenance para recuperar la introducción de O2 a la cabina.
+
+05/04/2026 - 22:07:13 (-3 TMZ) | 04:02:32 (Artemis Clock)
+Copiado, y veo lo que ustedes ven sobre el procedimiento. Solo queríamos asegurarnos de que los llamábamos para entrar en eso. El paso 3 era la parte importante ahí. En segundo lugar, tuvimos un LOS inesperado del enlace de retorno cuando hicimos la transición a DSN Madrid. Teníamos buen lock, pero no estábamos recibiendo datos. Cuando recuperamos el enlace hacia adelante, nuestro centro INCO ordenó un string swap, que fue exitoso. Ahora estamos en string 1 para S-band.
+
+05/04/2026 - 22:07:39 (-3 TMZ) | 04:02:32 (Artemis Clock)
+Ok, y seguimos analizando qué pasó con el S-band string 2. Aún no lo sabemos, y eso es todo lo que tengo para ustedes. Gracias, chicos.
+
+05/04/2026 - 22:08:02 (-3 TMZ) | 04:02:33 (Artemis Clock)
+Suena genial, gracias Reed.
+
+05/04/2026 - 22:24:08 (-3 TMZ) | 04:02:49 (Artemis Clock)
+Integridad Houston: sin acción sobre los prop cautions habilitados en la pantalla.
+
+05/04/2026 - 22:26:05 (-3 TMZ) | 04:02:51 (Artemis Clock)
+Integridad Houston, sobre el caution habilitado, esos prop cautions son porque estamos presurizando manualmente esa rama para el próximo OTC3.
+
+05/04/2026 - 22:26:10 (-3 TMZ) | 04:02:51 (Artemis Clock)
+los estamos analizando más de cerca. No necesitan hacer nada.
+
+05/04/2026 - 22:37:03 (-3 TMZ) | 04:03:02 (Artemis Clock)
+Adelante Reed para una vista lunar, y para tu información, bajaste en dos.
+
+05/04/2026 - 22:37:59 (-3 TMZ) | 04:03:02 (Artemis Clock)
+Muy bien, Jenny, la Luna es decididamente enorme por la ventana hoy. Podemos ver todo Apollo, lo siento, todo Orientale, anillo angular. Podemos ver, estoy 99% seguro, ohm CP Erato muy fácilmente y al movernos un poco, todavía no logro distinguir a Phobos, pero...
+
+05/04/2026 - 22:38:33 (-3 TMZ) | 04:03:03 (Artemis Clock)
+Ese lado oculto justo en el limbo es extremadamente montañoso. Intentaré sacar algunas fotos, pero es un ángulo de raspado muy alto. Aun así, es increíble mirar afuera y ver todos estos paisajes. Y es brillante, pero muy visible a simple vista. Seguimos viendo principalmente blancos y grises. Tal vez podría convencerme de que en la cara oculta hay algunos tonos marrones, muy leves, muy, muy tenues. Pero es una vista grandiosa. Es hermosa. Y en la cara visible, Aristarchus es, con diferencia, el rasgo más prominente. Está brillando intensamente ahora mismo.
+
+05/04/2026 - 22:38:49 (-3 TMZ) | 04:03:03 (Artemis Clock)
+Es una descripción hermosa. Gracias por llevarnos allí arriba con ustedes.
+
+05/04/2026 - 22:39:23 (-3 TMZ) | 04:03:04 (Artemis Clock)
+Y para el equipo científico, Pyrozo y Aristarchus tienen ahora mismo el mismo nivel de albedo, el mismo nivel de brillo. Y luego, más abajo, Copérnico está apenas un poco más tenue, pero está cerca. Al equipo científico le está encantando, como era de esperar. Gracias, Reed. Ya que hablo con ustedes, tengo un tema de burn monitor para Jeremy.
+
+05/04/2026 - 22:39:39 (-3 TMZ) | 04:03:04 (Artemis Clock)
+Los volverá a llamar en unos cinco minutos. Suena bien, sin prisa.
+
+05/04/2026 - 22:40:23 (-3 TMZ) | 04:03:05 (Artemis Clock)
+Houston Integridad, solo una observación más: mirando el terminador...
+
+05/04/2026 - 22:40:51 (-3 TMZ) | 04:03:05 (Artemis Clock)
+Es casi Luna llena desde esta perspectiva, pero tenemos el terminador en el borde occidental de la Luna, aproximadamente a un diámetro de Orientale desde Orientale, y con nuestros ojos desnudos realmente se empieza a ver la topografía. Hay elevación en la Luna, no solo variación de color, y eso ya hace que la Luna se vea totalmente distinta.
+
+05/04/2026 - 22:41:02 (-3 TMZ) | 04:03:06 (Artemis Clock)
+Tienen a mucha gente esperando con ilusión mañana. Muchas gracias.
+
+05/04/2026 - 22:42:36 (-3 TMZ) | 04:03:07 (Artemis Clock)
+¿Pueden poner a Integridad para nuestro photo TV?
+
+05/04/2026 - 22:42:53 (-3 TMZ) | 04:03:07 (Artemis Clock)
+Adelante.
+
+05/04/2026 - 22:43:34 (-3 TMZ) | 04:03:08 (Artemis Clock)
+Solo una observación con la D5: a través del visor óptico a 400 mm, la Luna se ve nítida, absolutamente clara, incluso con el alto ángulo de raspado a través de las ventanas. Pero cuando tomamos fotos, lo que luego vemos en el visor es un poco más borroso que lo que podemos ver a través del visor. Me parece extraño. Yo habría pensado que el visor y el sensor captarían los mismos datos, pero pueden transmitir eso a esas personas. Muy bien, lo tenemos. Gracias por la llamada.
+
+05/04/2026 - 22:51:59 (-3 TMZ) | 04:03:16 (Artemis Clock)
+Houston Integridad, estamos listos para esas palabras del burn monitor. Hola Jeremy, buenas tardes. Lo primero es que el paso diez está completo, los calentadores del flange plus X están encendidos y los aviónicos de prop están configurados.
+
+05/04/2026 - 22:52:15 (-3 TMZ) | 04:03:17 (Artemis Clock)
+Y también, asumiendo que el RHC no esté actualmente desplegado, esa configuración estaba de nuevo en el paso siete si quieres referirte a eso. El bingo para eso es TIG menos 45.
+
+05/04/2026 - 22:52:19 (-3 TMZ) | 04:03:17 (Artemis Clock)
+Ok.
+
+05/04/2026 - 22:52:32 (-3 TMZ) | 04:03:17 (Artemis Clock)
+La tarjeta C está desplegada, y copiamos que el paso de prop está completo. Se agradece.
+
+05/04/2026 - 22:53:17 (-3 TMZ) | 04:03:18 (Artemis Clock)
+De nada, y solo un par de cosas generales de contexto. Estamos trabajando en actualizaciones para el día y se las subiremos en breve. También tenemos los pasos de verificación del paquete de targeting lunar en el mensaje 3.05.05. Eso debería tardar unos cinco minutos en ejecutarse en cada uno de los PCD, pero sí necesitamos encajarlo en algún momento de hoy para que, si no funciona, tengamos algo de tiempo para hacer troubleshooting antes de mañana.
+
+05/04/2026 - 22:53:26 (-3 TMZ) | 04:03:18 (Artemis Clock)
+Ok, de hecho puedo trabajar en eso. Así que lo veo aquí, está en este PCD 3.0.05, 0.05.
+
+05/04/2026 - 22:53:50 (-3 TMZ) | 04:03:18 (Artemis Clock)
+Sí, eso es genial, Jeremy. Y nos gustaría recibir confirmación de que se ejecutó ese procedimiento y que todos los PCD restantes que funcionan están operativos con esto.
+
+05/04/2026 - 22:54:11 (-3 TMZ) | 04:03:19 (Artemis Clock)
+Ok, eso también nos dejaría más tranquilos, así que les avisaremos de eso en breve. Para el burn pad, notamos que el delta-V había cambiado bastante, así que ¿cuándo quieren reunirse con nosotros sobre el burn pad?
+
+05/04/2026 - 22:54:22 (-3 TMZ) | 04:03:19 (Artemis Clock)
+Simplemente planeamos hacerlo en la burn conference final, Jeremy.
+
+05/04/2026 - 22:54:45 (-3 TMZ) | 04:03:19 (Artemis Clock)
+Ok, eso está bien. Solo confirmo que la última versión a la que vamos a referirnos en esa burn conference es UTC Ground Generation 95...
+
+05/04/2026 - 22:54:49 (-3 TMZ) | 04:03:19 (Artemis Clock)
+barra catorce cero cero horas.
+
+05/04/2026 - 22:55:06 (-3 TMZ) | 04:03:20 (Artemis Clock)
+Sí, Jeremy, es correcto. Y solo como contexto, el pilotaje manual fue lo que cambió un poco eso, el delta-v total.
+
+05/04/2026 - 22:55:17 (-3 TMZ) | 04:03:20 (Artemis Clock)
+Bueno, tomaremos eso como un cumplido.
+
+05/04/2026 - 22:55:22 (-3 TMZ) | 04:03:20 (Artemis Clock)
+No lo habría dicho de otra forma.
+
+05/04/2026 - 22:56:47 (-3 TMZ) | 04:03:21 (Artemis Clock)
+Eastern Integridad, estamos preparando algunas cargas para mañana. El cable alternativo de carga del PCD, ¿tienen ancho de banda para buscar esa ubicación por nosotros?
+
+05/04/2026 - 22:56:52 (-3 TMZ) | 04:03:21 (Artemis Clock)
+Sí. Espera. Lo estamos buscando ahora.
+
+05/04/2026 - 22:59:52 (-3 TMZ) | 04:03:24 (Artemis Clock)
+Integridad/Houston para el cable de alimentación del alt-PCD.
+
+05/04/2026 - 23:00:14 (-3 TMZ) | 04:03:25 (Artemis Clock)
+Sí, Jeremy, puedes encontrarlo en E-locker, bolsa número diez con etiqueta marrón, y la bolsa Ziploc se llama “fifteen volt PCD power cable”.
+
+05/04/2026 - 23:00:31 (-3 TMZ) | 04:03:25 (Artemis Clock)
+Ok, copiado. Gracias, Mark. Sí, claro.
+
+05/04/2026 - 23:01:27 (-3 TMZ) | 04:03:26 (Artemis Clock)
+Houston, Integridad, para la timeline. Adelante.
+
+05/04/2026 - 23:01:54 (-3 TMZ) | 04:03:26 (Artemis Clock)
+Oye Mark, pregunta sobre una actividad de acoustic monitoring deprimido en mi cronograma a las 02:00 de hoy. Creo que, dado que habíamos abortado el acoustic monitoring de 24 horas ayer, no vi una actividad para iniciar este acoustic monitoring.
+
+05/04/2026 - 23:02:10 (-3 TMZ) | 04:03:27 (Artemis Clock)
+Oye Christina, eso va a ser un no-perform hoy, y estoy
+
+05/04/2026 - 23:02:23 (-3 TMZ) | 04:03:27 (Artemis Clock)
+a punto de darte algunos otros deltas de timeline aquí. Copiado ambos. Gracias.
+
+05/04/2026 - 23:03:56 (-3 TMZ) | 04:03:28 (Artemis Clock)
+Integridad Houston con algunos deltas de timeline.
+
+05/04/2026 - 23:05:09 (-3 TMZ) | 04:03:30 (Artemis Clock)
+Ok, bueno, antes que nada, esto acaba de llegar: las válvulas iso de helio del SM prop están configuradas, lo cual corresponde al paso 12. Y luego, para los deltas de la timeline, las cosas que debemos realizar hoy son esa verificación LTP de la que hablamos hace unos minutos, las operaciones de quema OTC-3, el mantenimiento del inodoro, la inspección de cabina post-ox suit DFTO,
+
+05/04/2026 - 23:05:13 (-3 TMZ) | 04:03:30 (Artemis Clock)
+lecturas AGA.
+
+05/04/2026 - 23:05:18 (-3 TMZ) | 04:03:30 (Artemis Clock)
+y el PMC. Copio eso.
+
+05/04/2026 - 23:05:44 (-3 TMZ) | 04:03:30 (Artemis Clock)
+Ok, copiamos todo eso. Un par de notas de nuestra parte: dos de los tres PCD para LTP están completos y correctos. Trabajaré en el tercero a continuación. Hablamos como tripulación y nos gustaría aplazar el PMC de hoy, simplemente no lo necesitamos.
+
+05/04/2026 - 23:05:48 (-3 TMZ) | 04:03:30 (Artemis Clock)
+Ok, copiado.
+
+05/04/2026 - 23:06:11 (-3 TMZ) | 04:03:31 (Artemis Clock)
+Muy bien, hice una lista de sugerencias que pueden aplazarse si ustedes quieren.
+
+05/04/2026 - 23:06:34 (-3 TMZ) | 04:03:31 (Artemis Clock)
+Sí, déjame decirlo de forma más elegante que como estaba a punto de hacerlo. Todo lo demás puede aplazarse, según ustedes lo deseen.
+
+05/04/2026 - 23:06:38 (-3 TMZ) | 04:03:31 (Artemis Clock)
+Ok, lo agradecemos. Eso es genial.
+
+05/04/2026 - 23:07:24 (-3 TMZ) | 04:03:32 (Artemis Clock)
+Y Jeremy, disculpa, una adición tardía a lo que sí debe realizarse. También necesitamos volver a energizar esa docking cam hoy.
+
+05/04/2026 - 23:07:41 (-3 TMZ) | 04:03:32 (Artemis Clock)
+Y luego, según lo permita el ancho de banda, también nos gustaría entender su configuración de cabina, pero según lo permita el ancho de banda.
+
+05/04/2026 - 23:08:08 (-3 TMZ) | 04:03:33 (Artemis Clock)
+Sí, podemos prepararles una pequeña visita. Creo que van a quedar realmente impresionados. Quiero decir, hemos hecho un gran trabajo aquí. Se ve bien aquí arriba. Mejor que antes. Increíble.
+
+05/04/2026 - 23:16:37 (-3 TMZ) | 04:03:41 (Artemis Clock)
+Integridad Houston, estamos a unos tres minutos de las maniobras Starfield.
+
+05/04/2026 - 23:17:00 (-3 TMZ) | 04:03:42 (Artemis Clock)
+Ok, copiamos eso, Mark, y tengo algo para ustedes sobre el paquete de targeting lunar cuando estén listos. Estamos listos.
+
+05/04/2026 - 23:17:34 (-3 TMZ) | 04:03:42 (Artemis Clock)
+Así que en los PCD 1 y 2, todo funcionó perfectamente. En el PCD 3, el paquete de targeting lunar, cuando hago doble clic en él, intenta abrirse, va a la página web, y luego el pequeño círculo de proceso sigue dando vueltas y vueltas. Esperé bastante tiempo y nunca se abrió. Así que entonces empecé el troubleshooting donde creé el acceso directo y lo renombré en el escritorio, pero obtengo la misma firma cuando intento abrirlo. Y se queda procesando con el pequeño satélite girando alrededor de la Luna.
+
+05/04/2026 - 23:17:55 (-3 TMZ) | 04:03:42 (Artemis Clock)
+Ok Jeremy, copiado. Le estamos dando vueltas aquí. Volveremos con más palabras.
+
+05/04/2026 - 23:18:06 (-3 TMZ) | 04:03:43 (Artemis Clock)
+Ok, gracias.
+
+05/04/2026 - 23:23:45 (-3 TMZ) | 04:03:48 (Artemis Clock)
+Integridad Houston, ¿listo para la burn conference, Jeremy?
+
+05/04/2026 - 23:23:56 (-3 TMZ) | 04:03:48 (Artemis Clock)
+Un minuto, por favor. Roger.
+
+05/04/2026 - 23:25:42 (-3 TMZ) | 04:03:50 (Artemis Clock)
+Houston, Integridad está lista para la burn conference.
+
+05/04/2026 - 23:25:59 (-3 TMZ) | 04:03:50 (Artemis Clock)
+Muy bien, como discutimos antes, el UTC de generación en tierra fue 95/14 exacto.
+
+05/04/2026 - 23:26:10 (-3 TMZ) | 04:03:51 (Artemis Clock)
+Y el primer delta es delta-V total, que es 10.4.
+
+05/04/2026 - 23:26:27 (-3 TMZ) | 04:03:51 (Artemis Clock)
+TIGO es 19 segundos.
+
+05/04/2026 - 23:26:37 (-3 TMZ) | 04:03:51 (Artemis Clock)
+La actitud debe ser: yaw, pitch, roll.
+
+05/04/2026 - 23:26:49 (-3 TMZ) | 04:03:51 (Artemis Clock)
+312-315-75
+
+05/04/2026 - 23:27:06 (-3 TMZ) | 04:03:52 (Artemis Clock)
+Y delta-V x, y, z deben ser 4.7, menos 5.3, 7.6. ¿Cómo copian hasta ahora?
+
+05/04/2026 - 23:27:11 (-3 TMZ) | 04:03:52 (Artemis Clock)
+Copiamos todo.
+
+05/04/2026 - 23:27:22 (-3 TMZ) | 04:03:52 (Artemis Clock)
+Ok, no hay deltas en los burn execution steps, y luego finalmente en las burn notes, un delta.
+
+05/04/2026 - 23:27:45 (-3 TMZ) | 04:03:52 (Artemis Clock)
+que es que ya hemos presurizado manualmente el tanque de combustible a 290 psia y la presurización seguirá activa durante el segmento de configuración de la quema. La quema se realizará en blowdown.
+
+05/04/2026 - 23:28:02 (-3 TMZ) | 04:03:53 (Artemis Clock)
+¿Alguna pregunta para nosotros?
+
+05/04/2026 - 23:28:31 (-3 TMZ) | 04:03:53 (Artemis Clock)
+Mark, para asegurarnos de entender tu última parte, entendemos que dijiste que está presurizado ahora y que estaremos en blowdown. ¿Es una buena repetición? Sí, es una buena repetición.
+
+05/04/2026 - 23:29:15 (-3 TMZ) | 04:03:54 (Artemis Clock)
+Oye Mark, en tu primera frase creímos oírte decir que estaría presurizado durante la quema, lo cual no coincide con nuestro entendimiento de blowdown, pero quizá oímos mal o dijiste que estaría presurizado ahora, pero...
+
+05/04/2026 - 23:29:27 (-3 TMZ) | 04:03:54 (Artemis Clock)
+Sí lo presurizamos un par de horas antes de TIG, y seguirá activo.
+
+05/04/2026 - 23:30:11 (-3 TMZ) | 04:03:55 (Artemis Clock)
+Mark, nos estamos rascando un poco la cabeza con eso de que seguirá activo y cómo casar eso con estar en blowdown. Nuestro entendimiento de blowdown es que no tendríamos presurización activa, sino que usaríamos la presurización existente. Ok, perdón, lo he hecho más confuso de lo necesario. Ese es un buen entendimiento. La presurización seguirá activa durante los segmentos de configuración de la quema.
+
+05/04/2026 - 23:30:15 (-3 TMZ) | 04:03:55 (Artemis Clock)
+y la quema se realizará en blowdown.
+
+05/04/2026 - 23:30:21 (-3 TMZ) | 04:03:55 (Artemis Clock)
+¿Eso tiene más sentido?
+
+05/04/2026 - 23:30:39 (-3 TMZ) | 04:03:55 (Artemis Clock)
+Gracias, Mark. Ahora tiene mucho más sentido. Entonces, en algún momento durante el segmento de configuración de la quema y antes del inicio de la quema, la presurización activa se apagará.
+
+05/04/2026 - 23:30:55 (-3 TMZ) | 04:03:55 (Artemis Clock)
+Sí, eso ocurrirá cuando hagamos la transición a T menos cinco minutos.
+
+05/04/2026 - 23:31:06 (-3 TMZ) | 04:03:56 (Artemis Clock)
+Perfecto, todo entendido a bordo. Gracias por repasarlo con nosotros. Por supuesto.
+
+05/04/2026 - 23:31:11 (-3 TMZ) | 04:03:56 (Artemis Clock)
+También tengo algunos pasos de troubleshooting sobre ese...
+
+05/04/2026 - 23:31:22 (-3 TMZ) | 04:03:56 (Artemis Clock)
+LTP que no funcionaba correctamente en PCD3 cuando sea un buen momento para alguien.
+
+05/04/2026 - 23:31:28 (-3 TMZ) | 04:03:56 (Artemis Clock)
+Sí, puedes seguir adelante y enviar eso.
+
+05/04/2026 - 23:31:40 (-3 TMZ) | 04:03:56 (Artemis Clock)
+Ok, pueden abrir el procedimiento 36.1.3.
+
+05/04/2026 - 23:32:02 (-3 TMZ) | 04:03:57 (Artemis Clock)
+que es Lunar Targeting Package User's Guide, y pueden ejecutar el paso 6.1.2, que limpia la caché, y luego volver al mensaje 3.05.05 e intentarlo de nuevo.
+
+05/04/2026 - 23:32:14 (-3 TMZ) | 04:03:57 (Artemis Clock)
+Ok, solo dame el procedimiento. Entendí que era el paso 6.1.2, pero repite el número del procedimiento.
+
+05/04/2026 - 23:32:24 (-3 TMZ) | 04:03:57 (Artemis Clock)
+Es 36.1.3, Lunar Targeting Package User's Guide.
+
+05/04/2026 - 23:32:35 (-3 TMZ) | 04:03:57 (Artemis Clock)
+Ok, me pondré con ello. Muy bien, gracias.
+
+05/04/2026 - 23:34:04 (-3 TMZ) | 04:03:59 (Artemis Clock)
+Integridad Houston, confirmen que TLT y orb guide convergieron. Estamos evaluando la solución a bordo.
+
+05/04/2026 - 23:34:15 (-3 TMZ) | 04:03:59 (Artemis Clock)
+Sí convergieron, y ahora la estamos evaluando frente al burn pad. Hasta ahora, todo bien.
+
+05/04/2026 - 23:34:20 (-3 TMZ) | 04:03:59 (Artemis Clock)
+Copiado.
+
+05/04/2026 - 23:35:34 (-3 TMZ) | 04:04:00 (Artemis Clock)
+Houston Integridad confirmando su go/no-go para esta quema. Estamos a punto de ponerlo en marcha. Esperen.
+
+05/04/2026 - 23:36:34 (-3 TMZ) | 04:04:01 (Artemis Clock)
+Integridad Houston, MCC ha hecho el poll y está “go” para la quema.
+
+05/04/2026 - 23:36:46 (-3 TMZ) | 04:04:01 (Artemis Clock)
+Integridad copia.
+
+05/04/2026 - 23:40:33 (-3 TMZ) | 04:04:05 (Artemis Clock)
+peace and integrity para el LTP.
+
+05/04/2026 - 23:40:38 (-3 TMZ) | 04:04:05 (Artemis Clock)
+Adelante, Jeremy.
+
+05/04/2026 - 23:41:02 (-3 TMZ) | 04:04:06 (Artemis Clock)
+Ok, limpié la caché según el procedimiento, luego intenté abrir el enlace original del LTP y obtuve la misma firma de antes, así que limpié la caché otra vez y luego abrí el nuevo enlace de LTP que creé yo mismo, y obtengo la misma firma.
+
+05/04/2026 - 23:41:07 (-3 TMZ) | 04:04:06 (Artemis Clock)
+Ok, volvemos a rascarnos la cabeza aquí.
+
+05/04/2026 - 23:44:16 (-3 TMZ) | 04:04:09 (Artemis Clock)
+Integridad Houston, las presiones de los tanques son buenas para la quema.
+
+05/04/2026 - 23:44:27 (-3 TMZ) | 04:04:09 (Artemis Clock)
+integridad.
+
+05/04/2026 - 23:46:05 (-3 TMZ) | 04:04:11 (Artemis Clock)
+Integridad Houston, nuestra sincronización de correo electrónico está completa. Todas las bandejas de entrada están desbloqueadas.
+
+05/04/2026 - 23:47:01 (-3 TMZ) | 04:04:12 (Artemis Clock)
+Integridad Houston, los paneles solares están en posición para la quema.
+
+05/04/2026 - 23:47:06 (-3 TMZ) | 04:04:12 (Artemis Clock)
+Integridad.
+
+05/04/2026 - 23:49:52 (-3 TMZ) | 04:04:14 (Artemis Clock)
+Integridad Houston, la maniobra hacia la actitud de quema comenzará en unos tres minutos.
+
+05/04/2026 - 23:49:58 (-3 TMZ) | 04:04:14 (Artemis Clock)
+Integridad.
+
+05/04/2026 - 23:57:53 (-3 TMZ) | 04:04:22 (Artemis Clock)
+Integridad Houston, estamos en actitud de quema.
+
+05/04/2026 - 23:58:05 (-3 TMZ) | 04:04:23 (Artemis Clock)
+Vemos lo mismo.
+
+06/04/2026 - 00:04:26 (-3 TMZ) | 04:04:29 (Artemis Clock)
+Integridad Houston, buena quema. Estamos evaluando los detalles.
+
+06/04/2026 - 00:04:30 (-3 TMZ) | 04:04:29 (Artemis Clock)
+Así es, y vemos lo mismo. Gracias, Mark.
+
+06/04/2026 - 00:06:01 (-3 TMZ) | 04:04:31 (Artemis Clock)
+Houston, Integridad, mientras esperan su análisis, nos gustaría pedirles que se hagan cargo del paso 23. Nosotros manejaremos el RHC y seguiremos con otras actividades de nuestra timeline.
+
+06/04/2026 - 00:06:06 (-3 TMZ) | 04:04:31 (Artemis Clock)
+Muy bien, entendido.
+
+06/04/2026 - 00:06:11 (-3 TMZ) | 04:04:31 (Artemis Clock)
+Gracias.
+
+06/04/2026 - 00:06:23 (-3 TMZ) | 04:04:31 (Artemis Clock)
+Qué bueno finalmente hacer una quema. Lo sé. Además una quema pequeña y hermosa.
+
+06/04/2026 - 00:06:41 (-3 TMZ) | 04:04:31 (Artemis Clock)
+Oigan, estén atentos, estamos maniobrando para ciencia oportunista, y necesitarán configurar sus cámaras D5 y Z9 para eso como si hubiera sido ayer.
+
+06/04/2026 - 00:06:56 (-3 TMZ) | 04:04:31 (Artemis Clock)
+Estamos siguiendo eso y con muchísimas ganas. Tuvimos una vista preciosa de una Luna muy grande justo por la ventana dos durante esa quema, bueno, justo antes de la quema, antes de maniobrar. Fue increíble.
+
+06/04/2026 - 00:07:01 (-3 TMZ) | 04:04:32 (Artemis Clock)
+Y parece que volveremos a la ventana dos también para esto.
+
+06/04/2026 - 00:07:19 (-3 TMZ) | 04:04:32 (Artemis Clock)
+Y además tengo otro pequeño paso de troubleshooting para ese paquete de targeting lunar.
+
+06/04/2026 - 00:07:24 (-3 TMZ) | 04:04:32 (Artemis Clock)
+Cuando alguien tenga oportunidad de copiar.
+
+06/04/2026 - 00:07:47 (-3 TMZ) | 04:04:32 (Artemis Clock)
+Ok, envíame esos pasos de troubleshooting, Mark. Ok, Jeremy, volviendo a ese mismo paso 6.1.2, ¿todavía tienes el procedimiento donde estaba eso?
+
+06/04/2026 - 00:08:15 (-3 TMZ) | 04:04:33 (Artemis Clock)
+Sí, amigo. Solo limpiando la caché, y ahora lo entiendo. Sí. Esta vez vamos a, en media fourteen, que es la que está al final de ese paso, cambiar ese rango de tiempo.
+
+06/04/2026 - 00:08:20 (-3 TMZ) | 04:04:33 (Artemis Clock)
+a todo el tiempo.
+
+06/04/2026 - 00:08:31 (-3 TMZ) | 04:04:33 (Artemis Clock)
+Y además de “Cached Images and files”, que ya ves marcado en ese procedimiento, vamos a marcar “Cookies and other data”.
+
+06/04/2026 - 00:09:11 (-3 TMZ) | 04:04:34 (Artemis Clock)
+y luego lo limpias, y después vuelves al mensaje 30505 y lo intentas otra vez. Copiado. Y para que lo sepas, antes ya hice “all time”, pero no hice “cookies and other data”, así que eso sí es nuevo. Así que probaré eso. Bueno, ya lo hice, y veré qué pasa. ¿Y cuál LTP quieres que intente abrir primero? ¿El que ya estaba originalmente, o el nuevo acceso directo que creé en el escritorio? Verificando.
+
+06/04/2026 - 00:09:43 (-3 TMZ) | 04:04:34 (Artemis Clock)
+Jeremy, prueba primero el acceso directo original.
+
+06/04/2026 - 00:09:49 (-3 TMZ) | 04:04:34 (Artemis Clock)
+Buen trabajo.
+
+06/04/2026 - 00:09:54 (-3 TMZ) | 04:04:34 (Artemis Clock)
+¡Hurra! Eso lo arregló.
+
+06/04/2026 - 00:10:00 (-3 TMZ) | 04:04:35 (Artemis Clock)
+Muy bien.
+
+06/04/2026 - 00:10:28 (-3 TMZ) | 04:04:35 (Artemis Clock)
+Ok, Mark, y también hice los otros dos pasos comprobando las dos acciones de one-note, y ambos están bien en este PCD ahora, así que estamos listos.
+
+06/04/2026 - 00:10:33 (-3 TMZ) | 04:04:35 (Artemis Clock)
+Eso es fantástico. Gracias, Jeremy.
+
+06/04/2026 - 00:15:12 (-3 TMZ) | 04:04:40 (Artemis Clock)
+Houston Integridad para un flush caution habilitado.
+
+06/04/2026 - 00:15:17 (-3 TMZ) | 04:04:40 (Artemis Clock)
+Sí, adelante.
+
+06/04/2026 - 00:15:34 (-3 TMZ) | 04:04:40 (Artemis Clock)
+Acabamos de recibir un caution habilitado, dump required. Muy bien, lo vemos también, y estamos a punto de poner un vaciado de aguas residuales en marcha y echarlo a andar en breve.
+
+06/04/2026 - 00:15:39 (-3 TMZ) | 04:04:40 (Artemis Clock)
+en marcha dentro de poco.
+
+06/04/2026 - 00:16:00 (-3 TMZ) | 04:04:41 (Artemis Clock)
+Ok, suena bien. ¿Y tienen ancho de banda para una vista rápida de la cabina con HHP del iglislaw para la limpieza post-DFTO?
+
+06/04/2026 - 00:16:17 (-3 TMZ) | 04:04:41 (Artemis Clock)
+Lo estamos comprobando, y solo para asegurarnos de que estamos en la misma página: después de este uso, detengan las operaciones del inodoro hasta que hagamos ese vaciado y les avisemos.
+
+06/04/2026 - 00:16:21 (-3 TMZ) | 04:04:41 (Artemis Clock)
+Entendido.
+
+06/04/2026 - 00:16:33 (-3 TMZ) | 04:04:41 (Artemis Clock)
+Sí, podemos tomar la cámara HHP.
+
+06/04/2026 - 00:17:01 (-3 TMZ) | 04:04:42 (Artemis Clock)
+Y oye Mark, solo para estar cien por ciento seguros, los vaciados secundarios siguen estando bien, ¿correcto? Sí, los vaciados secundarios siguen estando bien.
+
+06/04/2026 - 00:26:44 (-3 TMZ) | 04:04:51 (Artemis Clock)
+Integridad Houston para mantenimiento del inodoro.
+
+06/04/2026 - 00:27:18 (-3 TMZ) | 04:04:52 (Artemis Clock)
+Sí, una buena noticia: como hemos tenido un uso bastante bajo del inodoro, no es necesario el cambio de oxone, así que esos pasos pueden saltarse hoy.
+
+06/04/2026 - 00:27:22 (-3 TMZ) | 04:04:52 (Artemis Clock)
+Mark, lo apreciamos, pero eso ya está hecho.
+
+06/04/2026 - 00:27:29 (-3 TMZ) | 04:04:52 (Artemis Clock)
+Ok, copiado. Lo programaremos en consecuencia.
+
+06/04/2026 - 00:30:05 (-3 TMZ) | 04:04:55 (Artemis Clock)
+Integridad Houston, nos vemos en actitud para la ciencia oportunista y estaremos allí durante unos quince minutos.
+
+06/04/2026 - 00:31:11 (-3 TMZ) | 04:04:56 (Artemis Clock)
+Houston, aquí Integridad. Confirmen que tenemos un buen stream HHP.
+
+06/04/2026 - 00:31:17 (-3 TMZ) | 04:04:56 (Artemis Clock)
+Estamos trabajando en ello ahora. Así que todavía no.
+
+06/04/2026 - 00:32:20 (-3 TMZ) | 04:04:57 (Artemis Clock)
+Ok, Reed, por fin eso se despejó y ahora tenemos una buena imagen dentro de la cabina.
+
+06/04/2026 - 00:32:42 (-3 TMZ) | 04:04:57 (Artemis Clock)
+Ok, ahora mismo tenemos demasiadas vistas por las ventanas. Tenemos la Luna por las ventanas 1 a 4, y Jeremy acaba de ver la Tierra por la ventana lateral de la escotilla, así que vamos a trabajar con todo eso. Pero solo quería darles una vista rápida general. Nadie ve nunca la cabina desde este lado salvo nosotros, así que llevé la cámara al lado de la escotilla lateral. Ahí pueden ver la equus wall.
+
+06/04/2026 - 00:33:10 (-3 TMZ) | 04:04:58 (Artemis Clock)
+Sí, eso está bien, Reed. Lo estamos viendo muy bien.
+
+06/04/2026 - 00:33:38 (-3 TMZ) | 04:04:58 (Artemis Clock)
+Mark, si hay algo de interés específico que estén buscando, lo destacaré. Ahora mismo estoy destacando una parte de Jeremy que probablemente no necesita ser destacada.
+
+06/04/2026 - 00:33:43 (-3 TMZ) | 04:04:58 (Artemis Clock)
+Roger.
+
+06/04/2026 - 00:34:22 (-3 TMZ) | 04:04:59 (Artemis Clock)
+¿Podríamos pedir una panorámica lenta de la pared de babor, la zona del laboratorio y el calentador de comida? No hemos visto mucho de eso todavía.
+
+06/04/2026 - 00:34:33 (-3 TMZ) | 04:04:59 (Artemis Clock)
+Y esto es solo por curiosidad. No nos preocupa nada.
+
+06/04/2026 - 00:34:50 (-3 TMZ) | 04:04:59 (Artemis Clock)
+Ahí está la zona de galley del calentador de comida. Quizá puedan ver la “bungee jail” ahí. No sé si está demasiado oscuro o no.
+
+06/04/2026 - 00:35:07 (-3 TMZ) | 04:05:00 (Artemis Clock)
+Sí, esa es una buena vista. Se ven esos cables IT deseando poder crecer como en la estación espacial.
+
+06/04/2026 - 00:35:24 (-3 TMZ) | 04:05:00 (Artemis Clock)
+Pasé unos 45 minutos acomodando todo eso y tendiendo cables de alimentación para el sobrevuelo lunar de mañana, así que se ve mucho mejor que hace dos horas. Eso es increíble.
+
+06/04/2026 - 00:35:58 (-3 TMZ) | 04:05:00 (Artemis Clock)
+Muy bien, Mark, con eso voy a detener el feed y me voy a mirar la Luna un minuto.
+
+06/04/2026 - 00:36:09 (-3 TMZ) | 04:05:01 (Artemis Clock)
+Muy bien, copiado. Gracias, apreciamos ese tiempo extra.
+
+06/04/2026 - 00:36:59 (-3 TMZ) | 04:05:01 (Artemis Clock)
+La reconfiguración post-burn de Integridad está completa.
+
+06/04/2026 - 00:37:26 (-3 TMZ) | 04:05:02 (Artemis Clock)
+Integridad copia.
+
+06/04/2026 - 00:40:13 (-3 TMZ) | 04:05:05 (Artemis Clock)
+Uso Integridad para ciencia oportunista. Las imágenes están completas. La vista que tenemos ahora, lo más impactante...
+
+06/04/2026 - 00:40:18 (-3 TMZ) | 04:05:05 (Artemis Clock)
+son el tamaño de la Luna y el detalle que podemos ver a simple vista.
+
+06/04/2026 - 00:40:54 (-3 TMZ) | 04:05:05 (Artemis Clock)
+Es casi una Luna llena, quizá aproximadamente un 10% del limbo occidental está en el terminador, y realmente se pueden ver variaciones en el terreno. Claramente hay grandes cambios de elevación en el borde occidental, en la zona del terminador. La vista que tenemos ahora en el centro es Grimaldi. Está casi muerto en el centro, apenas un poco al sur del centro, y Orientale no está del todo en una vista ortogonal, pero realmente podemos ver dentro de ella, y ya se empiezan a diferenciar los colores que hay en su interior.
+
+06/04/2026 - 00:41:04 (-3 TMZ) | 04:05:06 (Artemis Clock)
+las diferencias en los grises que hay allí abajo; hay una V gris oscura abajo y luego una V gris clara arriba en el centro de Orientale.
+
+06/04/2026 - 00:41:09 (-3 TMZ) | 04:05:06 (Artemis Clock)
+Y el gris más claro realmente coincide con los anillos que están más al norte.
+
+06/04/2026 - 00:41:32 (-3 TMZ) | 04:05:06 (Artemis Clock)
+y la V gris oscura de abajo coincide con la parte del anillo que es muy visible al sur-suroeste. Además, Grimaldi es lo más oscuro que puedo ver hasta ahora, y luego hay una zona justo al noroeste de Grimaldi que también es muy oscura.
+
+06/04/2026 - 00:42:11 (-3 TMZ) | 04:05:07 (Artemis Clock)
+Pero realmente eso hace que Procellarum y Oceanus se vean más claros. Los grises allí casi parecen como mirar hacia abajo sobre un bosque, donde se pueden ver manchas de variaciones entre gris claro y oscuro. No se ve consistentemente tan oscuro como cuando se observa desde mucho más lejos. Y la variación en todo ese mare, hay mucho detalle en la variación de los grises oscuros en ese mare, y eso resalta mucho ahora porque Aristarchus es muy brillante en el centro de todo eso. Pero, de nuevo, lo que más me llama la atención es el tamaño de la Luna en la ventana a simple vista y el terreno que puedo ver en el limbo occidental debido al terminador. Me encanta el terminador.
+
+06/04/2026 - 00:42:28 (-3 TMZ) | 04:05:07 (Artemis Clock)
+Eso es increíble, Victor. Muy buena descripción. Es fácil imaginar lo que estás viendo. Gracias por eso.
+
+06/04/2026 - 00:44:09 (-3 TMZ) | 04:05:09 (Artemis Clock)
+Integridad Houston, aviso: faltan dos minutos para maniobrar de vuelta.
+
+06/04/2026 - 00:46:29 (-3 TMZ) | 04:05:11 (Artemis Clock)
+Y Houston Integridad, sin pedirles que rompan ningún análisis, si pudieran darnos tres minutos más en esta actitud, los aceptaríamos. Solo estamos tratando de terminar algunas imágenes. Pero entendemos si no se puede.
+
+06/04/2026 - 00:46:45 (-3 TMZ) | 04:05:11 (Artemis Clock)
+Sí, disculpen por eso.
+
+06/04/2026 - 00:46:56 (-3 TMZ) | 04:05:11 (Artemis Clock)
+¿Podríamos compensarlo acercándolos un poco más para mañana?
+
+06/04/2026 - 00:47:07 (-3 TMZ) | 04:05:12 (Artemis Clock)
+Oye, ya que los tengo, el...
+
+06/04/2026 - 00:47:13 (-3 TMZ) | 04:05:12 (Artemis Clock)
+El informe de oscuridad de Grimaldi fue inesperado y...
+
+06/04/2026 - 00:47:18 (-3 TMZ) | 04:05:12 (Artemis Clock)
+Eso tiene a los científicos muy entusiasmados de oírlo, así que gracias especialmente por ese.
+
+06/04/2026 - 00:47:23 (-3 TMZ) | 04:05:12 (Artemis Clock)
+especialmente.
+
+06/04/2026 - 00:47:46 (-3 TMZ) | 04:05:12 (Artemis Clock)
+De nada.
+
+06/04/2026 - 00:50:17 (-3 TMZ) | 04:05:15 (Artemis Clock)
+Mark, creo que una de las cosas más interesantes ahora mismo es que los cuatro hemos mirado ese cuerpo celeste toda nuestra vida, y la forma en que estamos reaccionando a lo que vemos por la ventana es... es como si fuéramos un grupo de niños pequeños aquí arriba; no podemos tener suficiente de esto. Es asombroso. Gracias por el privilegio.
+
+06/04/2026 - 00:50:22 (-3 TMZ) | 04:05:15 (Artemis Clock)
+Gracias por compartir esa perspectiva tan especial que tienen con todos nosotros aquí abajo.
+
+06/04/2026 - 01:05:23 (-3 TMZ) | 04:05:30 (Artemis Clock)
+Integridad Houston, aviso: estamos recibiendo comunicaciones un poco irregulares. Tenemos estructuras de por medio y se ha cortado un par de veces momentáneamente. Así que si no nos reciben a la primera, vuelvan a intentarlo.
+
+06/04/2026 - 01:05:45 (-3 TMZ) | 04:05:30 (Artemis Clock)
+Copiado, Houston.
+
+06/04/2026 - 01:10:49 (-3 TMZ) | 04:05:35 (Artemis Clock)
+Integridad Houston para Reed.
+
+06/04/2026 - 01:11:00 (-3 TMZ) | 04:05:36 (Artemis Clock)
+Adelante, Mark.
+
+06/04/2026 - 01:11:24 (-3 TMZ) | 04:05:36 (Artemis Clock)
+Sí, entiendo que guardaste temporalmente esa bolsa de snack que preparaste antes hoy. Estás go para ponerla en doble bolsa y guardarla con el resto del material de snacks en A1. No vamos a usarla, pero queremos que esté ahí porque vamos a analizar todo eso cuando regresen.
+
+06/04/2026 - 01:11:46 (-3 TMZ) | 04:05:36 (Artemis Clock)
+Quizá saber eso unas horas antes me habría ayudado a no terminar de beber ese snack. O bueno, también podías hacerlo así.
+
+06/04/2026 - 01:12:21 (-3 TMZ) | 04:05:37 (Artemis Clock)
+Ok, y además... Adelante. Si el equipo quiere, sí sacamos dos snacks antes, y a uno de ellos no le puse agua y lo volví a guardar. Puedo sacar ese, llenarlo y volver a guardarlo para análisis. No es necesario. Está bien en la configuración en que está. Y además, tenemos OA-2 privatizado para su conferencia, y ustedes son bienvenidos a reunirse con Resolute flight allí cuando estén listos.
+
+06/04/2026 - 01:12:26 (-3 TMZ) | 04:05:37 (Artemis Clock)
+Vamos para allá ahora.
+
+06/04/2026 - 01:21:58 (-3 TMZ) | 04:05:46 (Artemis Clock)
+Houston Integridad para puntos de cierre. Adelante, Christina.
+
+06/04/2026 - 01:22:03 (-3 TMZ) | 04:05:47 (Artemis Clock)
+Oye Mark, tengo lecturas AGA cuando estés listo.
+
+06/04/2026 - 01:22:55 (-3 TMZ) | 04:05:47 (Artemis Clock)
+Ok, cuando encendimos el AGA esta vez sí tuvimos dos alarmas. Una decía algo de HCN. Era como un error de lectura. No recuerdo la redacción exacta. Fue transitorio. Se fue después de apenas un par de segundos y luego marcó fuera de escala por bajo. Después tuvimos la esperada alarma de oxígeno alto. Otros valores: CO2 3.1, oxígeno 26.6, temperatura 75, presión 10.45.
+
+06/04/2026 - 01:23:05 (-3 TMZ) | 04:05:48 (Artemis Clock)
+Ok, copiamos eso. ¿Tienes más cosas para nosotros?
+
+06/04/2026 - 01:23:17 (-3 TMZ) | 04:05:48 (Artemis Clock)
+Y con respecto a la docking camera, completaremos esa actividad en breve. Ok, genial.
+
+06/04/2026 - 01:23:21 (-3 TMZ) | 04:05:48 (Artemis Clock)
+¿Eso es todo de tu parte?
+
+06/04/2026 - 01:24:19 (-3 TMZ) | 04:05:49 (Artemis Clock)
+Y Mark, estábamos comentando que probablemente les debemos un informe sobre la lista de tomas de Nat Geo. Y hemos estado consultando esa lista y básicamente hemos tenido las cámaras fuera casi todo el tiempo. Grabamos el bird hoy, grabamos todo el suit DFTO, y prácticamente cada día hemos ido captando momentos del “day in the life”, ya sea durante las comidas o en las ventanas observando, y cualquier operación dinámica, y básicamente los grandes momentos del día. Así que sí creemos que estamos capturando todo eso. Avísennos si necesitan más granularidad sobre eso. Pero sí estamos revisando la lista. Nos estamos asegurando de conseguir lo que les gustaría y más. Fantástico. Gracias.
+
+06/04/2026 - 01:24:39 (-3 TMZ) | 04:05:49 (Artemis Clock)
+Eso es todo lo que teníamos. ¿Algo de su lado? Sí, solo una cosa. Estamos a punto de iniciar ese vaciado de aguas residuales en breve, y sé que ya es hora de dormir, pero aceptaremos cualquier observación que tengan.
+
+06/04/2026 - 01:25:19 (-3 TMZ) | 04:05:50 (Artemis Clock)
+Lo estamos observando ahora mismo, y es una ligera tormenta de nieve con esas partículas familiares más grandes y ese pulso de “chugging”. No hay mucho flujo en este momento comparado con quizá los vaciados primarios de mayor flujo o con los vaciados secundarios, pero sí, estamos viendo algo ahí fuera. Estamos viendo algún tipo de tormenta de nieve. Ok, copiado. Gracias por la observación.
+
+06/04/2026 - 01:25:45 (-3 TMZ) | 04:05:50 (Artemis Clock)
+Y Mark, prácticamente se ha detenido casi por completo ahí, y luego hubo un par de pequeños impulsos; ahora mismo está casi completamente detenido mientras hablo contigo.
+
+06/04/2026 - 01:25:51 (-3 TMZ) | 04:05:50 (Artemis Clock)
+Copiado, Jeremy.
+
+06/04/2026 - 01:26:02 (-3 TMZ) | 04:05:51 (Artemis Clock)
+Vamos a mantenerlo configurado para vaciado y ver hasta dónde podemos bajarlo. Gracias por la información.
+
+06/04/2026 - 01:26:13 (-3 TMZ) | 04:05:51 (Artemis Clock)
+Y si necesitan usar el inodoro, simplemente llámenos.
+
+06/04/2026 - 01:26:30 (-3 TMZ) | 04:05:51 (Artemis Clock)
+Copiado y entendido. Gracias.
+
+06/04/2026 - 01:27:53 (-3 TMZ) | 04:05:52 (Artemis Clock)
+Ahora estamos viendo nevadas ligeras por la ventana, y acaba de empezar a aumentar un poco.
+
+06/04/2026 - 01:28:16 (-3 TMZ) | 04:05:53 (Artemis Clock)
+Ok, esas son buenas noticias. Y Jeremy, tenemos una petición de vuelta. Si nos pudieras decir dónde están las imágenes del día, tenemos buenas comunicaciones y queremos bajar eso ahora mismo.
+
+06/04/2026 - 01:29:06 (-3 TMZ) | 04:05:54 (Artemis Clock)
+Ok, pueden buscar en PCD2 las fotos científicas que tomamos para la ciencia oportunista. Y esas son las únicas que hemos hecho hasta ahora. Probablemente añadiremos algunas más después. Genial. Iremos a buscarlas allí. Gracias. Y si esto es todo, y espero que lo sea, buenas noches para ustedes. Duerman bien.
+
+06/04/2026 - 01:29:16 (-3 TMZ) | 04:05:54 (Artemis Clock)
+Buenas noches a ustedes también. Que tengan un gran día.
+
+06/04/2026 - 01:31:47 (-3 TMZ) | 04:05:56 (Artemis Clock)
+Tiger a Houston, sin acción para ustedes. Estamos alternando justo en ese límite. Vamos a inhibir ese mensaje de “no waste dump required” mientras hacemos esto. Perdón, suprimiremos ese mensaje. Ok, tiene sentido para nosotros. Gracias.
+
+06/04/2026 - 01:38:22 (-3 TMZ) | 04:06:03 (Artemis Clock)
+Adelante.
+
+06/04/2026 - 01:39:03 (-3 TMZ) | 04:06:04 (Artemis Clock)
+Primero sobre el vaciado: nevadas muy ligeras, y luego la docking camera está energizada. Y tercero, cuando bajamos a 10-2, obviamente con el cambio de presión, mucho de nuestro empaquetado aquí arriba se expandió bastante. Y uno que notamos fue el de las bolsas lyo, y no sabemos si lo que está dentro de esas bolsas se daña por el delta de presión o no. Avísennos si quieren que abramos las Ziplocs allí y echemos un vistazo. No estoy seguro de si tendríamos que entrar en el sello hermético de esa bolsa o no.
+
+06/04/2026 - 01:39:12 (-3 TMZ) | 04:06:04 (Artemis Clock)
+Ok, copiada la pregunta, lo estamos comentando.
+
+06/04/2026 - 01:41:39 (-3 TMZ) | 04:06:06 (Artemis Clock)
+Oye Reed, sobre la pregunta de Lyle, a nadie parece preocuparle demasiado ahora mismo, pero sí va a llevar un rato hablar con el mayer y conseguir una respuesta mejor que esa. ¿Te gustaría que te llamáramos esta noche si obtenemos eso hoy, o preferirías esperar y escucharlo mañana por la mañana?
+
+06/04/2026 - 01:41:42 (-3 TMZ) | 04:06:06 (Artemis Clock)
+Y Mark, podemos esperar. Gracias.
+
+06/04/2026 - 01:41:47 (-3 TMZ) | 04:06:06 (Artemis Clock)
+Ok, copiado.
+
+06/04/2026 - 01:44:07 (-3 TMZ) | 04:06:09 (Artemis Clock)
+Y Houston Integridad, ahora hay algunas fotos en PCD-3 en “for downlink PAO flight day 5”. Copiado, gracias.
+
+06/04/2026 - 02:43:55 (-3 TMZ) | 04:07:08 (Artemis Clock)
+Houston, gracias por poner la Luna directamente en la ventana tres, nos dejó sin aliento. Y por primera vez en esta misión, la lente de 400 mm no entra completamente dentro del visor. Ese es un hito bastante increíble.
+
+06/04/2026 - 02:44:24 (-3 TMZ) | 04:07:09 (Artemis Clock)
+Y si se sienten diferentes en la última hora, es porque hemos entrado en la esfera de influencia. También queremos compartir que notamos que entramos en la esfera de influencia lunar hace aproximadamente una hora, y efectivamente ahora estamos cayendo hacia la Luna en lugar de seguir alejándonos de la Tierra. Es un hito increíble. Además, antes teníamos la Tierra como un creciente por la ventana lateral de la escotilla y la Luna por la ventana 3, y
+
+06/04/2026 - 02:44:33 (-3 TMZ) | 04:07:09 (Artemis Clock)
+definitivamente, con diferencia, la Luna es más grande que la Tierra. Esa es una perspectiva muy especial. Gracias por compartirla.
+
+06/04/2026 - 02:55:43 (-3 TMZ) | 04:07:20 (Artemis Clock)
+¿Pueden poner a Integridad para una foto más?
+
+06/04/2026 - 02:55:55 (-3 TMZ) | 04:07:20 (Artemis Clock)
+Adelante.
+
+06/04/2026 - 02:56:26 (-3 TMZ) | 04:07:21 (Artemis Clock)
+Oye Mark, en PCD1 y en Image A for downlink, simplemente suelta, sin estar dentro de ninguna carpeta, está la 6684, que acabamos de tomar con la lente de 35 mm, y es la perspectiva perfecta a ojo humano de la Luna por la ventana con el interior de Orion visible. Es una foto bastante genial si quieren compartirla con el equipo o con PAO. La bajaremos de inmediato. Gracias.
+
+06/04/2026 - 03:21:33 (-3 TMZ) | 04:07:46 (Artemis Clock)
+Houston, Integridad en uno para correo electrónico.
+
+06/04/2026 - 03:21:38 (-3 TMZ) | 04:07:46 (Artemis Clock)
+¿Qué leen?
+
+06/04/2026 - 03:22:13 (-3 TMZ) | 04:07:47 (Artemis Clock)
+Oye Mark, y como ya hemos pasado a la esfera de influencia gravitacional lunar, creo que eso lo arregló. Muchísimas gracias al equipo de ahí abajo mientras rodeamos la Luna mañana. Es realmente maravilloso volver a estar conectados con la familia, y agradezco muchísimo todo el esfuerzo que ustedes han puesto en ello. Y el correo está funcionando genial. Muchas gracias. Nos alegra escuchar esa confirmación. De nada, señor. Que tengan una gran noche.
+
+06/04/2026 - 03:22:34 (-3 TMZ) | 04:07:47 (Artemis Clock)
+La tendremos, y asumimos que podremos empezar a hacer secondary burnups a las 9:30 MET. Si eso cambia, por favor avísennos porque planeamos usar esa capacidad.
+
+06/04/2026 - 03:22:51 (-3 TMZ) | 04:07:47 (Artemis Clock)
+9:30 es un buen momento. No hay cambios en eso.
+
+06/04/2026 - 03:23:08 (-3 TMZ) | 04:07:48 (Artemis Clock)
+Ok, en ese caso, todos estamos aquí estudiando nuestros paquetes de targeting lunar. Pueden ver el brillo en los ojos de todos por los PCD. Y pronto nos iremos a dormir. Gracias. Increíble. Descansen bien.
