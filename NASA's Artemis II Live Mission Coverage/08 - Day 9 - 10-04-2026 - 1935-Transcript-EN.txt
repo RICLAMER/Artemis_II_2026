@@ -1,0 +1,711 @@
+10/04/2026 - 19:35:03 (-3 TMZ) | 09:00:00:03 (Artemis Clock) | on the TDRS network here in about 41 minutes. Following that, the next activity will be the pyrotechnic separation of the crew module from the European service module. That is scheduled at 6:33 p.m. Central time, followed four minutes later
+10/04/2026 - 19:35:31 (-3 TMZ) | 09:00:00:31 (Artemis Clock) | Now what that does is it basically acts, if you were sitting in a reclining chair, you'd basically tilt yourself back. It raises the aft end of Integrity ever so slightly, and that is the final opportunity for us to fine-tune the angle of attack of Integrity through the area of peak heating.
+10/04/2026 - 19:35:59 (-3 TMZ) | 09:00:00:59 (Artemis Clock) | Raise burn, we will be in the final orientation that will minimize any peak heating on the heat shield of Integrity and prior to the time the crew enters the Earth's atmosphere at an altitude of 400,000 feet. Entry interface, this is the critical time where the crew will reach the first
+10/04/2026 - 19:36:04 (-3 TMZ) | 09:00:01:04 (Artemis Clock) | traces of Earth's atmosphere at an altitude of 400,000 feet, traveling 34,882 feet per second.
+10/04/2026 - 19:36:33 (-3 TMZ) | 09:00:01:33 (Artemis Clock) | and its in duration. This is planned and it is caused by the interaction of the velocity of Integrity with the friction of Earth's atmosphere. There will be a buildup of plasma around the vehicle and that ionization will prevent any communications with the crew and any receipt of data by flight controllers.
+10/04/2026 - 19:37:02 (-3 TMZ) | 09:00:02:02 (Artemis Clock) | If all goes as planned, at 6:59:55 p.m. Central time, at that point we expect to regain communications with the crew and a reacquisition of data through the tracking and data relay satellite system.
+10/04/2026 - 19:37:19 (-3 TMZ) | 09:00:02:19 (Artemis Clock) | We will have a series of roll maneuvers. These are computer commanded that will roll the vehicle slightly to the left then back to the right. That will bleed off excess energy as we begin our peak period of velocity. We expect to reach a maximum velocity of 24,600.
+10/04/2026 - 19:37:49 (-3 TMZ) | 09:00:02:49 (Artemis Clock) | Once we exit the blackout period, of course, we're in the denser regions of the Earth's atmosphere, and then we get set up for the parachute deployment sequence. First, the deployment of three forward bay cover chutes that will pull essentially the top forward bay cover off the very top of the...
+10/04/2026 - 19:38:18 (-3 TMZ) | 09:00:03:18 (Artemis Clock) | Central time. From that point on, it is about three minutes or so until splashdown. Splashdown scheduled at 7:07 and 8 seconds p.m. Central time at a gentle speed of 19 miles an hour. So just to give you some perspective, at the time that...
+10/04/2026 - 19:38:45 (-3 TMZ) | 09:00:03:45 (Artemis Clock) | The G-forces that will build on the crew members inside Integrity will build to about 3.9 Gs. That is what is expected and what they have trained for and what the spacecraft is designed to support.
+10/04/2026 - 19:39:20 (-3 TMZ) | 09:00:04:20 (Artemis Clock) | The latest weather forecast out on the recovery zone off the coast of San Diego is a go forecast from our meteorologists here at the Spaceflight Meteorology Group at the Johnson Space Center. And standing by on the deck of the USS John Murtha is my colleague from the Kennedy Space Center.
+10/04/2026 - 19:39:40 (-3 TMZ) | 09:00:04:40 (Artemis Clock) | Megan Cruz. Megan? Hey there, Robia. Welcome to the bow of the USS John Murtha. This is where we will report out live updates from the ship as NASA and the U.S. military work together.
+10/04/2026 - 19:40:09 (-3 TMZ) | 09:00:05:09 (Artemis Clock) | away from where we expect Orion to splash down, and then we will incrementally move closer. So at the time of splashdown, we'll be about 5 miles away, and then we will move to 3.2 miles away. At that point, we'll pause, make sure that all the debris that might be coming down with Orion, because basically some
+10/04/2026 - 19:40:32 (-3 TMZ) | 09:00:05:32 (Artemis Clock) | and that we are safe to move even closer. So...
+10/04/2026 - 19:40:39 (-3 TMZ) | 09:00:05:39 (Artemis Clock) | We will make sure that we can move a little closer, and at that point we will move to a mile away from Orion. And at that point the ship will circle the capsule while NASA and Navy recovery forces work to get our astronauts out, and we should have great views of the bow from here, but also we have...
+10/04/2026 - 19:41:13 (-3 TMZ) | 09:00:06:13 (Artemis Clock) | all the images we have available to you. We also will have some views from above. We actually have five planes providing live views of splashdown today. In fact, some of those aerial assets just took off from San Diego minutes ago. And then actually here on the flight deck, you see four helicopters, the two in the back.
+10/04/2026 - 19:41:41 (-3 TMZ) | 09:00:06:41 (Artemis Clock) | and fly them back to our ship. Now, the combined team here on the ship, more than 550 people, left San Diego four days ago, and since then I've watched different teams train every day, train, rehearse, final preps to make sure that they're ready for today. So to give us more of an update about how recovery is going on right now...
+10/04/2026 - 19:42:09 (-3 TMZ) | 09:00:07:09 (Artemis Clock) | Right now it's looking great. When I left, they were just about to get into a weather briefing with the mission control center in Houston. But listening to the loops this morning and everything that's been going on, the re-entry trajectory correction burn -- sorry, the return trajectory correction burn went great. They were right on the mark.
+10/04/2026 - 19:42:37 (-3 TMZ) | 09:00:07:37 (Artemis Clock) | Teams out in the water, all our boats are launched or will be imminently. So yeah, it's just coming along great. Yeah, yeah. It's really nice to see. We did see some of those boats float behind us. We were hoping to give you a live view, but of course they floated right out of the camera shot as you came to us. But so basically the team right now.
+10/04/2026 - 19:43:12 (-3 TMZ) | 09:00:08:12 (Artemis Clock) | a whole lot of effort and a lot of updates back and forth between us and Houston to try to keep track of everything that's happening all in real time. And then after splashdown, that's when the recovery team really kicks into high gear. We have our boat teams, our boat crews going out, our divers doing hazardous tasks.
+10/04/2026 - 19:43:29 (-3 TMZ) | 09:00:08:29 (Artemis Clock) | assessments as they get progressively closer to the capsule, making sure, you know, it's safe for all of our people to go in, and it's also safe for the astronauts to come out, because really at the end of the day, that's what we're here for, is we're to make sure that the astronauts get home safe after their tremendous journey to the moon and back. Also we have...
+10/04/2026 - 19:43:57 (-3 TMZ) | 09:00:08:57 (Artemis Clock) | way through splashdown. They'll see it as soon as across the horizon all the way to the ocean here. And then afterwards we have to recover actually Orion to bring it into the well deck of the ship. Absolutely, yeah. And so once the astronauts are safe on board, then those same dock teams are going to transition into securing the capsule.
+10/04/2026 - 19:44:31 (-3 TMZ) | 09:00:09:31 (Artemis Clock) | Yeah, Orion comes in, goes hard down, and everyone cheers. Great day. Great day, exactly. Lots to coordinate, a lot to manage. Basically, planning for this recovery, Artemis 2 recovery, started a month after Artemis 1 launched. That was the uncrewed test flight of the space launch system rocket as well as the Orion spacecraft.
+10/04/2026 - 19:44:59 (-3 TMZ) | 09:00:09:59 (Artemis Clock) | visiting with a lot of people, a lot of groups, and just kind of get the feel of them. And everyone has that same kind of mentality. Everyone's excited, everyone's thrilled to see all that work that we've been doing, like you said, for the last three years, since right after the last one came back until now, and some people even further back, some of them go back a decade, or more.
+10/04/2026 - 19:45:33 (-3 TMZ) | 09:00:10:33 (Artemis Clock) | I'm ready. I'm excited. This has been the pinnacle of my career so far. It really has. I've seen a lot of firsts, a lot of lasts, but I can't think of ever topping seeing the first crew to go to the moon and back in 50 years.
+10/04/2026 - 19:45:36 (-3 TMZ) | 09:00:10:36 (Artemis Clock) | And to be here and be a part of that, it's just a tremendous privilege.
+10/04/2026 - 19:45:56 (-3 TMZ) | 09:00:10:56 (Artemis Clock) | Everybody how everybody on the ship is feeling, so thank you so much Paul. I appreciate you being here. And so Rob, we'll toss it back to you again. We will continue to join you with live updates from the ship as much as possible.
+10/04/2026 - 19:46:24 (-3 TMZ) | 09:00:11:24 (Artemis Clock) | Below their feet in the mid-deck area, if you will, Christina Koch and Jeremy Hansen of the Canadian Space Agency. They're in the final review of their entry procedures and all of the activities that will follow here very shortly in triphammer fashion. We should note that after splashdown occurs,
+10/04/2026 - 19:46:52 (-3 TMZ) | 09:00:11:52 (Artemis Clock) | Integrity spacecraft. We are expecting it to splash down upright in what is called the stable one configuration with the top of the spacecraft pointed upward. Stable two would indicate that it is upside down in the water. Regardless of the orientation,
+10/04/2026 - 19:47:20 (-3 TMZ) | 09:00:12:20 (Artemis Clock) | Read Wiseman acknowledging that the final steps in suit donning are now complete for the crew. Leak checks have been completed earlier. The CMU system, those five inflatable airbags, will be inflated with helium. Those airbags will
+10/04/2026 - 19:47:49 (-3 TMZ) | 09:00:12:49 (Artemis Clock) | To ensure that there's no leakage of toxic gas from the spacecraft, it should take about 15 minutes from splashdown to the power-down of all of the systems on Integrity. And at that point, assuming everything is in a nominal fashion, then the green light will be given for the
+10/04/2026 - 19:48:22 (-3 TMZ) | 09:00:13:22 (Artemis Clock) | alongside the hatchway to the spacecraft. That life raft will be used to bring the crew members out of this vehicle once the hatch is open, one by one. They'll get their land legs back after nine days of weightlessness before they are put in harnesses to be hoisted.
+10/04/2026 - 19:48:28 (-3 TMZ) | 09:00:13:28 (Artemis Clock) | One by one in sequential fashion and in alternating fashion to the two hovering Navy helicopters overhead.
+10/04/2026 - 19:48:33 (-3 TMZ) | 09:00:13:33 (Artemis Clock) | Go ahead.
+10/04/2026 - 19:48:44 (-3 TMZ) | 09:00:13:44 (Artemis Clock) | C-3 and 4 are connecting on bilgills. We're going to be stepping into leak check soon. 1 and 2 will be seated. 3 and 4 will be free float and we'll configure EPROC accordingly.
+10/04/2026 - 19:48:50 (-3 TMZ) | 09:00:13:50 (Artemis Clock) | Houston copies all.
+10/04/2026 - 19:49:24 (-3 TMZ) | 09:00:14:24 (Artemis Clock) | Everything is actually running a few minutes ahead of schedule. So once the life raft is inflated next to the integrity spacecraft and the recovery teams have arrived alongside of the vehicle, the hatch will be opened and the crew members will be brought outside.
+10/04/2026 - 19:49:58 (-3 TMZ) | 09:00:14:58 (Artemis Clock) | that should be about a 10 to 15 minute transit. Once the helicopters land on the deck of the USS John Murtha, the crew members will be exiting those helicopters and brought into medical bay on the deck on the ship itself for comprehensive medical exams.
+10/04/2026 - 19:50:26 (-3 TMZ) | 09:00:15:26 (Artemis Clock) | and ultimately will board a NASA jet for the flight back to the Johnson Space Center here in Houston. Just to recap some of the key times that are coming up, we are expecting the separation of the crew module from the service module just 43 minutes from now. That is expected to occur at
+10/04/2026 - 19:51:11 (-3 TMZ) | 09:00:16:11 (Artemis Clock) | deflect the buildup of heat against Integrity's heat shield. This was a deliberate move, a change in the procedures from the Artemis 1 mission that resulted in unexpected char loss on the Avcoat heat shield that had not been intended based.
+10/04/2026 - 19:51:39 (-3 TMZ) | 09:00:16:39 (Artemis Clock) | 3,000 mile transit across the Pacific Ocean, we are expecting now from entry interface to the point of splashdown to have a range of just 1,701 nautical miles, and that in of itself will reduce the exposure time of heating on the heat shield of the spacecraft.
+10/04/2026 - 19:52:07 (-3 TMZ) | 09:00:17:07 (Artemis Clock) | 6:53 and 31 seconds PM Central Time. That means that Integrity will be entering the Earth's atmosphere at an altitude of 400,000 feet, traveling at about 34,882 feet per second, heading for its splashdown site off the coast of
+10/04/2026 - 19:52:13 (-3 TMZ) | 09:00:17:13 (Artemis Clock) | San Diego as you just heard from Megan Cruz, on the deck of the USS John Murtha.
+10/04/2026 - 19:52:40 (-3 TMZ) | 09:00:17:40 (Artemis Clock) | Pacific time, two and a half hours before sunset. The actual total distance traveled for Integrity from launch to splashdown is estimated as 694,481 statute miles. Now that includes the first high elliptical orbit.
+10/04/2026 - 19:53:07 (-3 TMZ) | 09:00:18:07 (Artemis Clock) | miles above the Earth at its apogee and enabling a 24-hour period of systems checkouts before the flight control team here and the mission management team gave approval for Integrity to conduct its translunar injection that propelled it on its way to the moon and its historic lunar flyby.
+10/04/2026 - 19:53:27 (-3 TMZ) | 09:00:18:27 (Artemis Clock) | one hundred eighty-one statute miles.
+10/04/2026 - 19:53:50 (-3 TMZ) | 09:00:18:50 (Artemis Clock) | With everything proceeding on track and on time aboard integrity, the vehicle's system is in excellent shape as the Earth grows larger in the field of view. Let's go back to the USS John Murtha and Megan Cruz, who is standing by.
+10/04/2026 - 19:54:24 (-3 TMZ) | 09:00:19:24 (Artemis Clock) | You see some wind around blowing around my hair, but really nothing to speak of when it comes to having to recover our astronauts as well as no waves here really. So yeah, we're expecting a really great day. Also, hopefully some really great views. You can see behind me that some of the clouds are starting to break up, so that's really exciting. And now, of course, this ship has all...
+10/04/2026 - 19:54:53 (-3 TMZ) | 09:00:19:53 (Artemis Clock) | NASA flight surgeon, great to have you here, Rick. You too, Megan. It is a blessing to be out here this day with our teams. We've trained three years for this nonstop with the U.S. Navy, and along with EGS. And we've so looked forward to this day, and just by God's grace, everything's parting, the skies and everything, the crew's doing great.
+10/04/2026 - 19:55:26 (-3 TMZ) | 09:00:20:26 (Artemis Clock) | Sure, so the crew woke up, when they splashed down, they were woken up about eight and a half hours ago. Me and my fellow crew surgeons, Dr. Chris Hossen and Rafi Kundjian from the Canadian Space Agency, spoke with them about six and a half hours ago, just to double check on how they were doing, if there is any medical issues.
+10/04/2026 - 19:55:55 (-3 TMZ) | 09:00:20:55 (Artemis Clock) | normal space adaptation, once they got to space, they kind of have to re-replace some of that fluid to help them with the whole landing kind of re-adaptation to 1G, which they haven't done for the last 10 days. And then just kind of let them know how things are gonna play out, you know, out with the open water teams all the way until we finally get to the med deck. So they were very--
+10/04/2026 - 19:56:24 (-3 TMZ) | 09:00:21:24 (Artemis Clock) | focused on the job that they had to do. Like again, we've trained a long time for this and we're ready. And you said some medications. I mean those are kind of just to mitigate the effects of obviously their more than 695,000 mile journey back to Earth. It's just like anti-nausea medication, right? Yeah, exactly Megan.
+10/04/2026 - 19:56:58 (-3 TMZ) | 09:00:21:58 (Artemis Clock) | even to some vomiting. And, you know, with our crews that land out in Karaganda, the Soyuz crews or our SpaceX crews, you know, they all kind of experience the same thing. This will be the first time we're landing in water since December of 1972, and I worked with all the Apollo astronauts years ago, and they all told me.
+10/04/2026 - 19:57:26 (-3 TMZ) | 09:00:22:26 (Artemis Clock) | medicine, just to help with coming back to one earth or one G. The effects of microgravity, especially as you age and you have a little arthritis, you feel great in microgravity, and everyone kind of curses coming back to the ground, like, oh dang, one G. But so that helps a little bit. But for the most part, the main thing is just replacing that fluid and then trying to help
+10/04/2026 - 19:57:42 (-3 TMZ) | 09:00:22:42 (Artemis Clock) | with that transition back to one G, and then we're ready to go. Yeah, and their health is assessed almost immediately after they splash down. Yeah, so we have Dr. Jesse Wang, and we have our independent duty corpsmen who are the Navy version of paramedics, extremely highly trained, highly experienced Navy medics and divers.
+10/04/2026 - 19:58:10 (-3 TMZ) | 09:00:23:10 (Artemis Clock) | will go out there and look at each crew, kind of do their assessments, get vital signs, report back to Dr. Haus and Kumjianai back in the med bay, let them know how they're doing, and then, you know, if they've got the normal kind of space adaptation kind of things, we expect that they're good to go on that. If anything, you know, didn't go the way we want, they're all prepared.
+10/04/2026 - 19:58:38 (-3 TMZ) | 09:00:23:38 (Artemis Clock) | Nobody might be injured. We don't expect any injuries, but coming back, you know, going 25,000 miles an hour down to, you know, 20 miles an hour is still a dynamic process. I've heard it described as, you know, kind of like a car crash. And then the crew will be ready to go, and Jesse and his team will make that transition to get them out.
+10/04/2026 - 19:59:07 (-3 TMZ) | 09:00:24:07 (Artemis Clock) | and that's where me and the astronaut chief Scott Tingle will actually meet them. I'll get eyes on them, make sure they're all good, just take very slow transitions, and then one by one we'll either get them out with the SMTs, the SAR med techs, under each arm,
+10/04/2026 - 19:59:53 (-3 TMZ) | 09:00:24:53 (Artemis Clock) | 25 years. So we kind of know that, that journey, how it affects the body. But yes, we're talking about humans returning from the moon for the first time since 1972. How is this different from your perspective? So it's different in one very significant respect with on Apollo for
+10/04/2026 - 20:00:21 (-3 TMZ) | 09:00:25:21 (Artemis Clock) | From a musculoskeletal standpoint, you lose your strength and your stamina very quickly. We had something called the Orion flywheel, which was able to impart much greater loads in terms of resistance, so they were able to do squats, deadlifts, different things, not dissimilar to what the ISS astronauts do, but with a lot less room to do it. And they also did rowing activities.
+10/04/2026 - 20:00:50 (-3 TMZ) | 09:00:25:50 (Artemis Clock) | Affectionately known as the acers back in Houston, really work hard to get them in the best shape they're going to have to be in to get to the moon. That device hopefully will maintain that. And Apollo only had about a 4.3-day journey to the moon. Our astronauts are going to have about a 10 to 14-day journey. So maintaining that physical fitness...
+10/04/2026 - 20:01:20 (-3 TMZ) | 09:00:26:20 (Artemis Clock) | So we're very excited about what the astronauts have said about the device and what they have to say about the role exercise plays going to the moon. And also the mental benefits. They just really like sweating, breaking a sweat and actually just feeling like they're just getting a workout. Thank you so much Rick. I really appreciate it.
+10/04/2026 - 20:01:24 (-3 TMZ) | 09:00:26:24 (Artemis Clock) | They're gonna be in good hands, so we'll let you get back to it. Thank you so much. - All right, Megan. Thanks for the time. - Back to you, Rob.
+10/04/2026 - 20:01:39 (-3 TMZ) | 09:00:26:39 (Artemis Clock) | Okay, Megan, back here in mission control in Houston, everything is moving along in order. This view of Reid Wiseman on the left, Victor Glover on the right, we have good suit leak checks. Everything aboard integrity is in excellent shape. The vehicle with the Earth growing larger and larger.
+10/04/2026 - 20:02:01 (-3 TMZ) | 09:00:27:01 (Artemis Clock) | and for a splashdown just one hour and five minutes from now.
+10/04/2026 - 20:02:07 (-3 TMZ) | 09:00:27:07 (Artemis Clock) | Integrity just under a minute till your GPS maneuver initiates, and both GPS units look eager to acquire.
+10/04/2026 - 20:02:13 (-3 TMZ) | 09:00:27:13 (Artemis Clock) | Outlanding seats three and four are working on seat strap in now.
+10/04/2026 - 20:02:18 (-3 TMZ) | 09:00:27:18 (Artemis Clock) | Houston copies.
+10/04/2026 - 20:02:24 (-3 TMZ) | 09:00:27:24 (Artemis Clock) | Once again, as we start to close in on some of the major milestones of the first one coming up in just 31 minutes,
+10/04/2026 - 20:02:46 (-3 TMZ) | 09:00:27:46 (Artemis Clock) | Affirmative.
+10/04/2026 - 20:03:14 (-3 TMZ) | 09:00:28:14 (Artemis Clock) | On Artemis I, as I think most folks know by now, we flew a trajectory known as a skip entry in which we performed an initial dip into the atmosphere to bleed off some energy, then we skipped out of the atmosphere and dipped back into the atmosphere before splashing down on the Pacific Ocean.
+10/04/2026 - 20:03:43 (-3 TMZ) | 09:00:28:43 (Artemis Clock) | effects on the heat shield known as Avcoat. Before the flight, we had an opportunity to sit down and talk with entry flight director Rick Henfling to get a perspective on what this all means and how the mission was redesigned to try to protect the integrity.
+10/04/2026 - 20:04:01 (-3 TMZ) | 09:00:29:01 (Artemis Clock) | heat shield to a higher extent. Let's take a look at that interview. Returning from the moon is a lot different than deorbiting from low Earth orbit. When we return from the moon, we expect to achieve velocities upwards of 36,000 feet per second. And in order to slow down to a nice, graceful
+10/04/2026 - 20:04:29 (-3 TMZ) | 09:00:29:29 (Artemis Clock) | Pressure buildup inside the char layer of the heat shield resulted in the char losses we saw. NASA established a Tiger Team whose job was to investigate the cause of the problem and then make recommendations on how to fly the Artemis II mission safely and successfully. And so for Artemis II, we are going to...
+10/04/2026 - 20:05:14 (-3 TMZ) | 09:00:30:14 (Artemis Clock) | the deleterious forces against that heat shield that were noticed on the Artemis I mission. And we think we see a beautiful sunrise over the west coast of Australia.
+10/04/2026 - 20:05:42 (-3 TMZ) | 09:00:30:42 (Artemis Clock) | Commander Reid Wiseman reveling in his final hour in space on this mission as Integrity is passing over the southwest coast of Australia now at an altitude of some 7,600 nautical miles.
+10/04/2026 - 20:05:48 (-3 TMZ) | 09:00:30:48 (Artemis Clock) | That will begin the southwest to northeasterly transit across the Pacific Ocean.
+10/04/2026 - 20:06:15 (-3 TMZ) | 09:00:31:15 (Artemis Clock) | service module separation that will be followed about three and a half minutes later by the raise burn that we've discussed, a 19-second burn of Integrity's thrusters to fine-tune its angle of attack as it enters the U.S. atmosphere.
+10/04/2026 - 20:06:38 (-3 TMZ) | 09:00:31:38 (Artemis Clock) | 882 feet per second at an altitude of 400,000 feet.
+10/04/2026 - 20:06:44 (-3 TMZ) | 09:00:31:44 (Artemis Clock) | Just 24 seconds after entry interface, we will begin a blackout period of six minutes in duration at 6:53 and 54 seconds p.m. central time. Now right.
+10/04/2026 - 20:06:49 (-3 TMZ) | 09:00:31:49 (Artemis Clock) | About ten seconds after the blackout period begins, we are expected to reach peak speed.
+10/04/2026 - 20:07:12 (-3 TMZ) | 09:00:32:12 (Artemis Clock) | short of the velocity record set by the Apollo 10 astronauts, Tom Stafford, Gene Cernan and John Young, when they returned from the moon on the Apollo 10 mission in 1969.
+10/04/2026 - 20:07:38 (-3 TMZ) | 09:00:32:38 (Artemis Clock) | 5,000 degrees while we're in a communications blackout from integrity and its astronauts. That blackout should end at 6:59 and 55 seconds p.m. Central Time, at which point we expect to regain communications with the crew. CAPCOM Jackie
+10/04/2026 - 20:08:07 (-3 TMZ) | 09:00:33:07 (Artemis Clock) | We'll await a response from the crew as they come out of that blackout period and at that point, their altitude will be just 157,000 feet above the Earth, traveling at 13,000 feet per second with a range to splashdown of just 147 nautical miles.
+10/04/2026 - 20:08:12 (-3 TMZ) | 09:00:33:12 (Artemis Clock) | nautical miles.
+10/04/2026 - 20:08:53 (-3 TMZ) | 09:00:33:53 (Artemis Clock) | That will begin the recovery operations that you just heard Megan Cruz discuss with her folks on the USS John Murtha.
+10/04/2026 - 20:09:47 (-3 TMZ) | 09:00:34:47 (Artemis Clock) | It will be quite rapid fire, just 13 and a half minutes from the point at which we begin to descend into the Earth's atmosphere till splashdown, and just to show you, as Rick Scheuring, the flight surgeon alluded to in his interview with Megan Cruz.
+10/04/2026 - 20:10:16 (-3 TMZ) | 09:00:35:16 (Artemis Clock) | but the vehicle and the parachutes are all designed to support all of that, so we'll be standing by to report all that to you in sequential fashion as these milestones are ticked off and as we hear from the crew during its entry back into the vehicle.
+10/04/2026 - 20:10:38 (-3 TMZ) | 09:00:35:38 (Artemis Clock) | minutes away from splashdown.
+10/04/2026 - 20:10:44 (-3 TMZ) | 09:00:35:44 (Artemis Clock) | So with all of those preparations ongoing, we can return here briefly for another report from the USS John P. Murtha and Megan Cruz. Megan?
+10/04/2026 - 20:11:06 (-3 TMZ) | 09:00:36:06 (Artemis Clock) | We'll regain that communication with the USS John P. Murtha just momentarily.
+10/04/2026 - 20:11:35 (-3 TMZ) | 09:00:36:35 (Artemis Clock) | to the crew and receiving their reports as they enter the Earth's atmosphere for their 13-and-a-half-minute plunge back into the atmosphere for splashdown off the coast of San Diego. Now we have the ship back with us and Megan Cruz aboard the USS John P. Murtha. Megan.
+10/04/2026 - 20:12:02 (-3 TMZ) | 09:00:37:02 (Artemis Clock) | Yeah, the excitement is really building here on the ship. I'm watching right now one of the weather balloons being lofted up from the ship. Again, weather balloons very important for us to make sure that we are tracking the right kind of weather, and also the data that's needed for what's called our Sasquatch team. Again, it's a team...
+10/04/2026 - 20:12:35 (-3 TMZ) | 09:00:37:35 (Artemis Clock) | But with me right now is Captain Eric Kenny. He's the commanding officer of the John P. Murtha Naval ship. Thank you so much for being here. There are so many moving parts that you have to keep an eye on. That's absolutely right. Yeah. First of all, on behalf of the crew of USS John P. Murtha, Megan, thanks for having me on today. Happy to
+10/04/2026 - 20:13:09 (-3 TMZ) | 09:00:38:09 (Artemis Clock) | helos as well as the two crew helicopters that will go recover the crew. This is just one of the many things that again our ship of 550 people — it's something that you oversee as commanding officer. Yeah, absolutely. Every commanding officer, I think really every Naval service member, our priority is always safety. And as the commanding officer,
+10/04/2026 - 20:13:31 (-3 TMZ) | 09:00:38:31 (Artemis Clock) | Really, I would say my message to the crew has sort of changed over the past 24 hours. As we're leading up to today, we've been building up the excitement and motivating the team for the training that we've executed.
+10/04/2026 - 20:13:37 (-3 TMZ) | 09:00:38:37 (Artemis Clock) | Now I'm trying to get us to slow down a little bit. Trust our training, don't believe all the hype, don't believe...
+10/04/2026 - 20:13:42 (-3 TMZ) | 09:00:38:42 (Artemis Clock) | Just let's...
+10/04/2026 - 20:13:54 (-3 TMZ) | 09:00:38:54 (Artemis Clock) | trust what we've done to get to this point, and if we do that, we'll be successful today. And also part of the big success is obviously the coordination between NASA and the U.S. military. How does it feel being able to support the human space program we have? Yeah, I mean, since 1959 with Mercury, Gemini...
+10/04/2026 - 20:13:59 (-3 TMZ) | 09:00:38:59 (Artemis Clock) | Gemini, Apollo, the history between NASA and the Navy has been in lockstep.
+10/04/2026 - 20:14:21 (-3 TMZ) | 09:00:39:21 (Artemis Clock) | over the past four or five years, really, this ship over the past year.
+10/04/2026 - 20:14:23 (-3 TMZ) | 09:00:39:23 (Artemis Clock) | We've constantly trained and working for this moment right here, you know.
+10/04/2026 - 20:14:26 (-3 TMZ) | 09:00:39:26 (Artemis Clock) | Building up the hype to get to this point today, to be able to trust all the training we've done.
+10/04/2026 - 20:14:33 (-3 TMZ) | 09:00:39:33 (Artemis Clock) | we're working with NASA, the Air Force, the medical team, dive team. You want to talk about high-performance organizations coming together, working in unison? We are seeing that here on board the USS.
+10/04/2026 - 20:14:36 (-3 TMZ) | 09:00:39:36 (Artemis Clock) | This is John B. Murphy, and I can't be more proud of everyone.
+10/04/2026 - 20:14:56 (-3 TMZ) | 09:00:39:56 (Artemis Clock) | the commanding officer of this ship back in February. How does it personally feel for you to be a part of this historic moment today? Yeah, I mean, first and foremost, I'd say any opportunity to command any warship in the United States Navy is a tremendous honor.
+10/04/2026 - 20:14:59 (-3 TMZ) | 09:00:39:59 (Artemis Clock) | This tremendous honor is a
+10/04/2026 - 20:15:01 (-3 TMZ) | 09:00:40:01 (Artemis Clock) | pinnacle of any naval officer's career.
+10/04/2026 - 20:15:07 (-3 TMZ) | 09:00:40:07 (Artemis Clock) | That being said, as my change of command was approaching, and I realized that our...
+10/04/2026 - 20:15:10 (-3 TMZ) | 09:00:40:10 (Artemis Clock) | This was going to be in the window here. To say that I'm...
+10/04/2026 - 20:15:13 (-3 TMZ) | 09:00:40:13 (Artemis Clock) | Humbled and honored to be here is an understatement.
+10/04/2026 - 20:15:15 (-3 TMZ) | 09:00:40:15 (Artemis Clock) | What really just excites me is the opportunity to see this crew who has been training so hard over the...
+10/04/2026 - 20:15:24 (-3 TMZ) | 09:00:40:24 (Artemis Clock) | the past year plus, come together. It is what inspires me, listening to NASA and the ownership and pride they take.
+10/04/2026 - 20:15:29 (-3 TMZ) | 09:00:40:29 (Artemis Clock) | They make my crew better. I think we're making NASA better together.
+10/04/2026 - 20:15:37 (-3 TMZ) | 09:00:40:37 (Artemis Clock) | That synergy is something that I'm happy to see and hopefully take forward with me in my career.
+10/04/2026 - 20:15:43 (-3 TMZ) | 09:00:40:43 (Artemis Clock) | Yeah, it's all about partnerships. We couldn't do it without you, and we couldn't have gotten to the moon without our international partners as well. So thank you so much, Captain. It was really great to have you here today. - Thanks, Megan. - Awesome. All right, Rob, back to you.
+10/04/2026 - 20:16:11 (-3 TMZ) | 09:00:41:11 (Artemis Clock) | Quick view of the crew. We'll get that view back and there they are again. Here in Mission Control, the Entry Team of flight controllers, led by Rick Henfling and Jackie McHaffie serving as the spacecraft communicator. We have just handed over communications links from the Deep Space Network that
+10/04/2026 - 20:16:34 (-3 TMZ) | 09:00:41:34 (Artemis Clock) | relay satellite system as we prepare for the Crew Module/Service Module separation that will take place just 17 minutes from now.
+10/04/2026 - 20:17:02 (-3 TMZ) | 09:00:42:02 (Artemis Clock) | nautical miles from splashdown. Just one other quick note about the comparison from the Artemis I entry profile to the Artemis II entry profile and how that is serving as a extra layer of protection for Integrity's heat shield.
+10/04/2026 - 20:17:19 (-3 TMZ) | 09:00:42:19 (Artemis Clock) | The Artemis I entry had an entry range of some 3,178 nautical miles, a very long downtrack, and a very longer period of exposure to heat loads than we're experiencing tonight. It also had that skip entry profile that we discussed earlier, dipping into the Earth's atmosphere then back.
+10/04/2026 - 20:17:29 (-3 TMZ) | 09:00:42:29 (Artemis Clock) | it was about 20 minutes of exposure.
+10/04/2026 - 20:17:37 (-3 TMZ) | 09:00:42:37 (Artemis Clock) | Jackie, we have it loud and clear on Cedris.
+10/04/2026 - 20:17:40 (-3 TMZ) | 09:00:42:40 (Artemis Clock) | We have you the same.
+10/04/2026 - 20:18:00 (-3 TMZ) | 09:00:43:00 (Artemis Clock) | So the Artemis I entry had the vehicle...
+10/04/2026 - 20:18:21 (-3 TMZ) | 09:00:43:21 (Artemis Clock) | We are watching. We are starting to get into the window where they may start acquiring, so it should be within the next ten minutes.
+10/04/2026 - 20:18:32 (-3 TMZ) | 09:00:43:32 (Artemis Clock) | Okay, sounds good. We're holding at step 17 and getting ready for a CMRCS hot fire.
+10/04/2026 - 20:18:49 (-3 TMZ) | 09:00:43:49 (Artemis Clock) | And that exchange indicating that we are expecting to acquire data from the GPS system on board. That'll be a navigational tool that will basically tell Integrity's computers that they're on track, down the centerline of the corridor for the entry interface that will lead them to their splashdown.
+10/04/2026 - 20:19:32 (-3 TMZ) | 09:00:44:32 (Artemis Clock) | the angle of attack, a little bit steeper angle of attack that will protect the heat shield from excessive heat loads. So that is the difference between Artemis I and Artemis II, all designed into this mission to gather data to protect the heat shield since the Artemis III mission and beyond.
+10/04/2026 - 20:19:54 (-3 TMZ) | 09:00:44:54 (Artemis Clock) | the moon when we initiate lunar landings.
+10/04/2026 - 20:20:22 (-3 TMZ) | 09:00:45:22 (Artemis Clock) | visual separation and just 17 minutes away from the raise burn, that 19-second firing of the thrusters that will basically be the final fine-tuning of the angle of attack for Integrity as it enters the Earth's atmosphere.
+10/04/2026 - 20:21:18 (-3 TMZ) | 09:00:46:18 (Artemis Clock) | Integrity, cabin configured, all crew suited and seated.
+10/04/2026 - 20:21:29 (-3 TMZ) | 09:00:46:29 (Artemis Clock) | Houston copies. That confirmation from Reid Wiseman aboard Integrity as you see the assets being deployed to the splashdown zone. At the time of splashdown, we expect the John P. Murtha to be about five miles away from Integrity, keeping a safe distance.
+10/04/2026 - 20:21:52 (-3 TMZ) | 09:00:46:52 (Artemis Clock) | for the recovery teams to begin to approach the vehicle to erect that inflatable raft.
+10/04/2026 - 20:22:06 (-3 TMZ) | 09:00:47:06 (Artemis Clock) | That call from spacecraft communicator Jackie McHaffey indicating that we're two minutes away from a quick burst of the reaction control system thrusters. That will be a hot fire test prior to the separation of the spacecraft.
+10/04/2026 - 20:22:11 (-3 TMZ) | 09:00:47:11 (Artemis Clock) | crew module from the service module.
+10/04/2026 - 20:22:17 (-3 TMZ) | 09:00:47:17 (Artemis Clock) | The European Service Module has performed flawlessly throughout this flight.
+10/04/2026 - 20:22:50 (-3 TMZ) | 09:00:47:50 (Artemis Clock) | The manufacturing, the design of the European service module, they deserve quite a bit of credit on this mission for not only propelling the integrity and its astronauts toward the moon, but also conducting the fine tuning of its trajectory to bring it to
+10/04/2026 - 20:23:12 (-3 TMZ) | 09:00:48:12 (Artemis Clock) | Integrity down for its splashdown in the Pacific just forty-four minutes from now.
+10/04/2026 - 20:23:59 (-3 TMZ) | 09:00:48:59 (Artemis Clock) | Looking at is a computer-generated visualization based on real-time telemetry from Integrity currently traveling about 16,000 miles an hour.
+10/04/2026 - 20:24:25 (-3 TMZ) | 09:00:49:25 (Artemis Clock) | One further prop cautions for taking a look.
+10/04/2026 - 20:24:29 (-3 TMZ) | 09:00:49:29 (Artemis Clock) | Now just about 5,100 miles from Earth, splashdown scheduled 43 minutes from now.
+10/04/2026 - 20:24:33 (-3 TMZ) | 09:00:49:33 (Artemis Clock) | We're just nine and a half minutes away from the crew module/service module separation.
+10/04/2026 - 20:25:00 (-3 TMZ) | 09:00:50:00 (Artemis Clock) | We are confirming. Integrity, we are assessing details, but so far looks like a good hot fire.
+10/04/2026 - 20:25:29 (-3 TMZ) | 09:00:50:29 (Artemis Clock) | In advance of the crew module service module separation that's coming up just eight and a half minutes from now. This will begin the period in which we will have rapid fire succession of critical activities on board that will lead to entry interface just 28 minutes from now, where the vehicle will...
+10/04/2026 - 20:25:35 (-3 TMZ) | 09:00:50:35 (Artemis Clock) | enter the Earth's atmosphere at an altitude of 400,000 feet, the time of entry interface, 6:53 and 30 seconds p.m. central time.
+10/04/2026 - 20:26:24 (-3 TMZ) | 09:00:51:24 (Artemis Clock) | Integrity's astronauts were awakened at mid-morning to begin their entry preparations, and propulsion officer now reports a good hot fire test in preparation for the crew module/service module separation.
+10/04/2026 - 20:27:08 (-3 TMZ) | 09:00:52:08 (Artemis Clock) | Integrity copies.
+10/04/2026 - 20:27:19 (-3 TMZ) | 09:00:52:19 (Artemis Clock) | that GPS discussion indicating that we will be acquiring navigational data for integrity through the global positioning system equipment on board. We just don't have it yet, but we will. All of integrity systems are in great shape to support its high-speed entry into the Earth's atmosphere.
+10/04/2026 - 20:27:41 (-3 TMZ) | 09:00:52:41 (Artemis Clock) | Your call on GPS, we at least have GPS one looking good onboard.
+10/04/2026 - 20:27:44 (-3 TMZ) | 09:00:52:44 (Artemis Clock) | We are confirming.
+10/04/2026 - 20:28:10 (-3 TMZ) | 09:00:53:10 (Artemis Clock) | data, we are on a communications link now through the Tracking and Data Relay Satellite System. Now, following splashdown, we're going to lose that link and go to what's called a VLDR, a very low data rate communications link, so that we can talk to the crew
+10/04/2026 - 20:28:35 (-3 TMZ) | 09:00:53:35 (Artemis Clock) | And especially GPS one is accepting in nav channels one and three.
+10/04/2026 - 20:28:57 (-3 TMZ) | 09:00:53:57 (Artemis Clock) | Communication and control officer is spot on.
+10/04/2026 - 20:29:01 (-3 TMZ) | 09:00:54:01 (Artemis Clock) | We have now armed the pyros for the crew module-service module separation coming up less than five minutes from now.
+10/04/2026 - 20:29:31 (-3 TMZ) | 09:00:54:31 (Artemis Clock) | before we begin a six-minute blackout period. Integrity, Houston, your vehicle is in a good config for CMSM SEP and go for CM race.
+10/04/2026 - 20:29:36 (-3 TMZ) | 09:00:54:36 (Artemis Clock) | Houston, we see the same on board and copy go for CM rays.
+10/04/2026 - 20:29:58 (-3 TMZ) | 09:00:54:58 (Artemis Clock) | Change in velocity of 9.9 feet per second, a slight nudge of the aft end of the vehicle.
+10/04/2026 - 20:30:20 (-3 TMZ) | 09:00:55:20 (Artemis Clock) | On the heat shield, as we reach a point downrange from the start of entry interface, some 1,701 nautical miles to the splashdown site.
+10/04/2026 - 20:30:42 (-3 TMZ) | 09:00:55:42 (Artemis Clock) | Integrity system's in excellent shape.
+10/04/2026 - 20:30:48 (-3 TMZ) | 09:00:55:48 (Artemis Clock) | We are currently 3,300 nautical miles left in this mission, splashdown scheduled 36 minutes, 39 seconds from now.
+10/04/2026 - 20:31:16 (-3 TMZ) | 09:00:56:16 (Artemis Clock) | We think it could happen again when the thrusters fire in the future, so we are going to suppress those messages.
+10/04/2026 - 20:31:19 (-3 TMZ) | 09:00:56:19 (Artemis Clock) | We concur with suppress, not inhibit. Thank you.
+10/04/2026 - 20:32:09 (-3 TMZ) | 09:00:57:09 (Artemis Clock) | Now, coming up on about 90 seconds till the crew module-service module separation.
+10/04/2026 - 20:32:35 (-3 TMZ) | 09:00:57:35 (Artemis Clock) | completion of this flight, all of the preparatory activities leading up to the vehicle entering the Earth's atmosphere just 21 minutes from now.
+10/04/2026 - 20:32:57 (-3 TMZ) | 09:00:57:57 (Artemis Clock) | Coming up on one minute.
+10/04/2026 - 20:32:59 (-3 TMZ) | 09:00:57:59 (Artemis Clock) | Mark, one minute till crew module-service module separation.
+10/04/2026 - 20:34:14 (-3 TMZ) | 09:00:59:14 (Artemis Clock) | Houston, good sup on board.
+10/04/2026 - 20:34:20 (-3 TMZ) | 09:00:59:20 (Artemis Clock) | The European service module now separated from Integrity, a job well done. Integrity, no action for the four CDH cautions. Those are SM related, not applicable.
+10/04/2026 - 20:34:25 (-3 TMZ) | 09:00:59:25 (Artemis Clock) | Integrity
+10/04/2026 - 20:34:47 (-3 TMZ) | 09:00:59:47 (Artemis Clock) | So, with integrity now flying free on its own for the remaining thirty-two minutes of this mission,
+10/04/2026 - 20:34:53 (-3 TMZ) | 09:00:59:53 (Artemis Clock) | Next up, the raise burn, a 19-second firing of Integrity's thrusters.
+10/04/2026 - 20:34:59 (-3 TMZ) | 09:00:59:59 (Artemis Clock) | Integrity copies, good GPS too.
+10/04/2026 - 20:35:27 (-3 TMZ) | 09:01:00:27 (Artemis Clock) | To put it in the right angle, if you will, the angle of attack that it will fly in during its entrance into the Earth's atmosphere. Entry interface now just 18 minutes, 25 seconds away.
+10/04/2026 - 20:35:47 (-3 TMZ) | 09:01:00:47 (Artemis Clock) | This is the maneuvering of Integrity to the raise burn orientation.
+10/04/2026 - 20:35:50 (-3 TMZ) | 09:01:00:50 (Artemis Clock) | Just twenty-eight hundred miles from Earth.
+10/04/2026 - 20:36:00 (-3 TMZ) | 09:01:01:00 (Artemis Clock) | You can see we've got a great view of the European service module out the window with the sun hitting the side and the solar rays, and the NASA worm right there. It's a beautiful-looking machine.
+10/04/2026 - 20:36:06 (-3 TMZ) | 09:01:01:06 (Artemis Clock) | Roger.
+10/04/2026 - 20:36:28 (-3 TMZ) | 09:01:01:28 (Artemis Clock) | Please burn.
+10/04/2026 - 20:37:57 (-3 TMZ) | 09:01:02:57 (Artemis Clock) | Integrity good. CM raise burn. Your flight path angle is within limits.
+10/04/2026 - 20:38:25 (-3 TMZ) | 09:01:03:25 (Artemis Clock) | So the final maneuver is now complete. Our trajectory for a splashdown in the Pacific 29 minutes from now is set and will not be amended any further. And we have the right angle of attack to mitigate any excessive heat loads on the vehicle.
+10/04/2026 - 20:38:48 (-3 TMZ) | 09:01:03:48 (Artemis Clock) | Minute or so in that attitude, we expect about a minute LOS.
+10/04/2026 - 20:38:51 (-3 TMZ) | 09:01:03:51 (Artemis Clock) | We copy.
+10/04/2026 - 20:39:18 (-3 TMZ) | 09:01:04:18 (Artemis Clock) | forty-five seconds from now.
+10/04/2026 - 20:39:24 (-3 TMZ) | 09:01:04:24 (Artemis Clock) | 6:53 and 30 seconds is what is pegged for entry interface at an altitude of 400,000 feet traveling at approximately 34,800 feet per second, range to touchdown or splashdown 1,701 nautical miles.
+10/04/2026 - 20:39:54 (-3 TMZ) | 09:01:04:54 (Artemis Clock) | due to the collision, if you will, of the velocity of the spacecraft with the friction of the Earth's atmosphere. That six-minute blackout is expected to begin at 6:53:54 p.m. Central Time.
+10/04/2026 - 20:39:58 (-3 TMZ) | 09:01:04:58 (Artemis Clock) | During that period of time,
+10/04/2026 - 20:40:21 (-3 TMZ) | 09:01:05:21 (Artemis Clock) | Just short of the velocity record set by Apollo 10 of 24,791 miles per hour in 1969.
+10/04/2026 - 20:40:45 (-3 TMZ) | 09:01:05:45 (Artemis Clock) | We will be just 204,000 feet above the Earth, traveling at 33,000 feet per second.
+10/04/2026 - 20:41:11 (-3 TMZ) | 09:01:06:11 (Artemis Clock) | It'll splash down in just seven minutes, at which point we'll start deploying the series of parachutes to slow integrity down to an ultimate splashdown velocity of just 19 miles an hour.
+10/04/2026 - 20:41:15 (-3 TMZ) | 09:01:06:15 (Artemis Clock) | We see the same waiting for the one eighty rolls.
+10/04/2026 - 20:42:02 (-3 TMZ) | 09:01:07:02 (Artemis Clock) | Guess we'll have to go back.
+10/04/2026 - 20:42:31 (-3 TMZ) | 09:01:07:31 (Artemis Clock) | It will splashdown just 25 minutes from now. Three forward bay cover parachutes will be used to pull the forward bay cover off the top of the vehicle. Then two drogue parachutes will be deployed to slow and stabilize the crew module during its descent, followed by three pilot parachutes that will lift
+10/04/2026 - 20:43:00 (-3 TMZ) | 09:01:08:00 (Artemis Clock) | Three main parachutes deployed. These will be 116 feet in diameter, each main parachute approximately 265 feet long when reefed. The parachutes will ultimately slow Integrity down from its peak speed of about 2,000 miles an hour to about 20 miles an hour
+10/04/2026 - 20:43:05 (-3 TMZ) | 09:01:08:05 (Artemis Clock) | Almost thirty-three times the speed of sound to a gentle nineteen miles an hour at splashdown.
+10/04/2026 - 20:43:28 (-3 TMZ) | 09:01:08:28 (Artemis Clock) | currently in a roll to the proper attitude for entry interface. Our trajectory is right on according to flight dynamics.
+10/04/2026 - 20:43:56 (-3 TMZ) | 09:01:08:56 (Artemis Clock) | Trajectory from southwest to northeast across the Pacific Ocean, descending at a rate of 15,000 feet per second.
+10/04/2026 - 20:44:18 (-3 TMZ) | 09:01:09:18 (Artemis Clock) | Range to touchdown 4,300 nautical miles, all the systems in excellent shape.
+10/04/2026 - 20:44:48 (-3 TMZ) | 09:01:09:48 (Artemis Clock) | Looks good on board, Jackie.
+10/04/2026 - 20:45:00 (-3 TMZ) | 09:01:10:00 (Artemis Clock) | This view out of one of Integrity's windows. We had a call for three good barros. Those are barometric pressure sensors that feed altitude and rate of descent information to Integrity's computers that will trigger the parachute deployment sequence.
+10/04/2026 - 20:45:06 (-3 TMZ) | 09:01:10:06 (Artemis Clock) | We are less than nine minutes away from entry interface, twenty-two minutes from splashdown.
+10/04/2026 - 20:45:28 (-3 TMZ) | 09:01:10:28 (Artemis Clock) | You can see the reflection of one of the crew members in the window.
+10/04/2026 - 20:45:50 (-3 TMZ) | 09:01:10:50 (Artemis Clock) | Some scattered clouds, winds at 10 knots.
+10/04/2026 - 20:45:52 (-3 TMZ) | 09:01:10:52 (Artemis Clock) | Wave heights just about four feet.
+10/04/2026 - 20:45:56 (-3 TMZ) | 09:01:10:56 (Artemis Clock) | A gentle day in the Pacific for the homecoming of Integrity's astronauts.
+10/04/2026 - 20:46:14 (-3 TMZ) | 09:01:11:14 (Artemis Clock) | Integrity, back in EI attitude.
+10/04/2026 - 20:46:34 (-3 TMZ) | 09:01:11:34 (Artemis Clock) | Come on board, Jackie.
+10/04/2026 - 20:46:40 (-3 TMZ) | 09:01:11:40 (Artemis Clock) | Houston, hardware is complete. Crew and vehicle are configured for entry.
+10/04/2026 - 20:46:43 (-3 TMZ) | 09:01:11:43 (Artemis Clock) | Houston copies.
+10/04/2026 - 20:47:02 (-3 TMZ) | 09:01:12:02 (Artemis Clock) | BFS
+10/04/2026 - 20:47:26 (-3 TMZ) | 09:01:12:26 (Artemis Clock) | And Houston, in instruction 509, we are not below zero decimal two.
+10/04/2026 - 20:47:47 (-3 TMZ) | 09:01:12:47 (Artemis Clock) | integrity
+10/04/2026 - 20:48:16 (-3 TMZ) | 09:01:13:16 (Artemis Clock) | Splashdown at that point will be one thousand seven hundred one nautical miles.
+10/04/2026 - 20:48:44 (-3 TMZ) | 09:01:13:44 (Artemis Clock) | And once again, just a reminder, some 24 seconds after entry interface, we do expect to lose communications with the vehicle and the crew during a six-minute blackout period when a plasma shield will build up around the spacecraft due to the ion...
+10/04/2026 - 20:48:47 (-3 TMZ) | 09:01:13:47 (Artemis Clock) | ionization due to heating effects.
+10/04/2026 - 20:49:17 (-3 TMZ) | 09:01:14:17 (Artemis Clock) | And once again, that's due to the fact that a plasma buildup around the vehicle will prevent communications and data, so we will not be able to talk to the crew members at that time, nor will we receive data here in the flight control room. Houston, everything is looking good on board. Just confirm no pre-eject.
+10/04/2026 - 20:49:22 (-3 TMZ) | 09:01:14:22 (Artemis Clock) | PEI Downloads.
+10/04/2026 - 20:49:25 (-3 TMZ) | 09:01:14:25 (Artemis Clock) | Houston concurs.
+10/04/2026 - 20:49:34 (-3 TMZ) | 09:01:14:34 (Artemis Clock) | That blackout period to begin at 6:53 and 54 seconds p.m. Central time, and again will last about six minutes in duration.
+10/04/2026 - 20:50:58 (-3 TMZ) | 09:01:15:58 (Artemis Clock) | across the Pacific Ocean, three minutes from entry interface.
+10/04/2026 - 20:51:09 (-3 TMZ) | 09:01:16:09 (Artemis Clock) | Sixteen and a half minutes til splashdown.
+10/04/2026 - 20:51:15 (-3 TMZ) | 09:01:16:15 (Artemis Clock) | The USS John P. Murtha and the recovery team is on station and in position, as are the airborne imagery assets that we hope to receive imagery from as Artemis enters the Earth's atmosphere and through parachute.
+10/04/2026 - 20:51:20 (-3 TMZ) | 09:01:16:20 (Artemis Clock) | parachute deployment.
+10/04/2026 - 20:52:00 (-3 TMZ) | 09:01:17:00 (Artemis Clock) | no issues with the vehicle, no issues with the crew, and the weather at the splashdown site is go.
+10/04/2026 - 20:52:33 (-3 TMZ) | 09:01:17:33 (Artemis Clock) | Coming up on one minute until entry interface.
+10/04/2026 - 20:52:57 (-3 TMZ) | 09:01:17:57 (Artemis Clock) | Mark one minute until entry interface.
+10/04/2026 - 20:53:42 (-3 TMZ) | 09:01:18:42 (Artemis Clock) | Ten seconds till entry interface.
+10/04/2026 - 20:54:03 (-3 TMZ) | 09:01:19:03 (Artemis Clock) | The capsule now entering the Earth's atmosphere.
+10/04/2026 - 20:54:06 (-3 TMZ) | 09:01:19:06 (Artemis Clock) | We're at four hundred thousand feet traveling thirty-four thousand eight hundred feet per second.
+10/04/2026 - 20:54:11 (-3 TMZ) | 09:01:19:11 (Artemis Clock) | Time to splashdown, thirteen minutes, ten seconds.
+10/04/2026 - 20:54:34 (-3 TMZ) | 09:01:19:34 (Artemis Clock) | And as predicted, we've entered our communications blackout.
+10/04/2026 - 20:54:36 (-3 TMZ) | 09:01:19:36 (Artemis Clock) | This will be a six-minute blackout period, no voice, no data from the crew.
+10/04/2026 - 20:54:58 (-3 TMZ) | 09:01:19:58 (Artemis Clock) | We're 30 seconds away from the anticipated point of peak heating on the vehicle, where temperatures will rise to about 4,000 to 5,000 degrees Fahrenheit. This is the true test of our trajectory.
+10/04/2026 - 20:55:32 (-3 TMZ) | 09:01:20:32 (Artemis Clock) | So that pinpoint of light shows the vehicle as it enters the period of peak heating in the Earth's atmosphere, the first tug of gravity being felt by Integrity's astronauts since their launch back on April 1st.
+10/04/2026 - 20:55:57 (-3 TMZ) | 09:01:20:57 (Artemis Clock) | Time to splashdown, eleven minutes, thirty-three seconds.
+10/04/2026 - 20:56:30 (-3 TMZ) | 09:01:21:30 (Artemis Clock) | The landing and support officer reports that the P-3 has acquisition on Integrity.
+10/04/2026 - 20:56:53 (-3 TMZ) | 09:01:21:53 (Artemis Clock) | This is a visualization of the plasma buildup around the spacecraft and the repelling of that heat on Integrity's heat shield.
+10/04/2026 - 20:57:43 (-3 TMZ) | 09:01:22:43 (Artemis Clock) | Reports that airborne assets in the vicinity of the splashdown zone do have a visual on integrity. Still two minutes and 40 seconds left in our blackout period.
+10/04/2026 - 20:57:48 (-3 TMZ) | 09:01:22:48 (Artemis Clock) | Time to splashdown, nine minutes, thirty-five seconds.
+10/04/2026 - 20:58:10 (-3 TMZ) | 09:01:23:10 (Artemis Clock) | Multiple airborne assets as part of the recovery team all have visuals on Integrity.
+10/04/2026 - 20:58:32 (-3 TMZ) | 09:01:23:32 (Artemis Clock) | And the WB-57 flying in the splashdown zone also has a visual.
+10/04/2026 - 20:58:35 (-3 TMZ) | 09:01:23:35 (Artemis Clock) | And the Navy helos also have visuals.
+10/04/2026 - 20:58:54 (-3 TMZ) | 09:01:23:54 (Artemis Clock) | communications from the crew.
+10/04/2026 - 20:59:26 (-3 TMZ) | 09:01:24:26 (Artemis Clock) | We're standing by for communications from the crew. We should be out of the blackout period less than a minute from now.
+10/04/2026 - 20:59:54 (-3 TMZ) | 09:01:24:54 (Artemis Clock) | We are now processing data from Integrity.
+10/04/2026 - 21:00:19 (-3 TMZ) | 09:01:25:19 (Artemis Clock) | Landing and support officer reports the small boats are en route to the splashdown target zone.
+10/04/2026 - 21:00:51 (-3 TMZ) | 09:01:25:51 (Artemis Clock) | Passing through a hundred fifty thousand feet, our trajectory is perfect.
+10/04/2026 - 21:00:57 (-3 TMZ) | 09:01:25:57 (Artemis Clock) | We're getting intermittent views.
+10/04/2026 - 21:01:02 (-3 TMZ) | 09:01:26:02 (Artemis Clock) | of integrity, still waiting to establish voice communication.
+10/04/2026 - 21:01:10 (-3 TMZ) | 09:01:26:10 (Artemis Clock) | Integrity, Houston. Comm check post-blackout.
+10/04/2026 - 21:01:30 (-3 TMZ) | 09:01:26:30 (Artemis Clock) | Recovery teams have visual.
+10/04/2026 - 21:01:32 (-3 TMZ) | 09:01:26:32 (Artemis Clock) | Guidance looks good.
+10/04/2026 - 21:01:34 (-3 TMZ) | 09:01:26:34 (Artemis Clock) | No action for the enabled internal camera controller fail.
+10/04/2026 - 21:01:38 (-3 TMZ) | 09:01:26:38 (Artemis Clock) | Big cheers from the viewing room here in Mission Control as voice communication reestablished with Commander Reid Wiseman.
+10/04/2026 - 21:01:44 (-3 TMZ) | 09:01:26:44 (Artemis Clock) | For America and a waiting world, integrity is five and a half minutes away from coming home.
+10/04/2026 - 21:01:55 (-3 TMZ) | 09:01:26:55 (Artemis Clock) | Passing a hundred thousand feet now.
+10/04/2026 - 21:02:16 (-3 TMZ) | 09:01:27:16 (Artemis Clock) | nautical miles.
+10/04/2026 - 21:02:38 (-3 TMZ) | 09:01:27:38 (Artemis Clock) | Integrity impact to the camera controller fail is no Cab-1 views of the chutes.
+10/04/2026 - 21:02:44 (-3 TMZ) | 09:01:27:44 (Artemis Clock) | integrity
+10/04/2026 - 21:03:05 (-3 TMZ) | 09:01:28:05 (Artemis Clock) | And a view of Integrity from the WB-57. We're at fifty thousand feet.
+10/04/2026 - 21:04:02 (-3 TMZ) | 09:01:29:02 (Artemis Clock) | parachutes, and we're on drogues.
+10/04/2026 - 21:04:04 (-3 TMZ) | 09:01:29:04 (Artemis Clock) | And Houston, we're visual two drugs out the window.
+10/04/2026 - 21:04:09 (-3 TMZ) | 09:01:29:09 (Artemis Clock) | Two good drug chutes. Next up, we copy, we see them. Next up, the deployment of pilot parachutes that will pull the main chutes out.
+10/04/2026 - 21:04:14 (-3 TMZ) | 09:01:29:14 (Artemis Clock) | Time to splashdown three minutes and ten seconds.
+10/04/2026 - 21:04:36 (-3 TMZ) | 09:01:29:36 (Artemis Clock) | according to flight dynamics.
+10/04/2026 - 21:04:39 (-3 TMZ) | 09:01:29:39 (Artemis Clock) | We see the same onboard.
+10/04/2026 - 21:04:49 (-3 TMZ) | 09:01:29:49 (Artemis Clock) | Passing through ten thousand feet, still on drogues.
+10/04/2026 - 21:05:10 (-3 TMZ) | 09:01:30:10 (Artemis Clock) | Main chute deploy.
+10/04/2026 - 21:05:13 (-3 TMZ) | 09:01:30:13 (Artemis Clock) | We're at five thousand feet.
+10/04/2026 - 21:05:32 (-3 TMZ) | 09:01:30:32 (Artemis Clock) | And we have three good main shoots.
+10/04/2026 - 21:05:34 (-3 TMZ) | 09:01:30:34 (Artemis Clock) | Good three main chutes, good reefing, good descent rate.
+10/04/2026 - 21:05:54 (-3 TMZ) | 09:01:30:54 (Artemis Clock) | Integrity, cabin pressure indicates no need for hydrazine checks.
+10/04/2026 - 21:05:56 (-3 TMZ) | 09:01:30:56 (Artemis Clock) | Integrity copies.
+10/04/2026 - 21:06:05 (-3 TMZ) | 09:01:31:05 (Artemis Clock) | This is a perfect descent for integrity, its crew sounding hale and hearty on board. Time to splashdown, one minute, 15 seconds.
+10/04/2026 - 21:06:33 (-3 TMZ) | 09:01:31:33 (Artemis Clock) | Integrity about to complete a journey spanning 694,481 miles from its launch from the Kennedy Space Center back on April 1st and a trip around the moon.
+10/04/2026 - 21:08:09 (-3 TMZ) | 09:01:33:09 (Artemis Clock) | Splashdown confirmed at 7:07 p.m. Central time, 5:07 p.m. Pacific time.
+10/04/2026 - 21:08:14 (-3 TMZ) | 09:01:33:14 (Artemis Clock) | From the pages of Jules Verne to a modern day mission to the Moon, a new chapter of the exploration of our celestial neighbor is complete. Integrity's astronauts, back on Earth.
+10/04/2026 - 21:08:35 (-3 TMZ) | 09:01:33:35 (Artemis Clock) | and the landing and support officer reports the vehicle is stable one. We still will be deploying the crew module uprighting system to maintain that orientation. A perfect bullseye splashdown for Integrity and its four astronauts.
+10/04/2026 - 21:09:23 (-3 TMZ) | 09:01:34:23 (Artemis Clock) | The unofficial splashdown time, 7:07 and 47 seconds p.m. Central Time. We'll get that refined for you. That would put the end of the mission at a mission elapsed time of 9 days, 1 hour, 31 minutes, 35 seconds.
+10/04/2026 - 21:09:44 (-3 TMZ) | 09:01:34:44 (Artemis Clock) | And we're configuring for a very low data rate.
+10/04/2026 - 21:10:05 (-3 TMZ) | 09:01:35:05 (Artemis Clock) | Comm check on VLDR.
+10/04/2026 - 21:10:09 (-3 TMZ) | 09:01:35:09 (Artemis Clock) | Houston, we have you loud and clear on VO day, our house. We have you the same. We'll meet you over in post-landing.
+10/04/2026 - 21:10:17 (-3 TMZ) | 09:01:35:17 (Artemis Clock) | Perfect communications established. We are stable one, four green crew members.
+10/04/2026 - 21:10:34 (-3 TMZ) | 09:01:35:34 (Artemis Clock) | Houston copies all. Reed Wiseman reporting four green crew members. That is not their complexion. That is the fact that they're in great condition. That's what that means. So stable one, upright, the crew module uprighting system is being deployed.
+10/04/2026 - 21:10:55 (-3 TMZ) | 09:01:35:55 (Artemis Clock) | This was a textbook entry and a textbook touchdown for Integrity, Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen back on Earth after a journey around the moon.
+10/04/2026 - 21:12:00 (-3 TMZ) | 09:01:37:00 (Artemis Clock) | We continue to monitor the functioning of the CMU system. The airbags are being inflated to maintain a stable one or upright configuration. And there is a good view from one of the naval helicopters hovering overhead.
+10/04/2026 - 21:12:11 (-3 TMZ) | 09:01:37:11 (Artemis Clock) | Reid Wiseman reporting four green crew members, meaning they're all in excellent shape.
+10/04/2026 - 21:12:34 (-3 TMZ) | 09:01:37:34 (Artemis Clock) | Integrity Houston for SAR beacon and radio.
+10/04/2026 - 21:12:37 (-3 TMZ) | 09:01:37:37 (Artemis Clock) | So our beacon is in 406, and we're powering the radio now. Go ahead.
+10/04/2026 - 21:12:51 (-3 TMZ) | 09:01:37:51 (Artemis Clock) | We see the beacon on, however the recovery team is not seeing the signal. Your SAR radio uses the same antenna, so you may run into trouble with the radio.
+10/04/2026 - 21:13:23 (-3 TMZ) | 09:01:38:23 (Artemis Clock) | So Integrity is in great shape, and as the crew continues its post-splashdown, timelineed activities on board, Reid Wiseman once again reporting that all four crew members are in excellent shape, and we have five inflated inflated.
+10/04/2026 - 21:13:29 (-3 TMZ) | 09:01:38:29 (Artemis Clock) | plated airbags to maintain an upright configuration.
+10/04/2026 - 21:13:51 (-3 TMZ) | 09:01:38:51 (Artemis Clock) | In the flight control room, Entry Flight Director Rick Henfling is polling his team of flight controllers for the start.
+10/04/2026 - 21:14:02 (-3 TMZ) | 09:01:39:02 (Artemis Clock) | Of powering down the vehicle, after a thorough systems check, we have no toxic gases to be concerned about, so the recovery personnel can approach the vehicle.
+10/04/2026 - 21:14:07 (-3 TMZ) | 09:01:39:07 (Artemis Clock) | But not until we have powered down the spacecraft, that's expected to take a few more minutes.
+10/04/2026 - 21:14:56 (-3 TMZ) | 09:01:39:56 (Artemis Clock) | Eye of the Moon
+10/04/2026 - 21:14:59 (-3 TMZ) | 09:01:39:59 (Artemis Clock) | It was, for all intents and purposes, a textbook mission.
+10/04/2026 - 21:15:02 (-3 TMZ) | 09:01:40:02 (Artemis Clock) | We copy.
+10/04/2026 - 21:15:29 (-3 TMZ) | 09:01:40:29 (Artemis Clock) | Process
+10/04/2026 - 21:16:08 (-3 TMZ) | 09:01:41:08 (Artemis Clock) | The propulsion officer here in Mission Control reports that we have safed the prop system on Integrity. Can you say again? That was very weak and broken.
+10/04/2026 - 21:16:13 (-3 TMZ) | 09:01:41:13 (Artemis Clock) | Integrity, Houston did not call.
+10/04/2026 - 21:16:19 (-3 TMZ) | 09:01:41:19 (Artemis Clock) | Copy that, Houston. It might have been on the SAI radio. Stand by.
+10/04/2026 - 21:16:41 (-3 TMZ) | 09:01:41:41 (Artemis Clock) | All of the milestones were executed in perfect fashion. Integrity entering the Earth's atmosphere.
+10/04/2026 - 21:17:07 (-3 TMZ) | 09:01:42:07 (Artemis Clock) | And began, we emerged from the blackout period, but the recovery imagery airborne assets were able to pick up Integrity's descent uh almost immediately through entry interface, tracking uh the vehicle all the way down. And finally, uh you saw.
+10/04/2026 - 21:17:29 (-3 TMZ) | 09:01:42:29 (Artemis Clock) | were deployed, followed by the three main chutes that slowed the splashdown velocity of Integrity to just 19 miles an hour.
+10/04/2026 - 21:18:18 (-3 TMZ) | 09:01:43:18 (Artemis Clock) | Integrity Houston, with no joy on SAR and SAT phone, we'd like you to command an additional fifteen minutes for a total of thirty minute powerdown delay.
+10/04/2026 - 21:18:29 (-3 TMZ) | 09:01:43:29 (Artemis Clock) | All right, Jackie, we just selected T slash D plus 3-0, no joy on SAR radio or satphone.
+10/04/2026 - 21:18:51 (-3 TMZ) | 09:01:43:51 (Artemis Clock) | old times.
+10/04/2026 - 21:18:53 (-3 TMZ) | 09:01:43:53 (Artemis Clock) | Hey, Lilly, excuse me, hey, Jackie, we just got the master diver on the star.
+10/04/2026 - 21:19:18 (-3 TMZ) | 09:01:44:18 (Artemis Clock) | A good view of one of the fast boats.
+10/04/2026 - 21:19:21 (-3 TMZ) | 09:01:44:21 (Artemis Clock) | Okay, standby. Yeah, we'll confirm here in a second.
+10/04/2026 - 21:19:40 (-3 TMZ) | 09:01:44:40 (Artemis Clock) | on the timing of the power down of the vehicle, which will be the precursor to the recovery teams approaching the spacecraft.
+10/04/2026 - 21:20:01 (-3 TMZ) | 09:01:45:01 (Artemis Clock) | flight phone communications capability between the crew on board Integrity and the recovery team.
+10/04/2026 - 21:20:03 (-3 TMZ) | 09:01:45:03 (Artemis Clock) | That will get sorted out here shortly.
+10/04/2026 - 21:20:23 (-3 TMZ) | 09:01:45:23 (Artemis Clock) | I'm not getting an answer there either.
+10/04/2026 - 21:20:26 (-3 TMZ) | 09:01:45:26 (Artemis Clock) | Concur, we haven't had anything come through.
+10/04/2026 - 21:20:35 (-3 TMZ) | 09:01:45:35 (Artemis Clock) | And Houston, if you could relay to recovery that we hear them, but it does not...
+10/04/2026 - 21:20:41 (-3 TMZ) | 09:01:45:41 (Artemis Clock) | But it does not appear so they are hearing us.
+10/04/2026 - 21:21:07 (-3 TMZ) | 09:01:46:07 (Artemis Clock) | the PTT on the radio.
+10/04/2026 - 21:21:40 (-3 TMZ) | 09:01:46:40 (Artemis Clock) | side of the capsule. The next major event will be the erection of that large inflatable raft called the front porch that will be the port of call for the crew as they're being extracted one by one from the vehicle.
+10/04/2026 - 21:22:02 (-3 TMZ) | 09:01:47:02 (Artemis Clock) | Integrity Houston for SatPhone, we are going to attempt to call you.
+10/04/2026 - 21:22:10 (-3 TMZ) | 09:01:47:10 (Artemis Clock) | Good idea, standing by.
+10/04/2026 - 21:22:16 (-3 TMZ) | 09:01:47:16 (Artemis Clock) | And Jackie, yes, we are pushing the push-to-talk, the two buttons on the left side of the radio below the up-down arrows. We are utilizing them. I'm rebooting the radio to see if we get good comms.
+10/04/2026 - 21:22:38 (-3 TMZ) | 09:01:47:38 (Artemis Clock) | Seeing that you are touchdown plus 30, 3-0 for power, correct?
+10/04/2026 - 21:22:40 (-3 TMZ) | 09:01:47:40 (Artemis Clock) | That's affirmative.
+10/04/2026 - 21:23:11 (-3 TMZ) | 09:01:48:11 (Artemis Clock) | Mission Control here called the crew on their satellite phone. This is all part of the coordination for the power down of the vehicle that will initiate the actual recovery operation. The first boats with the Navy divers on board are
+10/04/2026 - 21:23:38 (-3 TMZ) | 09:01:48:38 (Artemis Clock) | That's called the front porch that will be where the astronauts are extracted from so that they can have a few minutes to get their land legs back before they're hoisted aboard the Navy helicopters for the flight back to the deck of the USS.
+10/04/2026 - 21:23:41 (-3 TMZ) | 09:01:48:41 (Artemis Clock) | John P. Murtha
+10/04/2026 - 21:24:18 (-3 TMZ) | 09:01:49:18 (Artemis Clock) | And Houston, please no reply. NRD very weak but readable. Master Diver we can hear, but they cannot hear us.
+10/04/2026 - 21:25:20 (-3 TMZ) | 09:01:50:20 (Artemis Clock) | And Houston, on OE-1, is there any chance to tie us into NRD?
+10/04/2026 - 21:26:11 (-3 TMZ) | 09:01:51:11 (Artemis Clock) | To the spacecraft, we're going to go to the deck of the USS John P. Murtha where Megan Cruz is standing by with Administrator Jared Isaacman.
+10/04/2026 - 21:26:38 (-3 TMZ) | 09:01:51:38 (Artemis Clock) | Share and experience this moment with everyone together, and, of course, as you just said, yes, here with NASA Administrator Jared Isaacman. Administrator, how did you feel getting to witness this and seeing NASA at its best? I mean, I'm honestly, I'm still at a loss for words. I mean, you know, like the childhood Jared right now can't believe what I just saw. I mean, almost been...
+10/04/2026 - 21:27:06 (-3 TMZ) | 09:01:52:06 (Artemis Clock) | that contributed to this incredible moment right now. And yeah, incredibly grateful too, for our teams here on the John P. Murtha right now. Yeah, look at the behind us here! I mean, we've got everybody. What do you guys think? We just brought some astronauts back from the moon, huh?
+10/04/2026 - 21:27:39 (-3 TMZ) | 09:01:52:39 (Artemis Clock) | integrity to get our astronauts back on the ship safely. This is not just an accomplishment for NASA, this is an accomplishment for humanity again, a historic mission to the moon and back. How does this make you feel and what do you hope people take away from this? Well, I tell you, you know, I think about, I think about our crew members
+10/04/2026 - 21:28:06 (-3 TMZ) | 09:01:53:06 (Artemis Clock) | from humanity to the stars that we send out there right now, and I can't imagine a better crew than the Artemis II crew that just completed a perfect mission right now. So, yes, it's a huge moment for everybody, right? I mean, we are back in the business of sending astronauts to the moon, bringing them back safely, and—
+10/04/2026 - 21:28:33 (-3 TMZ) | 09:01:53:33 (Artemis Clock) | This is just the beginning; we are going to get back into doing this with frequency, sending missions to the Moon until we land on it in 2028 and start building our base. Yeah, are we going to build on the momentum for Artemis III? I mean, it's just around the corner. Absolutely. So, I mean, that's part of me, too. I can't wait to get the crew off of
+10/04/2026 - 21:29:00 (-3 TMZ) | 09:01:54:00 (Artemis Clock) | We're going to want to download all the data they couldn't transmit back to us and use that to inform Artemis III. But we're already making progress, right? You had SRB segments already showing up at KSC. Core stage for Artemis III is rolling out on April 20th. We're getting Mobile Launcher 1 back in the Vehicle Assembly Building. So yeah.
+10/04/2026 - 21:29:29 (-3 TMZ) | 09:01:54:29 (Artemis Clock) | Got to start getting ready for three. Amazing. And last question, for people who joined us for all 10 days to see what we can accomplish together with our international partners, what do you think about the fact that we're going to keep doing this more and more and more? It's incredibly exciting.
+10/04/2026 - 21:29:56 (-3 TMZ) | 09:01:54:56 (Artemis Clock) | and you think in the days leading up to this launch, I mean, 48 hours prior to launching Artemis II, I was meeting with the Italian Space Agency. We signed a memorandum of understanding to build a habitation module on the Moon. I mean, you have countries, all of our allies and partners coming together saying,
+10/04/2026 - 21:30:30 (-3 TMZ) | 09:01:55:30 (Artemis Clock) | And speaking of everyone, one more time, we're gonna ask the crew here, you guys ready to land on the moon? Awesome, I love that. Okay, well thank you so much, Administrator, appreciate you being here. We're of course gonna stay on to watch the crew get extracted from Orion, so stay tuned and we'll see you back here shortly.
+10/04/2026 - 21:31:19 (-3 TMZ) | 09:01:56:19 (Artemis Clock) | a bull's-eye touchdown that occurred at 7:07 p.m. Central Time, 5:07 p.m. Pacific Time, two and a half hours before sunset, in the Pacific, southwest of San Diego.
+10/04/2026 - 21:31:24 (-3 TMZ) | 09:01:56:24 (Artemis Clock) | We have once again heard from the crew during that interview opportunity with the administrator, and we have four healthy crew members on board.
+10/04/2026 - 21:32:05 (-3 TMZ) | 09:01:57:05 (Artemis Clock) | Exploration Ground Systems team out in the Pacific. Now, we will physically not get off console with this team until the crew has been extracted into the front porch, that inflatable raft that will be erected along the side hatch of Integrity. So we're standing by for that in the next...
+10/04/2026 - 21:32:10 (-3 TMZ) | 09:01:57:10 (Artemis Clock) | Step in the recovery procedures, but everything is in great shape and we have four healthy crew members on board the vehicle.
+10/04/2026 - 21:32:44 (-3 TMZ) | 09:01:57:44 (Artemis Clock) | All of the entry events went by the book, no issues, perfect trajectory for Integrity, that was culminated with one final raise burn to improve the angle of attack for the vehicle as it entered the U.S. atmosphere, all of that flight dynamics computation.
+10/04/2026 - 21:32:50 (-3 TMZ) | 09:01:57:50 (Artemis Clock) | Worked like a charm.
+10/04/2026 - 21:33:47 (-3 TMZ) | 09:01:58:47 (Artemis Clock) | be extracted from the hatch of Orion into that inflatable raft before they're hoisted aboard two Navy helicopters in a variety of different configurations. Each crew member.
+10/04/2026 - 21:34:10 (-3 TMZ) | 09:01:59:10 (Artemis Clock) | They'll be brought into medical bay for comprehensive medical exams, but Reid Wiseman has reported several times that the crew is in excellent shape.
+10/04/2026 - 21:34:54 (-3 TMZ) | 09:01:59:54 (Artemis Clock) | Since the splashdown of Integrity in the Pacific, the vehicle is in excellent shape. It performed like a champ all the way down through the Earth's atmosphere. All of the vehicle functions were checked off in excellent trip hammer fashion. The parachutes all
+10/04/2026 - 21:35:00 (-3 TMZ) | 09:02:00:00 (Artemis Clock) | deployed as planned, splashdown occurring at 7:07 p.m. Central Time, 5:07 p.m. Pacific Time.
+10/04/2026 - 21:35:28 (-3 TMZ) | 09:02:00:28 (Artemis Clock) | After a bit of a tussle to try to establish a communications link with the recovery team, we were finally able to run through the procedures for the powering down of the vehicle. We've handed over mission authority to the Exploration Ground Systems folks out in the Pacific.
+10/04/2026 - 21:35:51 (-3 TMZ) | 09:02:00:51 (Artemis Clock) | to bring the crew members onto that raft before they're hoisted onto two Navy helicopters, two crew members for each helicopter, before they're flown back to the deck of the USS John P. Murtha.
+10/04/2026 - 21:39:00 (-3 TMZ) | 09:02:04:00 (Artemis Clock) | the splashdown time for you. Their computation shows a splashdown time of 7:07 and 27 seconds p.m. Central Time, 7:07 and 27 seconds p.m. Central Time.
+10/04/2026 - 21:39:21 (-3 TMZ) | 09:02:04:21 (Artemis Clock) | equate to a mission elapsed time of nine days, one hour, 32 minutes, and 15 seconds.
+10/04/2026 - 21:39:41 (-3 TMZ) | 09:02:04:41 (Artemis Clock) | 7:07 and twenty-seven seconds p.m. Central Time.
+10/04/2026 - 21:39:44 (-3 TMZ) | 09:02:04:44 (Artemis Clock) | That would equate to a mission elapsed time of 9 days, 1 hour, 32 minutes and 15 seconds.
+10/04/2026 - 21:40:19 (-3 TMZ) | 09:02:05:19 (Artemis Clock) | that the crew remains in excellent shape as they await the approach of the team for a final hazard gas evaluation before they move to the side of the vehicle to erect the inflatable life raft called the front porch.
+10/04/2026 - 21:40:57 (-3 TMZ) | 09:02:05:57 (Artemis Clock) | I've handed over mission authority to the Exploration Ground Systems folks in the Pacific.
+10/04/2026 - 21:41:03 (-3 TMZ) | 09:02:06:03 (Artemis Clock) | But we will not stand down and have the entry flight control team depart its positions until that inflatable raft, the front porch is erected, the hatch open, and the crew having exited the vehicle.
+10/04/2026 - 21:41:31 (-3 TMZ) | 09:02:06:31 (Artemis Clock) | helicopters that will then fly a short distance back to the USS John P. Murtha.
+10/04/2026 - 21:41:36 (-3 TMZ) | 09:02:06:36 (Artemis Clock) | What you're looking at is one of the fast boats circling the vehicle to make a hazard assessment.
+10/04/2026 - 21:44:32 (-3 TMZ) | 09:02:09:32 (Artemis Clock) | of the Artemis crew aboard Integrity. All of the Navy divers and the fast boats are now approaching the spacecraft after conducting a hazard assessment. The vehicle has been powered down. Entry flight director Rick Hempling now waiting for the landing.
+10/04/2026 - 21:44:48 (-3 TMZ) | 09:02:09:48 (Artemis Clock) | The front porch to be erected along the side of the vehicle so that the hatch can be opened and the crew members extracted from Integrity, soon to be hoisted one by one into a pair of Navy helicopters for a short flight back to the deck of the USS John P. Murtha.
+10/04/2026 - 21:45:17 (-3 TMZ) | 09:02:10:17 (Artemis Clock) | 2:00 p.m. Central time, 5:07 and 27 seconds p.m. Pacific time. That would equate to a mission elapsed time of 9 days, 1 hour, 32 minutes and 15 seconds.
+10/04/2026 - 21:48:18 (-3 TMZ) | 09:02:13:18 (Artemis Clock) | Continuing to get excellent views from the imagery assets out at sea in the Pacific of Integrity, we continue to get good reports from the landing and support officer who's in contact with the recovery team that the crew is in excellent shape, no issues.
+10/04/2026 - 21:48:47 (-3 TMZ) | 09:02:13:47 (Artemis Clock) | all the way down from entry interface to its splashdown in the Pacific at 7:07 and 27 seconds p.m. Central Time.
+10/04/2026 - 21:49:11 (-3 TMZ) | 09:02:14:11 (Artemis Clock) | This includes Navy divers, a Navy flight surgeon, and other recovery personnel who have trained for several years for this recovery process.
+10/04/2026 - 21:50:04 (-3 TMZ) | 09:02:15:04 (Artemis Clock) | At this hour, some 41 minutes following splashdown, the vehicle has been powered down. There's no hazardous gas emanating from the vehicle. That's why the first team of recovery personnel has been able to pull alongside Integrity and the re-entry.
+10/04/2026 - 21:50:09 (-3 TMZ) | 09:02:15:09 (Artemis Clock) | Reports continue to come in that the four astronauts are in excellent shape.
+10/04/2026 - 21:50:36 (-3 TMZ) | 09:02:15:36 (Artemis Clock) | Yes.
+10/04/2026 - 21:52:17 (-3 TMZ) | 09:02:17:17 (Artemis Clock) | This is Mission Control Houston continuing to watch the initiation of the recovery of Integrity's astronauts. One by one, they'll be brought out of the spacecraft onto a large inflatable raft just a short time from now. In the meantime, we can go back...
+10/04/2026 - 21:52:42 (-3 TMZ) | 09:02:17:42 (Artemis Clock) | And her situation report. Megan, can you hear us? Hey, Rob, yes, I can hear you. Thank you. Yeah, we're back here on the bow.
+10/04/2026 - 21:52:49 (-3 TMZ) | 09:02:17:49 (Artemis Clock) | of the recovery ship where there are still plenty of people peering out into the water. We are not very far from the action everyone is seeing on their screen now.
+10/04/2026 - 21:52:52 (-3 TMZ) | 09:02:17:52 (Artemis Clock) | the Orion spacecraft, Integrity.
+10/04/2026 - 21:52:56 (-3 TMZ) | 09:02:17:56 (Artemis Clock) | in the ocean, surrounded by a number of recovery boats.
+10/04/2026 - 21:53:22 (-3 TMZ) | 09:02:18:22 (Artemis Clock) | get the astronauts out of Orion.
+10/04/2026 - 21:53:42 (-3 TMZ) | 09:02:18:42 (Artemis Clock) | out in the water.
+10/04/2026 - 21:53:44 (-3 TMZ) | 09:02:18:44 (Artemis Clock) | More than forty people out in the water right now on those boats.
+10/04/2026 - 21:54:22 (-3 TMZ) | 09:02:19:22 (Artemis Clock) | First order of business.
+10/04/2026 - 21:54:27 (-3 TMZ) | 09:02:19:27 (Artemis Clock) | is to set up the front porch and the stabilization collar.
+10/04/2026 - 21:54:33 (-3 TMZ) | 09:02:19:33 (Artemis Clock) | We might also hear it referred to as a stab collar.
+10/04/2026 - 21:54:38 (-3 TMZ) | 09:02:19:38 (Artemis Clock) | Basically just to make sure that Orion stays upright, doesn't sway in the water too much, again to make it easier for recovery forces to get the astronauts out.
+10/04/2026 - 21:55:06 (-3 TMZ) | 09:02:20:06 (Artemis Clock) | Again, we splashdown in the Pacific Ocean just after 5 p.m. Pacific Time here.
+10/04/2026 - 21:55:10 (-3 TMZ) | 09:02:20:10 (Artemis Clock) | It's a requirement by NASA to be able to get the crew out of Orion within two hours of splashdown.
+10/04/2026 - 21:55:30 (-3 TMZ) | 09:02:20:30 (Artemis Clock) | You know, I was speaking to...
+10/04/2026 - 21:55:41 (-3 TMZ) | 09:02:20:41 (Artemis Clock) | NASA flight surgeon Rick Schirring earlier in this broadcast, and he said to me, you know, no rush to get the crew out, just want to make sure that they're feeling good, and whenever they're ready to take their step out of Orion and onto that large raft, the front porch.
+10/04/2026 - 21:55:46 (-3 TMZ) | 09:02:20:46 (Artemis Clock) | Folks will be ready.
+10/04/2026 - 21:56:13 (-3 TMZ) | 09:02:21:13 (Artemis Clock) | And as there are mission audio loops in Mission Control in Houston, there is a mission audio loop here on the ship.
+10/04/2026 - 21:56:18 (-3 TMZ) | 09:02:21:18 (Artemis Clock) | And it was just reported out that the side hatch is open.
+10/04/2026 - 21:56:21 (-3 TMZ) | 09:02:21:21 (Artemis Clock) | Side hatch of Integrity is open.
+10/04/2026 - 21:56:24 (-3 TMZ) | 09:02:21:24 (Artemis Clock) | You're getting these beautiful shots from our aerial assets.
+10/04/2026 - 21:56:30 (-3 TMZ) | 09:02:21:30 (Artemis Clock) | The ship itself layerman just 3,000 yards away.
+10/04/2026 - 21:56:51 (-3 TMZ) | 09:02:21:51 (Artemis Clock) | closest to where they can see all this action, and again with just 3,000 yards separating us, great views from the bow here.
+10/04/2026 - 21:56:54 (-3 TMZ) | 09:02:21:54 (Artemis Clock) | You can see now that side hatch is open.
+10/04/2026 - 21:56:56 (-3 TMZ) | 09:02:21:56 (Artemis Clock) | one of the Navy personnel.
+10/04/2026 - 21:57:01 (-3 TMZ) | 09:02:22:01 (Artemis Clock) | is about to get inside there.
+10/04/2026 - 21:57:12 (-3 TMZ) | 09:02:22:12 (Artemis Clock) | In they go.
+10/04/2026 - 21:57:18 (-3 TMZ) | 09:02:22:18 (Artemis Clock) | In total, four will go into Orion, so it'll be a little bit of a tight squeeze, but...
+10/04/2026 - 21:57:21 (-3 TMZ) | 09:02:22:21 (Artemis Clock) | The goal is to have a recovery personnel.
+10/04/2026 - 21:57:24 (-3 TMZ) | 09:02:22:24 (Artemis Clock) | with each astronaut assessing them.
+10/04/2026 - 21:58:02 (-3 TMZ) | 09:02:23:02 (Artemis Clock) | Boat's getting closer now.
+10/04/2026 - 21:58:07 (-3 TMZ) | 09:02:23:07 (Artemis Clock) | Again, that one that's right up against Orion, those are the divers that will go in to the spacecraft to check on each of the astronauts.
+10/04/2026 - 21:58:13 (-3 TMZ) | 09:02:23:13 (Artemis Clock) | These other boats will begin doing a number of things: putting on that stabilization collar onto Orion, building that front porch.
+10/04/2026 - 21:58:18 (-3 TMZ) | 09:02:23:18 (Artemis Clock) | Eventually they will retrieve the parachutes.
+10/04/2026 - 21:58:24 (-3 TMZ) | 09:02:23:24 (Artemis Clock) | As well as tow Orion back to the well deck of the recovery ship here.
+10/04/2026 - 21:58:57 (-3 TMZ) | 09:02:23:57 (Artemis Clock) | And so as we wait for the Navy and NASA personnel to get their assessments of the crew inside of Orion, why don't we toss it back to Rob for an update.
+10/04/2026 - 21:59:40 (-3 TMZ) | 09:02:24:40 (Artemis Clock) | of that inflatable raft, the front porch, alongside of the vehicle that will enable the crew to be extracted one by one onto the raft, have a moment or two to get their land legs back before they're hoisted into two hovering Navy helicopters, two crew members for each.
+10/04/2026 - 21:59:46 (-3 TMZ) | 09:02:24:46 (Artemis Clock) | each helicopter for a short flight back to the deck of the USS John P. Murtha.
+10/04/2026 - 22:00:12 (-3 TMZ) | 09:02:25:12 (Artemis Clock) | Systems operated flawlessly throughout the course of the approach to the Earth, the entry into the Earth's atmosphere, and all of the key milestones that followed in this high-speed return to Earth for Integrity, a mission that spanned more than 694,000 miles.
+10/04/2026 - 22:00:22 (-3 TMZ) | 09:02:25:22 (Artemis Clock) | from the vehicle's launch from the Kennedy Space Center atop the Space Launch System back on April 1st.
+10/04/2026 - 22:02:03 (-3 TMZ) | 09:02:27:03 (Artemis Clock) | that the Apollo program saw a splashdown in the Pacific was Apollo 17 back on December 19, 1972. So for the first time in 54, some 53 and a half years, we have re-enacted that with the Orion.
+10/04/2026 - 22:02:37 (-3 TMZ) | 09:02:27:37 (Artemis Clock) | This orbit trajectory, the high Earth orbit trajectory enabled flight controllers here to have a full 24 hours to evaluate the systems on Integrity and the condition of the crew before they would commit to flying to the Moon.
+10/04/2026 - 22:07:10 (-3 TMZ) | 09:02:32:10 (Artemis Clock) | lower line that will secure the inflation device before we inflate it. That gives us the go ahead that it's secure in its place. And then we'll inflate it. And then once that is done, we'll undo all the carabiners and get this orange line on top tied in the same fashion. And then this will be secure.
+10/04/2026 - 22:07:49 (-3 TMZ) | 09:02:32:49 (Artemis Clock) | The front porch is basically a bigger waiting room for the astronauts to sit in while we wait for the helicopters to show up and grab them. OK, so the medical team that was inside with the crew, they're going to help them out and onto the front porch? That is correct. And then what happens here? We have...
+10/04/2026 - 22:08:24 (-3 TMZ) | 09:02:33:24 (Artemis Clock) | It's a bigger mission for the Navy and joining up with NASA to do great things. And do you feel like you're UFCM are ready? Yes, yes, very ready. Cool. All right, thank you so much. Thank you.
+10/04/2026 - 22:09:41 (-3 TMZ) | 09:02:34:41 (Artemis Clock) | Again, while we stand by for that front porch to be erected alongside of the side hatch of the vehicle, let's go back to the USS John P. Murtha and Megan Cruz. Megan.
+10/04/2026 - 22:10:18 (-3 TMZ) | 09:02:35:18 (Artemis Clock) | communicating with everyone out on the water. It seems like currents are hindering them a little bit from unfurling and inflating the stabilization collar as well as the front porch.
+10/04/2026 - 22:10:54 (-3 TMZ) | 09:02:35:54 (Artemis Clock) | You can see in some of our shots that side hatch still open. Again, inside there are now eight people inside.
+10/04/2026 - 22:11:00 (-3 TMZ) | 09:02:36:00 (Artemis Clock) | Four divers, Navy divers, all with medical training, each assigned to an astronaut each.
+10/04/2026 - 22:11:12 (-3 TMZ) | 09:02:36:12 (Artemis Clock) | making sure that they're comfortable.
+10/04/2026 - 22:11:15 (-3 TMZ) | 09:02:36:15 (Artemis Clock) | Feeling good.
+10/04/2026 - 22:11:55 (-3 TMZ) | 09:02:36:55 (Artemis Clock) | Again, six boats out there, lots of gear with them, just in case, right?
+10/04/2026 - 22:11:59 (-3 TMZ) | 09:02:36:59 (Artemis Clock) | As we said, the crew reported feeling great.
+10/04/2026 - 22:12:02 (-3 TMZ) | 09:02:37:02 (Artemis Clock) | But again, all those folks out there, in case they weren't, right now NASA is all about making sure we think about every situation that can happen.
+10/04/2026 - 22:12:06 (-3 TMZ) | 09:02:37:06 (Artemis Clock) | And so, of course, wanted to be ready in case any of our astronauts needed more medical attention while out there on the water.
+10/04/2026 - 22:12:14 (-3 TMZ) | 09:02:37:14 (Artemis Clock) | You see now teams again.
+10/04/2026 - 22:12:19 (-3 TMZ) | 09:02:37:19 (Artemis Clock) | trying to set up the stabilization collar on front porch.
+10/04/2026 - 22:12:24 (-3 TMZ) | 09:02:37:24 (Artemis Clock) | for the crew to get out of Orion.
+10/04/2026 - 22:12:31 (-3 TMZ) | 09:02:37:31 (Artemis Clock) | They need both, right? The stabilization collar will keep Orion from swaying, as you see it is doing now.
+10/04/2026 - 22:13:38 (-3 TMZ) | 09:02:38:38 (Artemis Clock) | some currents out there on the Pacific Ocean.
+10/04/2026 - 22:13:46 (-3 TMZ) | 09:02:38:46 (Artemis Clock) | Again, the goal, setting up the stabilization collar and the front porch so that the crew can rest comfortably in the front porch.
+10/04/2026 - 22:14:16 (-3 TMZ) | 09:02:39:16 (Artemis Clock) | The helicopters are going to take turns picking up an astronaut.
+10/04/2026 - 22:14:18 (-3 TMZ) | 09:02:39:18 (Artemis Clock) | So again, Halo 1 and Halo 2.
+10/04/2026 - 22:14:58 (-3 TMZ) | 09:02:39:58 (Artemis Clock) | Jeremy Green meaning they are feeling great, not the complexion of their skin. They are feeling great, happy to be home.
+10/04/2026 - 22:15:00 (-3 TMZ) | 09:02:40:00 (Artemis Clock) | and ready to be extracted as soon as possible.
+10/04/2026 - 22:15:10 (-3 TMZ) | 09:02:40:10 (Artemis Clock) | And so, as I was saying, we have two helicopters circling the activity you're seeing on the water right now.
+10/04/2026 - 22:15:16 (-3 TMZ) | 09:02:40:16 (Artemis Clock) | Each will take turns picking up an astronaut.
+10/04/2026 - 22:15:22 (-3 TMZ) | 09:02:40:22 (Artemis Clock) | So Hilo 1 will come on in, hover above the front porch, about 40 feet above the front porch.
+10/04/2026 - 22:15:53 (-3 TMZ) | 09:02:40:53 (Artemis Clock) | And then Helo 2 comes around, picks up Jeremy, while Helo 1...
+10/04/2026 - 22:15:59 (-3 TMZ) | 09:02:40:59 (Artemis Clock) | Stays above head, and then Hilo 1 will come back in for another astronaut, and then Hilo 2 for the last astronaut, and then back to the flight deck here on the recovery ship.
+10/04/2026 - 22:16:07 (-3 TMZ) | 09:02:41:07 (Artemis Clock) | I was talking to
+10/04/2026 - 22:16:36 (-3 TMZ) | 09:02:41:36 (Artemis Clock) | The crew would have to move through more of the ship. This way the helo, the helos will give a more direct, quicker route to the medical bay.
+10/04/2026 - 22:16:40 (-3 TMZ) | 09:02:41:40 (Artemis Clock) | four astronauts.
+10/04/2026 - 22:16:46 (-3 TMZ) | 09:02:41:46 (Artemis Clock) | Beautiful shots from our aerial and imagery teams.
+10/04/2026 - 22:16:58 (-3 TMZ) | 09:02:41:58 (Artemis Clock) | Clouds have dissipated for a clear view from the bow of the recovery ship here.
+10/04/2026 - 22:17:42 (-3 TMZ) | 09:02:42:42 (Artemis Clock) | Encircling Orion, that is that stabilization collar we've been telling you about.
+10/04/2026 - 22:17:48 (-3 TMZ) | 09:02:42:48 (Artemis Clock) | As you saw in that interview just a few minutes ago...
+10/04/2026 - 22:17:51 (-3 TMZ) | 09:02:42:51 (Artemis Clock) | They have to first connect it to Orion.
+10/04/2026 - 22:17:55 (-3 TMZ) | 09:02:42:55 (Artemis Clock) | And then once it's secured onto Orion, they can inflate it.
+10/04/2026 - 22:17:58 (-3 TMZ) | 09:02:42:58 (Artemis Clock) | And then they'll further secure it with other harnesses and lines.
+10/04/2026 - 22:18:38 (-3 TMZ) | 09:02:43:38 (Artemis Clock) | Reed, Victor, Christina, and Jeremy.
+10/04/2026 - 22:18:41 (-3 TMZ) | 09:02:43:41 (Artemis Clock) | Back home.
+10/04/2026 - 22:18:43 (-3 TMZ) | 09:02:43:43 (Artemis Clock) | After a history-making mission to the moon and back.
+10/04/2026 - 22:19:10 (-3 TMZ) | 09:02:44:10 (Artemis Clock) | And if you missed what we said just a couple of minutes ago, the undersea medical officer inside with the crew in Orion reporting all four crew members feeling great.
+10/04/2026 - 22:19:32 (-3 TMZ) | 09:02:44:32 (Artemis Clock) | Progress being made there on the stabilization collar. It looks like they are beginning to inflate it.
+10/04/2026 - 22:19:37 (-3 TMZ) | 09:02:44:37 (Artemis Clock) | And it looks like they're starting to...
+10/04/2026 - 22:19:43 (-3 TMZ) | 09:02:44:43 (Artemis Clock) | unfold the front porch in order to get that into the water here shortly and inflate that as well.
+10/04/2026 - 22:20:06 (-3 TMZ) | 09:02:45:06 (Artemis Clock) | Again, more than forty people out in the water right now.
+10/04/2026 - 22:20:09 (-3 TMZ) | 09:02:45:09 (Artemis Clock) | And those Navy and NASA personnel have been in the water for now.
+10/04/2026 - 22:20:11 (-3 TMZ) | 09:02:45:11 (Artemis Clock) | About four hours.
+10/04/2026 - 22:20:35 (-3 TMZ) | 09:02:45:35 (Artemis Clock) | The reason why they had to get out so early is...
+10/04/2026 - 22:20:37 (-3 TMZ) | 09:02:45:37 (Artemis Clock) | Just to stage everything.
+10/04/2026 - 22:20:41 (-3 TMZ) | 09:02:45:41 (Artemis Clock) | And actually here on the ship...
+10/04/2026 - 22:20:46 (-3 TMZ) | 09:02:45:46 (Artemis Clock) | When there are flight operations happening, you can't have anything else, right?
+10/04/2026 - 22:20:49 (-3 TMZ) | 09:02:45:49 (Artemis Clock) | Just because.
+10/04/2026 - 22:20:52 (-3 TMZ) | 09:02:45:52 (Artemis Clock) | A flight deck can be a dangerous place, so they just want to focus on...
+10/04/2026 - 22:21:03 (-3 TMZ) | 09:02:46:03 (Artemis Clock) | planes coming and going from the ship, so that's why they wanted to get the boats in the water.
+10/04/2026 - 22:21:09 (-3 TMZ) | 09:02:46:09 (Artemis Clock) | to make sure that they have all the time they needed for the flight ops. And then the same crew here out on the water.
+10/04/2026 - 22:21:31 (-3 TMZ) | 09:02:46:31 (Artemis Clock) | on the ship because then they have to recover Orion.
+10/04/2026 - 22:21:37 (-3 TMZ) | 09:02:46:37 (Artemis Clock) | All right, that stabilization collar looking good around Orion. We're now seeing some recovery personnel getting on.
+10/04/2026 - 22:21:39 (-3 TMZ) | 09:02:46:39 (Artemis Clock) | to that collar.
+10/04/2026 - 22:21:42 (-3 TMZ) | 09:02:46:42 (Artemis Clock) | Again, they need to further attach it to Orion.
+10/04/2026 - 22:21:48 (-3 TMZ) | 09:02:46:48 (Artemis Clock) | to make sure that I can really prop up.
+10/04/2026 - 22:21:53 (-3 TMZ) | 09:02:46:53 (Artemis Clock) | the spacecraft. It's basically lifting it up off of the water just a tad.
+10/04/2026 - 22:21:55 (-3 TMZ) | 09:02:46:55 (Artemis Clock) | Again, so it's not so...
+10/04/2026 - 22:22:05 (-3 TMZ) | 09:02:47:05 (Artemis Clock) | so it doesn't sway so much in the water there.
+10/04/2026 - 22:22:33 (-3 TMZ) | 09:02:47:33 (Artemis Clock) | And now that front porch looks like it's nearly fully inflated as well, you can see a much larger surface area.
+10/04/2026 - 22:22:43 (-3 TMZ) | 09:02:47:43 (Artemis Clock) | And so once the crew get out of Orion...
+10/04/2026 - 22:22:49 (-3 TMZ) | 09:02:47:49 (Artemis Clock) | They can stretch their legs a little bit on this front porch, get some fresh air.
+10/04/2026 - 22:22:56 (-3 TMZ) | 09:02:47:56 (Artemis Clock) | and enjoy this.
+10/04/2026 - 22:22:58 (-3 TMZ) | 09:02:47:58 (Artemis Clock) | Beautiful day here.
+10/04/2026 - 22:23:02 (-3 TMZ) | 09:02:48:02 (Artemis Clock) | on their home planet.
+10/04/2026 - 22:23:13 (-3 TMZ) | 09:02:48:13 (Artemis Clock) | It appears teams now are about to connect the front porch to the stabilization collar.
+10/04/2026 - 22:23:35 (-3 TMZ) | 09:02:48:35 (Artemis Clock) | secure, we should soon see astronauts.
+10/04/2026 - 22:23:39 (-3 TMZ) | 09:02:48:39 (Artemis Clock) | Come out of Orion.
+10/04/2026 - 22:24:09 (-3 TMZ) | 09:02:49:09 (Artemis Clock) | All these views you see, also being fed.
+10/04/2026 - 22:24:15 (-3 TMZ) | 09:02:49:15 (Artemis Clock) | to the Landing Force Operation Center here on the ship.
+10/04/2026 - 22:24:21 (-3 TMZ) | 09:02:49:21 (Artemis Clock) | of course it is very important for our recovery teams.
+10/04/2026 - 22:24:23 (-3 TMZ) | 09:02:49:23 (Artemis Clock) | Leading the mission.
+10/04/2026 - 22:24:26 (-3 TMZ) | 09:02:49:26 (Artemis Clock) | to have all the views that you're seeing as well.
+10/04/2026 - 22:24:48 (-3 TMZ) | 09:02:49:48 (Artemis Clock) | Here on the ship.
+10/04/2026 - 22:24:50 (-3 TMZ) | 09:02:49:50 (Artemis Clock) | Very quiet, which is a good thing.
+10/04/2026 - 22:24:53 (-3 TMZ) | 09:02:49:53 (Artemis Clock) | It means things are going pretty nominally.
+10/04/2026 - 22:24:56 (-3 TMZ) | 09:02:49:56 (Artemis Clock) | Meaning, as expected.
+10/04/2026 - 22:25:24 (-3 TMZ) | 09:02:50:24 (Artemis Clock) | Again, all this activity happening just 3,000 yards away from the ship, so that means this will be a very quick flight back on the helicopters for the crew.
+10/04/2026 - 22:25:29 (-3 TMZ) | 09:02:50:29 (Artemis Clock) | two to three minutes.
+10/04/2026 - 22:25:38 (-3 TMZ) | 09:02:50:38 (Artemis Clock) | And then we'll be back here on the ship.
+10/04/2026 - 22:25:41 (-3 TMZ) | 09:02:50:41 (Artemis Clock) | I know.
+10/04/2026 - 22:25:43 (-3 TMZ) | 09:02:50:43 (Artemis Clock) | Okay, saw a thumbs up.
+10/04/2026 - 22:26:03 (-3 TMZ) | 09:02:51:03 (Artemis Clock) | They're now getting ready to...
+10/04/2026 - 22:26:06 (-3 TMZ) | 09:02:51:06 (Artemis Clock) | deploy what they call the
+10/04/2026 - 22:26:08 (-3 TMZ) | 09:02:51:08 (Artemis Clock) | Air Rescue Vest, ARV.
+10/04/2026 - 22:26:12 (-3 TMZ) | 09:02:51:12 (Artemis Clock) | And so this is the harness that each crew member will get into in order to be hoisted into the helicopters. Again, those helicopters hovering.
+10/04/2026 - 22:26:17 (-3 TMZ) | 09:02:51:17 (Artemis Clock) | just about forty feet above the front porch when they're ready.
+10/04/2026 - 22:26:23 (-3 TMZ) | 09:02:51:23 (Artemis Clock) | to pick up each crew member.
+10/04/2026 - 22:28:04 (-3 TMZ) | 09:02:53:04 (Artemis Clock) | controllers have poured into the flight control room here. This is reminiscent of the scene after the final shuttle mission of STS-135, although that was the end of a program, this is only the beginning of a program with the textbook splashdown of Intrepid.
+10/04/2026 - 22:28:06 (-3 TMZ) | 09:02:53:06 (Artemis Clock) | Integrity and its four astronauts.
+10/04/2026 - 22:28:09 (-3 TMZ) | 09:02:53:09 (Artemis Clock) | We're standing by for the crew to be extracted from the spacecraft.
+10/04/2026 - 22:28:37 (-3 TMZ) | 09:02:53:37 (Artemis Clock) | to have an opportunity to receive well wishes and to share the mutual glow that exists in the wake of a textbook mission for integrity on the front screen here in Mission Control, a sign that says welcome home integrity, taking humanity back to the moon, going further.
+10/04/2026 - 22:28:59 (-3 TMZ) | 09:02:53:59 (Artemis Clock) | re-hoisted onto Navy helicopters for the trip back to the USS John P. Murtha.
+10/04/2026 - 22:30:06 (-3 TMZ) | 09:02:55:06 (Artemis Clock) | missions to the Moon and beyond.
+10/04/2026 - 22:30:09 (-3 TMZ) | 09:02:55:09 (Artemis Clock) | Once again, quite a few flight controllers were invited in by entry flight director Rick Hentling to share in the jubilation.
+10/04/2026 - 22:30:33 (-3 TMZ) | 09:02:55:33 (Artemis Clock) | and 22 minutes ago, as we stand by for the completion of the extraction of the crew, and ultimately their hoisting onto Navy helicopters for a short flight back to the USS John P. Murtha.
+10/04/2026 - 22:31:01 (-3 TMZ) | 09:02:56:01 (Artemis Clock) | said the trajectory of Integrity coming through the Earth's atmosphere was so precise, they've never seen anything line up on a ground track like today's entry by Integrity for its splashdown southwest of San Diego.
+10/04/2026 - 22:31:35 (-3 TMZ) | 09:02:56:35 (Artemis Clock) | And the initial, you can hear it...
+10/04/2026 - 22:31:45 (-3 TMZ) | 09:02:56:45 (Artemis Clock) | Jubilation here in the flight control room. The first crew member is out of Integrity.
+10/04/2026 - 22:32:14 (-3 TMZ) | 09:02:57:14 (Artemis Clock) | We are expecting the other crew members momentarily to be extracted.
+10/04/2026 - 22:32:24 (-3 TMZ) | 09:02:57:24 (Artemis Clock) | We now have two crew members out.
+10/04/2026 - 22:32:53 (-3 TMZ) | 09:02:57:53 (Artemis Clock) | Two crew members out, two to go.
+10/04/2026 - 22:33:27 (-3 TMZ) | 09:02:58:27 (Artemis Clock) | continues to go well. Integrity's systems functioned perfectly during its entry back to Earth.
+10/04/2026 - 22:33:32 (-3 TMZ) | 09:02:58:32 (Artemis Clock) | And Reid Wiseman, the commander who will be last out of the vehicle, reported that all the crew members were feeling very well.
+10/04/2026 - 22:33:54 (-3 TMZ) | 09:02:58:54 (Artemis Clock) | To remember number three now, Alex.
+10/04/2026 - 22:34:23 (-3 TMZ) | 09:02:59:23 (Artemis Clock) | Bobbing in the Pacific under almost ideal conditions, Integrity spanned 694,000 miles during its journey from launch to splashdown.
+10/04/2026 - 22:35:13 (-3 TMZ) | 09:03:00:13 (Artemis Clock) | And we now have Reid Wiseman out of the vehicle. All four crew members now out of Integrity.
+10/04/2026 - 22:36:03 (-3 TMZ) | 09:03:01:03 (Artemis Clock) | Once again, all four crew members now on the front porch, and the procedure to begin hoisting them up to these two Navy helicopters hovering overhead will begin shortly.
+10/04/2026 - 22:38:06 (-3 TMZ) | 09:03:03:06 (Artemis Clock) | We should be expecting NASA's Associate Administrator Ahmed Chitra to be joining us shortly for a short interview while the recovery operations continue out on the Pacific. So we'll stand by for that, and then we'll turn it back over to Megan Cruz aboard the USS John P. Murtha.
+10/04/2026 - 22:40:20 (-3 TMZ) | 09:03:05:20 (Artemis Clock) | This mission that carried four astronauts around the moon on a lunar flyby and the first test flight of Orion with crew members on board. Splashdown occurring an hour and 32 minutes ago after a flawless descent back into the Earth's atmosphere.
+10/04/2026 - 22:40:43 (-3 TMZ) | 09:03:05:43 (Artemis Clock) | time right now on the front porch, as it were, the inflatable raft alongside of their Integrity spacecraft.
+10/04/2026 - 22:42:50 (-3 TMZ) | 09:03:07:50 (Artemis Clock) | This is Mission Control Houston. We're about an hour and thirty-four minutes since the textbook splashdown of Integrity in the Pacific to bring home our astronauts. And with us now is Ahmed Chatteria, the NASA Associate Administrator.
+10/04/2026 - 22:43:18 (-3 TMZ) | 09:03:08:18 (Artemis Clock) | What are your thoughts as this team here basks in the glow of what they just accomplished? Yeah, Rob, we're here in the control center, and it's kind of overrun with jubilant folks in the mission control Houston as well as engineering and folks that just want to be here, part of it, as we watch.
+10/04/2026 - 22:44:03 (-3 TMZ) | 09:03:09:03 (Artemis Clock) | Thanks to the Navy team on the Mertha, which they're just an incredible group of sailors. I was able to visit with them a couple weeks ago. And then if you pull it all the way back to the workers and the folks that joined the rocket at Machu that made the heat shield tiles that held together tonight that, you know, that stacked the vehicle in Florida, that, you know.
+10/04/2026 - 22:44:19 (-3 TMZ) | 09:03:09:19 (Artemis Clock) | Integrated the vehicle in Denver, it fired the engines in Stennis, it fired the boosters in Promontory. I mean, this is the entire team, you know, coming together and being tested by the environment that this machine went through, and they did it right. The work was good. They did it right. You've said in a number of briefings–
+10/04/2026 - 22:44:47 (-3 TMZ) | 09:03:09:47 (Artemis Clock) | Now, it's a little early for the full report card on how integrity did, but did this mission ultimately, from your eyes view, exceed expectations? It absolutely did. I mean, I was waiting to talk about this until we were in the water and, you know, I think we still have, again, work to do to bring it in and really kind of go through it bolt by bolt.
+10/04/2026 - 22:45:16 (-3 TMZ) | 09:03:10:16 (Artemis Clock) | worry about the most and every time we put these machines through these incredibly energetic states that came through. So I'm fairly confident that we made a big step tonight to get us on the path towards the surface. I think the path to the surface is open now. You know, we do have to do all the work, and we'll make sure we talk about that as clearly...
+10/04/2026 - 22:45:39 (-3 TMZ) | 09:03:10:39 (Artemis Clock) | From an American psyche standpoint, the Empire State Building was lit up red, white and blue tonight. Our coverage was seen on baseball stadiums around the major leagues.
+10/04/2026 - 22:45:55 (-3 TMZ) | 09:03:10:55 (Artemis Clock) | How captivating was this experience for the American people, for the world in fact, as we returned to the moon? You know, I have not been able to watch a lot of the coverage as we've progressed through the mission. I will tell you just, you know, from my witness in Florida before launch and then seeing
+10/04/2026 - 22:46:14 (-3 TMZ) | 09:03:11:14 (Artemis Clock) | and the people's faces here and then, you know, reading where I can about how things are going, I think this has been a gift to the world from NASA. NASA's given the world a gift proving to folks all over the place, especially young people, and that, to me, is what this is really about. Young people, when they see what we...
+10/04/2026 - 22:46:36 (-3 TMZ) | 09:03:11:36 (Artemis Clock) | we can do when we work together, when we have teams that collaborate, that, you know, it doesn't matter how hard the problems are, we can solve them. I'm hopeful that Artemis II, as folks witness what we were able to do with this incredible crew, this incredible team that we've birthed into the world, scientists and engineers and artists that have been inspired.
+10/04/2026 - 22:47:10 (-3 TMZ) | 09:03:12:10 (Artemis Clock) | And one final question. You know, flying to the moon, we did it. We've done it again this past week and a half or so. But the engineering that went behind the design of this mission and the precision, the pinpoint precision of this vehicle,
+10/04/2026 - 22:47:49 (-3 TMZ) | 09:03:12:49 (Artemis Clock) | You know, it's interesting. I've got this question a lot over the last few weeks about, you know, we did this, we did this before 53 years ago, and you know, that, I think, I mean it is a reasonable thing to contemplate, like, what's gone on since then, and what I'd tell you is...
+10/04/2026 - 22:48:16 (-3 TMZ) | 09:03:13:16 (Artemis Clock) | learnings that they had, but when we did Apollo, the architects of Apollo, you know, Gilruth, Siemen, von Braun, Mueller, they, what they really, really wanted to do, you know, as they were contemplating what it meant to expand our range of action to the lunar surface, what they wanted to do was learn how to live and work in space for a long time.
+10/04/2026 - 22:48:33 (-3 TMZ) | 09:03:13:33 (Artemis Clock) | They wanted to do that first before they were confident they could expand their range of action to the moon. Now, of course, the politics at the time and the mission at the time was different and so they had to go straight to the moon and bring people home. And then after that, the program kind of lost its momentum. But, you know, after that, NASA kept moving along those paths.
+10/04/2026 - 22:49:11 (-3 TMZ) | 09:03:14:11 (Artemis Clock) | for 25 years how to live and work in space and have been able to develop technologies that can enable exploration. So really, what I think is now, 53 years later, we're at the point where the architects of Apollo would have been pleased that we're now ready to actually go back to the moon and go back to stay because we've learned all the things we needed to learn.
+10/04/2026 - 22:49:33 (-3 TMZ) | 09:03:14:33 (Artemis Clock) | NASA's associate administrator as we begin to hoist the crew onto the helicopters to head back to the recovery ship. Thank you very much and congratulations on it.
+10/04/2026 - 22:50:07 (-3 TMZ) | 09:03:15:07 (Artemis Clock) | From control Houston, with the crew members now beginning to be hoisted aboard the Navy helicopters, let's go to Megan Cruz aboard the USS John P. Murtha, who will take it from here.
+10/04/2026 - 22:50:34 (-3 TMZ) | 09:03:15:34 (Artemis Clock) | the first astronaut. Helo 2 now hovering just 40 feet.
+10/04/2026 - 22:50:36 (-3 TMZ) | 09:03:15:36 (Artemis Clock) | Above the front porch, lowering...
+10/04/2026 - 22:50:56 (-3 TMZ) | 09:03:15:56 (Artemis Clock) | The crew members are already outfitted with a harness that will allow them to quickly attach.
+10/04/2026 - 22:50:59 (-3 TMZ) | 09:03:15:59 (Artemis Clock) | to the hoisting device.
+10/04/2026 - 22:51:08 (-3 TMZ) | 09:03:16:08 (Artemis Clock) | Look at the power of those blades.
+10/04/2026 - 22:51:10 (-3 TMZ) | 09:03:16:10 (Artemis Clock) | throwing water out, up center there, the front porch.
+10/04/2026 - 22:51:14 (-3 TMZ) | 09:03:16:14 (Artemis Clock) | with now three astronauts and the recovery specialists.
+10/04/2026 - 22:51:36 (-3 TMZ) | 09:03:16:36 (Artemis Clock) | Best
+10/04/2026 - 22:51:38 (-3 TMZ) | 09:03:16:38 (Artemis Clock) | And here we go.
+10/04/2026 - 22:51:41 (-3 TMZ) | 09:03:16:41 (Artemis Clock) | Second astronaut now off the front porch, getting hoisted into the second helicopter.
+10/04/2026 - 22:51:47 (-3 TMZ) | 09:03:16:47 (Artemis Clock) | That helicopter will now...
+10/04/2026 - 22:51:53 (-3 TMZ) | 09:03:16:53 (Artemis Clock) | Hover just a distance away to give room for the first helicopter to come back and pick up the third astronaut.
+10/04/2026 - 22:52:04 (-3 TMZ) | 09:03:17:04 (Artemis Clock) | As we wait for that helicopter to come back, make its way back around.
+10/04/2026 - 22:52:26 (-3 TMZ) | 09:03:17:26 (Artemis Clock) | live on our coverage and congratulated him and NASA.
+10/04/2026 - 22:52:28 (-3 TMZ) | 09:03:17:28 (Artemis Clock) | on this history-making moment tonight.
+10/04/2026 - 22:52:32 (-3 TMZ) | 09:03:17:32 (Artemis Clock) | Helicopter One again hovering forty feet.
+10/04/2026 - 22:52:34 (-3 TMZ) | 09:03:17:34 (Artemis Clock) | over the front porch.
+10/04/2026 - 22:52:38 (-3 TMZ) | 09:03:17:38 (Artemis Clock) | We will soon see another recovery specialist getting
+10/04/2026 - 22:52:40 (-3 TMZ) | 09:03:17:40 (Artemis Clock) | Lowered onto the front porch.
+10/04/2026 - 22:52:43 (-3 TMZ) | 09:03:17:43 (Artemis Clock) | Wow, imagine sitting on that front porch, the wind, the water.
+10/04/2026 - 22:52:49 (-3 TMZ) | 09:03:17:49 (Artemis Clock) | But again, the recovery team determines that...
+10/04/2026 - 22:53:11 (-3 TMZ) | 09:03:18:11 (Artemis Clock) | and more comfortable for our crew, who just completed a ten-day mission around the Moon.
+10/04/2026 - 22:53:16 (-3 TMZ) | 09:03:18:16 (Artemis Clock) | Third astronaut in the air, getting hoisted quickly back into the first helicopter now.
+10/04/2026 - 22:53:33 (-3 TMZ) | 09:03:18:33 (Artemis Clock) | That first helicopter now on its way back to the ship here. We will soon see it land in just a few minutes. Again, all this action happening just 3,000 yards away from us, so a very quick flight back to the flight deck.
+10/04/2026 - 22:53:56 (-3 TMZ) | 09:03:18:56 (Artemis Clock) | That second helicopter now making its way.
+10/04/2026 - 22:53:58 (-3 TMZ) | 09:03:18:58 (Artemis Clock) | Back over to the front porch.
+10/04/2026 - 22:54:02 (-3 TMZ) | 09:03:19:02 (Artemis Clock) | Here it comes.
+10/04/2026 - 22:54:44 (-3 TMZ) | 09:03:19:44 (Artemis Clock) | The last astronaut, Commander Reid Wiseman.
+10/04/2026 - 22:54:50 (-3 TMZ) | 09:03:19:50 (Artemis Clock) | Now off the front porch and almost into the second helicopter.
+10/04/2026 - 22:55:11 (-3 TMZ) | 09:03:20:11 (Artemis Clock) | Just west of San Diego and the Pacific Ocean.
+10/04/2026 - 22:55:33 (-3 TMZ) | 09:03:20:33 (Artemis Clock) | Exciting to see our four crew members.
+10/04/2026 - 22:55:35 (-3 TMZ) | 09:03:20:35 (Artemis Clock) | Minutes away from landing on the flight deck here on the recovery ship.
+10/04/2026 - 22:55:38 (-3 TMZ) | 09:03:20:38 (Artemis Clock) | five hundred fifty people.
+10/04/2026 - 22:55:41 (-3 TMZ) | 09:03:20:41 (Artemis Clock) | On this ship...
+10/04/2026 - 22:55:43 (-3 TMZ) | 09:03:20:43 (Artemis Clock) | Excited, ready, anxious, looking forward to welcoming this crew aboard.
+10/04/2026 - 22:56:08 (-3 TMZ) | 09:03:21:08 (Artemis Clock) | here?
+10/04/2026 - 22:56:10 (-3 TMZ) | 09:03:21:10 (Artemis Clock) | hearing them begin to hover.
+10/04/2026 - 22:56:12 (-3 TMZ) | 09:03:21:12 (Artemis Clock) | On the flight deck, which is just across from us, here on the bow.
+10/04/2026 - 22:56:19 (-3 TMZ) | 09:03:21:19 (Artemis Clock) | The first helicopter coming in.
+10/04/2026 - 22:56:43 (-3 TMZ) | 09:03:21:43 (Artemis Clock) | And wheels down.
+10/04/2026 - 22:57:03 (-3 TMZ) | 09:03:22:03 (Artemis Clock) | Tina Cook.
+10/04/2026 - 22:57:07 (-3 TMZ) | 09:03:22:07 (Artemis Clock) | Hilo One on deck reported on the recovery loop, again the mission audio loops.
+10/04/2026 - 22:57:27 (-3 TMZ) | 09:03:22:27 (Artemis Clock) | coming.
+10/04/2026 - 22:57:30 (-3 TMZ) | 09:03:22:30 (Artemis Clock) | Two more helicopters on their way to the flight deck, one carrying the crew, the other one of our imagery helicopters.
+10/04/2026 - 22:57:34 (-3 TMZ) | 09:03:22:34 (Artemis Clock) | Again, kudos to our imagery and aerial teams for giving us these beautiful views.
+10/04/2026 - 22:57:36 (-3 TMZ) | 09:03:22:36 (Artemis Clock) | of history in the making.
+10/04/2026 - 22:57:39 (-3 TMZ) | 09:03:22:39 (Artemis Clock) | Set amid a gorgeous...
+10/04/2026 - 22:57:45 (-3 TMZ) | 09:03:22:45 (Artemis Clock) | Soon to be sunset here in the Pacific Ocean.
+10/04/2026 - 22:57:56 (-3 TMZ) | 09:03:22:56 (Artemis Clock) | Second helicopter.
+10/04/2026 - 22:58:01 (-3 TMZ) | 09:03:23:01 (Artemis Clock) | making its approach of the flight deck.
+10/04/2026 - 22:58:08 (-3 TMZ) | 09:03:23:08 (Artemis Clock) | Plenty of people here on the bow with their cell phones out.
+10/04/2026 - 22:58:11 (-3 TMZ) | 09:03:23:11 (Artemis Clock) | Filming this moment?
+10/04/2026 - 22:58:41 (-3 TMZ) | 09:03:23:41 (Artemis Clock) | Impressive flying here by the Navy.
+10/04/2026 - 22:58:44 (-3 TMZ) | 09:03:23:44 (Artemis Clock) | As we are seconds away from wheels down.
+10/04/2026 - 22:59:04 (-3 TMZ) | 09:03:24:04 (Artemis Clock) | I'm sure they're happy to be out of the water.
+10/04/2026 - 22:59:06 (-3 TMZ) | 09:03:24:06 (Artemis Clock) | And on this recovery ship, with again 550 people onboard.
+10/04/2026 - 22:59:09 (-3 TMZ) | 09:03:24:09 (Artemis Clock) | Ready to welcome them home.
+10/04/2026 - 22:59:20 (-3 TMZ) | 09:03:24:20 (Artemis Clock) | But first, as we've been saying throughout the broadcast, just making sure the crew feel good.
+10/04/2026 - 22:59:44 (-3 TMZ) | 09:03:24:44 (Artemis Clock) | Their destination tonight: the medical bay here.
+10/04/2026 - 22:59:46 (-3 TMZ) | 09:03:24:46 (Artemis Clock) | On the ship?
+10/04/2026 - 22:59:48 (-3 TMZ) | 09:03:24:48 (Artemis Clock) | Right after
+10/04/2026 - 22:59:50 (-3 TMZ) | 09:03:24:50 (Artemis Clock) | We power down the helicopters here.
+10/04/2026 - 22:59:53 (-3 TMZ) | 09:03:24:53 (Artemis Clock) | The team on the flight deck.
+10/04/2026 - 23:00:04 (-3 TMZ) | 09:03:25:04 (Artemis Clock) | working quickly but methodically.
+10/04/2026 - 23:00:26 (-3 TMZ) | 09:03:25:26 (Artemis Clock) | We're waiting for just one more helicopter to touch down.
+10/04/2026 - 23:00:49 (-3 TMZ) | 09:03:25:49 (Artemis Clock) | As that third helicopter touches down.
+10/04/2026 - 23:01:16 (-3 TMZ) | 09:03:26:16 (Artemis Clock) | While just a few folks on the flight deck itself, there are plenty more on some upper decks. You're seeing some of our views.
+10/04/2026 - 23:01:38 (-3 TMZ) | 09:03:26:38 (Artemis Clock) | made over the ship's loudspeaker system reminding folks to stay clear of operational areas like the flight deck.
+10/04/2026 - 23:01:43 (-3 TMZ) | 09:03:26:43 (Artemis Clock) | so that teams can work quickly to get the crew off of the helicopters and into the medical bay.
+10/04/2026 - 23:02:05 (-3 TMZ) | 09:03:27:05 (Artemis Clock) | Splashdown today, 5:06 p.m. Pacific Time.
+10/04/2026 - 23:02:08 (-3 TMZ) | 09:03:27:08 (Artemis Clock) | We are within two hours.
+10/04/2026 - 23:02:12 (-3 TMZ) | 09:03:27:12 (Artemis Clock) | We have that splashdown time, and already we have all four crew members on the flight deck of the USS John P. Murtha.
+10/04/2026 - 23:02:24 (-3 TMZ) | 09:03:27:24 (Artemis Clock) | Again, crew waiting.
+10/04/2026 - 23:02:28 (-3 TMZ) | 09:03:27:28 (Artemis Clock) | Before getting out, for the helicopters to completely shut down.
+10/04/2026 - 23:02:34 (-3 TMZ) | 09:03:27:34 (Artemis Clock) | Safety, of course, very important to NASA and the U.S. military.
+10/04/2026 - 23:02:56 (-3 TMZ) | 09:03:27:56 (Artemis Clock) | and it's here before we start seeing crew members.
+10/04/2026 - 23:03:00 (-3 TMZ) | 09:03:28:00 (Artemis Clock) | Walk off the helicopters one by one.
+10/04/2026 - 23:03:34 (-3 TMZ) | 09:03:28:34 (Artemis Clock) | Ready.
+10/04/2026 - 23:04:34 (-3 TMZ) | 09:03:29:34 (Artemis Clock) | All right, and now here we see pilot Victor Glover.
+10/04/2026 - 23:04:39 (-3 TMZ) | 09:03:29:39 (Artemis Clock) | And Mission Specialist Christina Koch sitting on the edge.
+10/04/2026 - 23:04:45 (-3 TMZ) | 09:03:29:45 (Artemis Clock) | One of the helicopters looking in great spirits.
+10/04/2026 - 23:04:56 (-3 TMZ) | 09:03:29:56 (Artemis Clock) | That familiar smile and laugh from Victor, I can see it from here. Christina, I'm sure, feeling the same way, just blocked a little bit by our camera here, but we'll see her here shortly.
+10/04/2026 - 23:05:02 (-3 TMZ) | 09:03:30:02 (Artemis Clock) | a photographer taking their pictures.
+10/04/2026 - 23:05:25 (-3 TMZ) | 09:03:30:25 (Artemis Clock) | If you're sitting at home, I hope you too are wondering what would you want to ask them if you got a chance to talk to them, because that is what I'm thinking about.
+10/04/2026 - 23:05:46 (-3 TMZ) | 09:03:30:46 (Artemis Clock) | as the first crew to return to the Moon.
+10/04/2026 - 23:05:48 (-3 TMZ) | 09:03:30:48 (Artemis Clock) | Since 1972.
+10/04/2026 - 23:05:58 (-3 TMZ) | 09:03:30:58 (Artemis Clock) | Oh, there we see Christina there, also smiling, finally peering out, waving at the cameras. Hello to you too, Christina, yes.
+10/04/2026 - 23:06:04 (-3 TMZ) | 09:03:31:04 (Artemis Clock) | Welcome back. Welcome, welcome home.
+10/04/2026 - 23:06:10 (-3 TMZ) | 09:03:31:10 (Artemis Clock) | a loudspeaker announcement on the ship saying, "Welcome home, Integrity."
+10/04/2026 - 23:06:15 (-3 TMZ) | 09:03:31:15 (Artemis Clock) | И
+10/04/2026 - 23:06:39 (-3 TMZ) | 09:03:31:39 (Artemis Clock) | Shouting from across the flight deck, congratulations to one another.
+10/04/2026 - 23:07:01 (-3 TMZ) | 09:03:32:01 (Artemis Clock) | Walking up to the helicopter.
+10/04/2026 - 23:07:03 (-3 TMZ) | 09:03:32:03 (Artemis Clock) | This is again the first helicopter carrying pilot Victor Glover and mission specialist Christina Koch.
+10/04/2026 - 23:07:06 (-3 TMZ) | 09:03:32:06 (Artemis Clock) | Both have taken off their helmets now.
+10/04/2026 - 23:07:34 (-3 TMZ) | 09:03:32:34 (Artemis Clock) | A beautiful sunset just behind them here in the Pacific Ocean.
+10/04/2026 - 23:07:37 (-3 TMZ) | 09:03:32:37 (Artemis Clock) | Golden hour. These pictures will be beautiful.
+10/04/2026 - 23:07:43 (-3 TMZ) | 09:03:32:43 (Artemis Clock) | Now we see
+10/04/2026 - 23:07:58 (-3 TMZ) | 09:03:32:58 (Artemis Clock) | NASA Administrator Jared Isaacman, he is on the flight deck, as well as Flight Surgeon Rick Scheuring, walking over to Victor and Christina first. We saw the administrator walk over to the other helicopter, which is carrying Commander Reid Wiseman and Mission Specialist Jeremy Hansen.
+10/04/2026 - 23:08:04 (-3 TMZ) | 09:03:33:04 (Artemis Clock) | We heard from Rick earlier in the broadcast and he said he's going to be out there on the flight deck.
+10/04/2026 - 23:08:09 (-3 TMZ) | 09:03:33:09 (Artemis Clock) | to do another initial assessment of the crew, ask them how they're feeling.
+10/04/2026 - 23:08:31 (-3 TMZ) | 09:03:33:31 (Artemis Clock) | Seeing, they look like they're in great spirits and feeling pretty good.
+10/04/2026 - 23:08:33 (-3 TMZ) | 09:03:33:33 (Artemis Clock) | For folks who just traveled.
+10/04/2026 - 23:08:35 (-3 TMZ) | 09:03:33:35 (Artemis Clock) | 695,000 miles from Florida to the moon and now here to the Pacific Ocean.
+10/04/2026 - 23:09:12 (-3 TMZ) | 09:03:34:12 (Artemis Clock) | We're now seeing NASA administrator Jared Isaacman walking across the flight deck. He had been talking to Reed and Jeremy, now approaching Victor and Christina. A hug from Victor, a hug from Christina. What a moment that we're getting to experience together.
+10/04/2026 - 23:09:35 (-3 TMZ) | 09:03:34:35 (Artemis Clock) | He said the kid in him right now, giddy, absolutely giddy.
+10/04/2026 - 23:09:40 (-3 TMZ) | 09:03:34:40 (Artemis Clock) | at what we were able to accomplish today.
+10/04/2026 - 23:09:43 (-3 TMZ) | 09:03:34:43 (Artemis Clock) | returning them home safely and in good spirits after a ten-day mission around the moon.
+10/04/2026 - 23:09:46 (-3 TMZ) | 09:03:34:46 (Artemis Clock) | And here we go.
+10/04/2026 - 23:09:48 (-3 TMZ) | 09:03:34:48 (Artemis Clock) | We're seeing Jeremy.
+10/04/2026 - 23:10:08 (-3 TMZ) | 09:03:35:08 (Artemis Clock) | It's a short walk.
+10/04/2026 - 23:10:11 (-3 TMZ) | 09:03:35:11 (Artemis Clock) | Less than a minute. Again, that's why the recovery team decided to use helicopters to get them on the flight deck.
+10/04/2026 - 23:10:16 (-3 TMZ) | 09:03:35:16 (Artemis Clock) | for that short walk to medical bay.
+10/04/2026 - 23:10:21 (-3 TMZ) | 09:03:35:21 (Artemis Clock) | And now on the flight deck we see...
+10/04/2026 - 23:10:27 (-3 TMZ) | 09:03:35:27 (Artemis Clock) | The chief of the astronaut office, Scott Tingle.
+10/04/2026 - 23:10:32 (-3 TMZ) | 09:03:35:32 (Artemis Clock) | Rick Scharring, switching places, he's going over to the other helicopter. Big hugs, big hugs.
+10/04/2026 - 23:10:35 (-3 TMZ) | 09:03:35:35 (Artemis Clock) | From Victor Cristina.
+10/04/2026 - 23:10:37 (-3 TMZ) | 09:03:35:37 (Artemis Clock) | to Scott.
+10/04/2026 - 23:10:46 (-3 TMZ) | 09:03:35:46 (Artemis Clock) | Again, a gorgeous sunset setting the stage for this recovery tonight.
+10/04/2026 - 23:11:07 (-3 TMZ) | 09:03:36:07 (Artemis Clock) | All right.
+10/04/2026 - 23:11:09 (-3 TMZ) | 09:03:36:09 (Artemis Clock) | And now here we are, Christina.
+10/04/2026 - 23:11:11 (-3 TMZ) | 09:03:36:11 (Artemis Clock) | making her way
+10/04/2026 - 23:11:14 (-3 TMZ) | 09:03:36:14 (Artemis Clock) | Looking thankful, grateful, happy to be home.
+10/04/2026 - 23:11:22 (-3 TMZ) | 09:03:36:22 (Artemis Clock) | You can see she's looking up again, lots of people just a few levels up off the flight deck.
+10/04/2026 - 23:11:25 (-3 TMZ) | 09:03:36:25 (Artemis Clock) | welcoming her home.
+10/04/2026 - 23:11:28 (-3 TMZ) | 09:03:36:28 (Artemis Clock) | Scott holding the door like a gentleman, but back on his way.
+10/04/2026 - 23:11:34 (-3 TMZ) | 09:03:36:34 (Artemis Clock) | to the other crew still on the flight deck.
+10/04/2026 - 23:12:01 (-3 TMZ) | 09:03:37:01 (Artemis Clock) | So still on the flight deck.
+10/04/2026 - 23:12:03 (-3 TMZ) | 09:03:37:03 (Artemis Clock) | Victor Glover.
+10/04/2026 - 23:12:05 (-3 TMZ) | 09:03:37:05 (Artemis Clock) | and Reid Wiseman.
+10/04/2026 - 23:12:08 (-3 TMZ) | 09:03:37:08 (Artemis Clock) | It looks like Victor will be the next one headed to medical bay.
+10/04/2026 - 23:12:11 (-3 TMZ) | 09:03:37:11 (Artemis Clock) | More hugs, more hugs. He's a hugger.
+10/04/2026 - 23:12:14 (-3 TMZ) | 09:03:37:14 (Artemis Clock) | Victor looking good as he walks across the flight deck.
+10/04/2026 - 23:12:19 (-3 TMZ) | 09:03:37:19 (Artemis Clock) | NASA Administrator applauding.
+10/04/2026 - 23:12:25 (-3 TMZ) | 09:03:37:25 (Artemis Clock) | Victor applauding.
+10/04/2026 - 23:12:31 (-3 TMZ) | 09:03:37:31 (Artemis Clock) | for all the folks on the ship with him who played a role in their safe return today.
+10/04/2026 - 23:12:58 (-3 TMZ) | 09:03:37:58 (Artemis Clock) | And finally, just one Artemis II crew member.
+10/04/2026 - 23:13:01 (-3 TMZ) | 09:03:38:01 (Artemis Clock) | Left on the flight deck.
+10/04/2026 - 23:13:03 (-3 TMZ) | 09:03:38:03 (Artemis Clock) | Commander Reid Wiseman.
+10/04/2026 - 23:13:23 (-3 TMZ) | 09:03:38:23 (Artemis Clock) | Applause from the group there on the flight deck, I'm sure as well as...
+10/04/2026 - 23:13:26 (-3 TMZ) | 09:03:38:26 (Artemis Clock) | On the level just above them, packed with people.
+10/04/2026 - 23:13:31 (-3 TMZ) | 09:03:38:31 (Artemis Clock) | Breed looking good as he takes his steps towards the medical bay.
+10/04/2026 - 23:13:53 (-3 TMZ) | 09:03:38:53 (Artemis Clock) | See our four Artemis II crew members back on the ship. Again, now they will head into medical bay.
+10/04/2026 - 23:13:58 (-3 TMZ) | 09:03:38:58 (Artemis Clock) | where they will be assessed by
+10/04/2026 - 23:14:00 (-3 TMZ) | 09:03:39:00 (Artemis Clock) | flight surgeons from both NASA as well as the Canadian Space Agency.
+10/04/2026 - 23:14:04 (-3 TMZ) | 09:03:39:04 (Artemis Clock) | a more in-depth assessment.
+10/04/2026 - 23:14:09 (-3 TMZ) | 09:03:39:09 (Artemis Clock) | When they get to Medical Bay, they will each have their own nurse, they will be helped out of their suits.
+10/04/2026 - 23:14:15 (-3 TMZ) | 09:03:39:15 (Artemis Clock) | And then again, we'll
+10/04/2026 - 23:14:36 (-3 TMZ) | 09:03:39:36 (Artemis Clock) | a long journey back from the moon.
+10/04/2026 - 23:14:38 (-3 TMZ) | 09:03:39:38 (Artemis Clock) | Beautiful shot of that sunset.
+10/04/2026 - 23:14:46 (-3 TMZ) | 09:03:39:46 (Artemis Clock) | illuminating our flight deck.
+10/04/2026 - 23:15:13 (-3 TMZ) | 09:03:40:13 (Artemis Clock) | I want to welcome on Artemis Recovery Director Lily Villarreal. Lily, I don't know how you must be feeling right now, ecstatic, relieved. I am so ecstatic, relieved. Of course, we still have to bring the capsule into the well deck of the ship, but this is a major milestone to have the crew here.
+10/04/2026 - 23:15:46 (-3 TMZ) | 09:03:40:46 (Artemis Clock) | We were able to have great conversations and communications about everything. And I don't know what else to say. I'm just so excited. It's such a wonderful feeling to get to this point. Again, we still have to get the capsule, but this is...
+10/04/2026 - 23:16:17 (-3 TMZ) | 09:03:41:17 (Artemis Clock) | When we get the capsule back in and I'm so happy that the crew is doing well. Ryan is doing well. And, you know, thank you for, you know, for everybody watching. Yeah, yeah, it was great to watch the crew come back to the ship with you. How were you feeling when you were seeing them looking so happy?
+10/04/2026 - 23:16:33 (-3 TMZ) | 09:03:41:33 (Artemis Clock) | so happy to be home and feeling really good. You know, the funny thing is is that we had video of them from inside the the um Orion vehicle. They were like that from the beginning. When we opened the hatch, they were already out of their seats having a good time, waiting for us to open the hatch.
+10/04/2026 - 23:17:01 (-3 TMZ) | 09:03:42:01 (Artemis Clock) | I'm with the medical team that was inside the capsule. I think they were all taking selfies with the, you know, the phones that they have, probably talking about what they saw. And it was just smiles all around. They were having such a great time. And then we put them on the front porch when we were ready to put them in the front.
+10/04/2026 - 23:17:28 (-3 TMZ) | 09:03:42:28 (Artemis Clock) | You can see all of that in the control room of the LFOC. How remarkable is that again, if we think about their journey, the 695,000-mile journey around the moon and back, coming back at 30 times faster than the speed of sound, I mean, how remarkable is it that they are in such good spirits? I mean...
+10/04/2026 - 23:17:56 (-3 TMZ) | 09:03:42:56 (Artemis Clock) | videos and pictures that they have that, you know, we'll get a hold of now that they're back on the ground. And I can't wait to hear how, you know, a little more than what we saw on the press briefings from the crew about what they saw. It's just fantastic. You know, some of my favorite people.
+10/04/2026 - 23:18:24 (-3 TMZ) | 09:03:43:24 (Artemis Clock) | when they heard all the discussions about the moon. This is exactly how we feel now in the Lunar Recovery Team. We're so ecstatic. Again, we have to recover the capsule. I want to make sure we don't forget about our Orion. Lily is all about business. She's thinking about what's next. But yes, speaking of these 10 days, I mean, we have...
+10/04/2026 - 23:18:53 (-3 TMZ) | 09:03:43:53 (Artemis Clock) | that we've gotten from around the world, what do you hope people take away from this mission? I think that's fantastic. So, you know, my story was that I went to the Kennedy Space Center. I'm actually, I was born in Colombia. I was 10 years old when we moved to the United States. But when I was seven, my family took me to the visitor center.
+10/04/2026 - 23:19:21 (-3 TMZ) | 09:03:44:21 (Artemis Clock) | and want to be an astronaut, and I think that this Artemis program is going to do exactly what, you know, what girls, you know, my age back then of seven, young people right now, girls and even like young men, obviously, but we're...
+10/04/2026 - 23:19:48 (-3 TMZ) | 09:03:44:48 (Artemis Clock) | If I did it, they can do it. And Artemis program's just gonna inspire everybody. And I'm so happy about that. Like Apollo inspired me. Thank you so much, Lily. Really appreciate you being here. As you said, still a lot of work to do, five to six more hours to recover Orion, that's still out in the water. So I'll let you get back to work.
+10/04/2026 - 23:19:55 (-3 TMZ) | 09:03:44:55 (Artemis Clock) | But you had beautiful words to say. Again, we hope that this inspires people. We hope that you come and join us at NASA and accomplish great things with us in the future. Back to you, Rob.
+10/04/2026 - 23:20:22 (-3 TMZ) | 09:03:45:22 (Artemis Clock) | Perfect. Here in Mission Control, it is now all quiet. The team of flight controllers and all their support personnel have left the room to enjoy the aftermath of a textbook touchdown by Integrity that splashed down.
+10/04/2026 - 23:20:55 (-3 TMZ) | 09:03:45:55 (Artemis Clock) | central time, 10:35 p.m. eastern time, where managers will discuss the return of the integrity spacecraft and the completion of the Artemis II mission. With that, we'll wrap up our coverage for this evening and historic mission in the history books. This is mission
+10/04/2026 - 23:21:00 (-3 TMZ) | 09:03:46:00 (Artemis Clock) | Control Houston.
+10/04/2026 - 23:21:23 (-3 TMZ) | 09:03:46:23 (Artemis Clock) | And we have three good main shoes.
+10/04/2026 - 23:21:29 (-3 TMZ) | 09:03:46:29 (Artemis Clock) | Houston integrity, splashdown, sending post-landing command now. Splashdown confirmed. Copy splashdown, waiting on VLDR. Splashdown confirmed at 7:07 p.m. Central Time, 5:07 p.m. Pacific Time.
