@@ -1,0 +1,11 @@
+10/04/2026 - 19:40:06 (-3 TMZ) | 09:00:05:06 (Artemis Clock) | Integridad, las maniobras Starfield comenzarán en un minuto y medio.
+10/04/2026 - 19:40:10 (-3 TMZ) | 09:00:05:10 (Artemis Clock) | Integridad.
+10/04/2026 - 19:46:55 (-3 TMZ) | 09:00:11:55 (Artemis Clock) | Houston Integridad, hemos completado el acoplamiento de los trajes.
+10/04/2026 - 19:46:58 (-3 TMZ) | 09:00:11:58 (Artemis Clock) | Houston copia.
+10/04/2026 - 19:48:30 (-3 TMZ) | 09:00:13:30 (Artemis Clock) | para estado.
+10/04/2026 - 19:48:33 (-3 TMZ) | 09:00:13:33 (Artemis Clock) | Adelante.
+10/04/2026 - 19:48:37 (-3 TMZ) | 09:00:13:37 (Artemis Clock) | C3 y 4 están conectando umbilicales. Vamos a entrar pronto en la comprobación de fugas. Uno y dos estarán sentados. Tres y cuatro estarán en flotación libre, y luego configuraremos EPROC en consecuencia.
+10/04/2026 - 19:48:42 (-3 TMZ) | 09:00:13:42 (Artemis Clock) | ¿Houston copia todo?
+10/04/2026 - 19:55:39 (-3 TMZ) | 09:00:20:39 (Artemis Clock) | Houston Integridad, la comprobación de fugas de los cuatro asientos está completa.
+10/04/2026 - 19:56:01 (-3 TMZ) | 09:00:21:01 (Artemis Clock) | Mientras estaban ocupados, se habilitaron las salidas BFF.
+10/04/2026 - 19:56:04 (-3 TMZ) | 09:00:21:04 (Artemis Clock) | Vimos que se habilitaron a bordo.
